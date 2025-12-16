@@ -1,0 +1,21 @@
+Text_ID,Country,Recording_Date,Transcription_Date,E_sex,E_age_group,E_age,E_education,E_occupation,E_origin_city,E_origin_state,E_origin_country,I_sex,I_age_group,I_age,I_education,I_occupation,I_origin_city,I_origin_state,I_origin_country
+ALCA_H11_037,Spain,1998-06-25,2011-03-23,M,3,,High,Professor,,,Spain,M,2,33,Low,Retail,Guadalajara ,Castilla-La Mancha,Spain
+GUAD_H11_086,Mexico,2017-10-02,2017-11-08,F,1,21,High,Student,Tlaquepaque,Jalisco,Mexico,M,1,23,Low,Car cleaner,Guadalajara ,Jalisco,Mexico
+ALCA_H12_019,Spain,1991-04-10,2011-04-13,M,2,,Low,Mechanic,,,Spain,M,1,25,Medium,Student,Madrid,Madrid,Spain
+GUAD_H12_098,Mexico,2019-10-20,2020-02-28,F,1,20,Medium,Retail,Guadalajara,Jalisco,Mexico,M,1,21,High,Student,Autlán de Navarro,Jalisco,Mexico
+ALCA_H13_001,Spain,1991-03-15,2011-03-15,N,2,42,Low,Mechanic,,,Spain,M,1,32,High,Legal Advisor,Alcalá de Henares,Madrid,Spain
+GUAD_H13_014,Mexico,2016-02-12,2016-03-02,F,1,20,High,Student,Guadalajara,Jalisco,Mexico,M,1,25,High,Student,Guadalajara ,Jalisco,Mexico
+ALCA_H21_043,Spain,1991-05-03,2011-08-10,M,2,,Low,Construction,,,Spain,M,2,42,Low,,Alcalá de Henares,Madrid,Spain
+GUAD_H21_060,Mexico,2016-09-06,2016-09-20,F,1,29,High,Student,Guadalajara,Jalisco,Mexico,M,2,44,Low,Construction,Guadalajara ,Jalisco,Mexico
+GRAN_M21_046,Spain,2006-10-09,2009-02-12,F,2,43,High,Teacher,Granada,Andalusia,Spain,F,2,35,Low,Cleaner,Granada,Andalusia,Spain
+GUAD_H22_002,Mexico,2016-02-16,,M,1,26,High,Student,Guadalajara,Jalisco,Mexico,M,2,46,Medium,Retail,Guadalajara ,Jalisco,Mexico
+MADR_H11_002,Spain,2002-05-08,2008-12-04,M,2,44,High,Professor,Toledo,Castilla-La Mancha,Spain,M,1,20,Low,Military,Madrid,Madrid,Spain
+MEXI_H11_078,Mexico,2007-04-20,2007-09-11,M,1,24,High,Student,Mexico City,,Mexico,M,1,27,Low,Waiter,Mexico City,,Mexico
+MADR_H12_007,Spain,2001-11-28,2012-07-11,M,2,43,High,Professor,Toledo,Castilla-La Mancha,Spain,M,1,33,Medium,Teacher,Madrid,Madrid,Spain
+MEXI_H12_042,Mexico,2006-04-17,2006-07-07,F,1,24,High,Student,Mexico City,,Mexico,M,1,20,Medium,Student,Mexico City,,Mexico
+MADR_H13_013,Spain,2001-06-01,2008-02-27,M,2,43,High,Professor,Toledo,Castilla-La Mancha,Spain,M,1,29,High,Lawyer,Madrid,Madrid,Spain
+MEXI_H13_006,Mexico,2001-11-22,2005-04-11,F,1,24,High,Student,Mexico City,,Mexico,M,1,29,High,Architect,Mexico City,,Mexico
+BCN_H12_037,Spain,2008-02-03,2008-02-03,F,1,24,High,Student,Barcelona,Catalonia,Spain,M,1,22,Medium,Mechanic,Barcelona,Catalonia,Spain
+MONR_H12_016,Mexico,2007-10-23,2008-06-17,M,2,52,High,Banking,Monterrey,Nuevo León,Mexico,M,1,22,Medium,Librarian,Monterrey,Nuevo León,Mexico
+BARC_H13_002,Spain,2006-07-12,2006-11-25,M,2,39,High,Professor,Barcelona,Catalonia,Spain,M,1,24,High,Student,Barcelona,Catalonia,Spain
+MONR_H13_025,Mexico,2007-10-20,2009-11-17,M,2,52,High,Banking,Monterrey,Nuevo León,Mexico,M,1,30,High,Student,Monterrey,Nuevo León,Mexico
