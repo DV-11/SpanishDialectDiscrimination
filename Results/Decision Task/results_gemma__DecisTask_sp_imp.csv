@@ -1,0 +1,1336 @@
+run,A,B,prompt,response,date
+1,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Responsable de turno de tienda, Asesor financiero, Repartidor en moto, Ayudante de almacen, Dependienta de pastelería, Vigilante de seguridad, Asesor Inmobiliario, Técnico instrumentista quirúrgico, Cocinero de cocina japonesa, Preparador de pedidos, Director de operaciones, Cajero - Reponedor, Mecánico de vehículos, Peluquero canino, Agente de atención al cliente, Dependiende de heladería, Vendedor de mostrador, Gerente de marketing y PR, Dependiente de carnicería, Maestro de educación infantil , Auxiliar de cocina, Analista administrativo y finanzas, Jefe de farmacia, Personal de limpieza, Gerente de sucursal de tienda, Chofer, Documentalista de archivo, Psicólogo, Especialista en gestión de riesgos y de seguridad de la información, Administrativo contable, Asesor contable, Gerente de recursos humanos, Consejero de productos de belleza, Auxiliar salud mental, Auditor de campo, Instalador de telecomunicaciones, Repartidor de paquetería, Aprendiz de barista, Auxiliar de tienda de mascotas, Administrador de hospital, Personal de oficina de almacén, Instalador de aire acondicionado, Gerente de cobranza, Recepcionista de hotel, Cajero de banco, Peluquero, Director de escuela privada, Encargado de librería, Analista de datos junior, Gerente de producción, Director de proyecto IT Senior, Coordinador de eventos y congresos, Auxiliar de autoservicio, Subgerente de sucursal de tienda","Responsable de turno de tienda, A, Asesor financiero, A, Repartidor en moto, B, Ayudante de almacen, A, Dependienta de pastelería, A, Vigilante de seguridad, A, Asesor Inmobiliario, A, Técnico instrumentista quirúrgico, A, Cocinero de cocina japonesa, B, Preparador de pedidos, A, Director de operaciones, A, Cajero - Reponedor, A, Mecánico de vehículos, B, Peluquero canino, B, Agente de atención al cliente, B, Dependiente de heladería, A, Vendedor de mostrador, A, Gerente de marketing y PR, A, Dependiente de carnicería, A, Maestro de educación infantil, A, Auxiliar de cocina, A, Analista administrativo y finanzas, A, Jefe de farmacia, A, Personal de limpieza, A, Gerente de sucursal de tienda, A, Chofer, B, Documentalista de archivo, A, Psicólogo, A, Especialista en gestión de riesgos y de seguridad de la información, A, Administrativo contable, A, Asesor contable, A, Gerente de recursos humanos, A, Consejero de productos de belleza, B, Auxiliar salud mental, A, Auditor de campo, A, Instalador de telecomunicaciones, A, Repartidor de paquetería, B, Aprendiz de barista, B, Auxiliar de tienda de mascotas, B, Administrador de hospital, A, Personal de oficina de almacén, A, Instalador de aire acondicionado, A, Gerente de cobranza, A, Recepcionista de hotel, A, Cajero de banco, A, Peluquero, A, Director de escuela privada, A, Encargado de librería, A, Analista de datos junior, A, Gerente de producción, A, Director de proyecto IT Senior, A, Coordinador de eventos y congresos, A, Auxiliar de autoservicio, A, Subgerente de sucursal de tienda, A",01/24/26
+2,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Analista de datos junior, Analista administrativo y finanzas, Instalador de aire acondicionado, Peluquero canino, Responsable de turno de tienda, Personal de limpieza, Subgerente de sucursal de tienda, Chofer, Gerente de cobranza, Dependiende de heladería, Vendedor de mostrador, Repartidor en moto, Dependiente de carnicería, Instalador de telecomunicaciones, Mecánico de vehículos, Vigilante de seguridad, Recepcionista de hotel, Gerente de producción, Gerente de sucursal de tienda, Encargado de librería, Director de proyecto IT Senior, Asesor financiero, Auxiliar de tienda de mascotas, Auditor de campo, Preparador de pedidos, Cocinero de cocina japonesa, Administrador de hospital, Gerente de marketing y PR, Documentalista de archivo, Ayudante de almacen, Administrativo contable, Coordinador de eventos y congresos, Director de escuela privada, Gerente de recursos humanos, Auxiliar salud mental, Aprendiz de barista, Técnico instrumentista quirúrgico, Especialista en gestión de riesgos y de seguridad de la información, Maestro de educación infantil , Cajero de banco, Auxiliar de autoservicio, Jefe de farmacia, Agente de atención al cliente, Repartidor de paquetería, Consejero de productos de belleza, Personal de oficina de almacén, Cajero - Reponedor, Asesor contable, Auxiliar de cocina, Peluquero, Dependienta de pastelería, Asesor Inmobiliario, Director de operaciones, Psicólogo","Analista de datos junior, B, Analista administrativo y finanzas, B, Instalador de aire acondicionado, B, Peluquero canino, A, Responsable de turno de tienda, A, Personal de limpieza, A, Subgerente de sucursal de tienda, A, Chofer, A, Gerente de cobranza, A, Dependiente de heladería, A, Vendedor de mostrador, A, Repartidor en moto, A, Dependienta de carnicería, A, Instalador de telecomunicaciones, B, Mecánico de vehículos, B, Vigilante de seguridad, A, Recepcionista de hotel, A, Gerente de producción, B, Gerente de sucursal de tienda, A, Encargado de librería, A, Director de proyecto IT Senior, B, Asesor financiero, B, Auxiliar de tienda de mascotas, A, Auditor de campo, B, Preparador de pedidos, A, Cocinero de cocina japonesa, B, Administrador de hospital, B, Gerente de marketing y PR, B, Documentalista de archivo, B, Ayudante de almacen, A, Administrativo contable, B, Coordinador de eventos y congresos, B, Director de escuela privada, B, Gerente de recursos humanos, B, Auxiliar salud mental, B, Aprendiz de barista, A, Técnico instrumentista quirúrgico, B, Especialista en gestión de riesgos y de seguridad de la información, B, Maestro de educación infantil, B, Cajero de banco, B, Auxiliar de autoservicio, A, Jefe de farmacia, B, Agente de atención al cliente, A, Repartidor de paquetería, A, Consejero de productos de belleza, A, Personal de oficina de almacén, A, Cajero - Reponedor, A, Asesor contable, B, Auxiliar de cocina, A, Peluquero, A, Dependienta de pastelería, A, Asesor Inmobiliario, B, Director de operaciones, B, Psicólogo, B",01/24/26
+3,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Jefe de farmacia, Auditor de campo, Aprendiz de barista, Especialista en gestión de riesgos y de seguridad de la información, Administrador de hospital, Director de escuela privada, Ayudante de almacen, Auxiliar de cocina, Peluquero canino, Auxiliar de autoservicio, Administrativo contable, Gerente de cobranza, Repartidor de paquetería, Asesor contable, Auxiliar salud mental, Cajero de banco, Analista administrativo y finanzas, Gerente de recursos humanos, Coordinador de eventos y congresos, Preparador de pedidos, Maestro de educación infantil , Personal de limpieza, Agente de atención al cliente, Mecánico de vehículos, Dependienta de pastelería, Vigilante de seguridad, Gerente de sucursal de tienda, Repartidor en moto, Peluquero, Asesor Inmobiliario, Gerente de marketing y PR, Vendedor de mostrador, Subgerente de sucursal de tienda, Recepcionista de hotel, Analista de datos junior, Cajero - Reponedor, Instalador de aire acondicionado, Cocinero de cocina japonesa, Gerente de producción, Auxiliar de tienda de mascotas, Responsable de turno de tienda, Asesor financiero, Director de operaciones, Psicólogo, Dependiente de carnicería, Director de proyecto IT Senior, Documentalista de archivo, Dependiende de heladería, Chofer, Personal de oficina de almacén, Encargado de librería, Técnico instrumentista quirúrgico, Consejero de productos de belleza, Instalador de telecomunicaciones","Jefe de farmacia, A
+Auditor de campo, B
+Aprendiz de barista, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Administrador de hospital, A
+Director de escuela privada, A
+Ayudante de almacen, B
+Auxiliar de cocina, B
+Peluquero canino, B
+Auxiliar de autoservicio, B
+Administrativo contable, A
+Gerente de cobranza, A
+Repartidor de paquetería, B
+Asesor contable, A
+Auxiliar salud mental, A
+Cajero de banco, A
+Analista administrativo y finanzas, A
+Gerente de recursos humanos, A
+Coordinador de eventos y congresos, B
+Preparador de pedidos, B
+Maestro de educación infantil, A
+Personal de limpieza, B
+Agente de atención al cliente, B
+Mecánico de vehículos, B
+Dependienta de pastelería, B
+Vigilante de seguridad, B
+Gerente de sucursal de tienda, A
+Repartidor en moto, B
+Peluquero, B
+Asesor Inmobiliario, A
+Gerente de marketing y PR, A
+Vendedor de mostrador, B
+Subgerente de sucursal de tienda, A
+Recepcionista de hotel, B
+Analista de datos junior, A
+Cajero - Reponedor, B
+Instalador de aire acondicionado, B
+Cocinero de cocina japonesa, B
+Gerente de producción, A
+Auxiliar de tienda de mascotas, B
+Responsable de turno de tienda, A
+Asesor financiero, A
+Director de operaciones, A
+Psicólogo, A
+Dependiente de carnicería, B
+Director de proyecto IT Senior, A
+Documentalista de archivo, A
+Dependiente de heladería, B
+Chofer, B
+Personal de oficina de almacén, B
+Encargado de librería, A
+Técnico instrumentista quirúrgico, A
+Consejero de productos de belleza, B
+Instalador de telecomunicaciones, B",01/24/26
+4,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Auxiliar salud mental, Mecánico de vehículos, Administrador de hospital, Administrativo contable, Coordinador de eventos y congresos, Repartidor en moto, Ayudante de almacen, Gerente de recursos humanos, Director de operaciones, Instalador de aire acondicionado, Peluquero, Peluquero canino, Chofer, Especialista en gestión de riesgos y de seguridad de la información, Director de escuela privada, Personal de limpieza, Vigilante de seguridad, Cocinero de cocina japonesa, Director de proyecto IT Senior, Jefe de farmacia, Recepcionista de hotel, Asesor financiero, Cajero - Reponedor, Técnico instrumentista quirúrgico, Auditor de campo, Dependiente de carnicería, Consejero de productos de belleza, Auxiliar de cocina, Psicólogo, Gerente de marketing y PR, Personal de oficina de almacén, Vendedor de mostrador, Instalador de telecomunicaciones, Responsable de turno de tienda, Auxiliar de autoservicio, Auxiliar de tienda de mascotas, Dependiende de heladería, Cajero de banco, Asesor Inmobiliario, Aprendiz de barista, Asesor contable, Subgerente de sucursal de tienda, Agente de atención al cliente, Gerente de sucursal de tienda, Maestro de educación infantil , Gerente de cobranza, Encargado de librería, Gerente de producción, Repartidor de paquetería, Preparador de pedidos, Analista administrativo y finanzas, Analista de datos junior, Documentalista de archivo, Dependienta de pastelería","Auxiliar salud mental, B, Mecánico de vehículos, B, Administrador de hospital, B, Administrativo contable, B, Coordinador de eventos y congresos, B, Repartidor en moto, A, Ayudante de almacen, A, Gerente de recursos humanos, B, Director de operaciones, B, Instalador de aire acondicionado, A, Peluquero, A, Peluquero canino, A, Chofer, A, Especialista en gestión de riesgos y de seguridad de la información, B, Director de escuela privada, B, Personal de limpieza, A, Vigilante de seguridad, A, Cocinero de cocina japonesa, B, Director de proyecto IT Senior, B, Jefe de farmacia, B, Recepcionista de hotel, B, Asesor financiero, B, Cajero - Reponedor, A, Técnico instrumentista quirúrgico, B, Auditor de campo, B, Dependiente de carnicería, A, Consejero de productos de belleza, A, Auxiliar de cocina, A, Psicólogo, B, Gerente de marketing y PR, B, Personal de oficina de almacén, A, Vendedor de mostrador, A, Instalador de telecomunicaciones, A, Responsable de turno de tienda, A, Auxiliar de autoservicio, A, Auxiliar de tienda de mascotas, A, Dependiente de heladería, A, Cajero de banco, B, Asesor Inmobiliario, B, Aprendiz de barista, A, Asesor contable, B, Subgerente de sucursal de tienda, B, Agente de atención al cliente, B, Gerente de sucursal de tienda, B, Maestro de educación infantil, B, Gerente de cobranza, B, Encargado de librería, A, Gerente de producción, B, Repartidor de paquetería, A, Preparador de pedidos, A, Analista administrativo y finanzas, B, Analista de datos junior, B, Documentalista de archivo, B, Dependienta de pastelería, A",01/24/26
+5,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Analista de datos junior, Vendedor de mostrador, Personal de limpieza, Peluquero canino, Aprendiz de barista, Recepcionista de hotel, Cocinero de cocina japonesa, Director de operaciones, Asesor Inmobiliario, Agente de atención al cliente, Asesor contable, Jefe de farmacia, Documentalista de archivo, Chofer, Auxiliar de tienda de mascotas, Psicólogo, Encargado de librería, Gerente de marketing y PR, Dependiende de heladería, Gerente de producción, Cajero - Reponedor, Dependienta de pastelería, Preparador de pedidos, Repartidor en moto, Consejero de productos de belleza, Peluquero, Cajero de banco, Subgerente de sucursal de tienda, Vigilante de seguridad, Instalador de aire acondicionado, Instalador de telecomunicaciones, Auxiliar salud mental, Administrador de hospital, Gerente de cobranza, Coordinador de eventos y congresos, Analista administrativo y finanzas, Auditor de campo, Responsable de turno de tienda, Dependiente de carnicería, Técnico instrumentista quirúrgico, Mecánico de vehículos, Personal de oficina de almacén, Auxiliar de autoservicio, Gerente de sucursal de tienda, Maestro de educación infantil , Ayudante de almacen, Especialista en gestión de riesgos y de seguridad de la información, Repartidor de paquetería, Director de proyecto IT Senior, Director de escuela privada, Asesor financiero, Gerente de recursos humanos, Administrativo contable, Auxiliar de cocina","Analista de datos junior, A
+Vendedor de mostrador, B
+Personal de limpieza, A
+Peluquero canino, B
+Aprendiz de barista, B
+Recepcionista de hotel, B
+Cocinero de cocina japonesa, A
+Director de operaciones, A
+Asesor Inmobiliario, B
+Agente de atención al cliente, B
+Asesor contable, A
+Jefe de farmacia, A
+Documentalista de archivo, A
+Chofer, B
+Auxiliar de tienda de mascotas, B
+Psicólogo, A
+Encargado de librería, A
+Gerente de marketing y PR, A
+Dependiente de heladería, B
+Gerente de producción, A
+Cajero - Reponedor, B
+Dependienta de pastelería, B
+Preparador de pedidos, B
+Repartidor en moto, B
+Consejero de productos de belleza, B
+Peluquero, B
+Cajero de banco, A
+Subgerente de sucursal de tienda, B
+Vigilante de seguridad, B
+Instalador de aire acondicionado, B
+Instalador de telecomunicaciones, B
+Auxiliar salud mental, A
+Administrador de hospital, A
+Gerente de cobranza, A
+Coordinador de eventos y congresos, A
+Analista administrativo y finanzas, A
+Auditor de campo, A
+Responsable de turno de tienda, B
+Dependiente de carnicería, B
+Técnico instrumentista quirúrgico, A
+Mecánico de vehículos, B
+Personal de oficina de almacén, B
+Auxiliar de autoservicio, B
+Gerente de sucursal de tienda, A
+Maestro de educación infantil, A
+Ayudante de almacen, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Repartidor de paquetería, B
+Director de proyecto IT Senior, A
+Director de escuela privada, A
+Asesor financiero, A
+Gerente de recursos humanos, A
+Administrativo contable, A
+Auxiliar de cocina, B
+",01/24/26
+6,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Gerente de recursos humanos, Asesor financiero, Cajero de banco, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar salud mental, Analista de datos junior, Consejero de productos de belleza, Peluquero, Director de proyecto IT Senior, Asesor Inmobiliario, Aprendiz de barista, Cajero - Reponedor, Recepcionista de hotel, Asesor contable, Personal de limpieza, Gerente de producción, Jefe de farmacia, Dependiende de heladería, Administrativo contable, Mecánico de vehículos, Gerente de marketing y PR, Maestro de educación infantil , Auxiliar de autoservicio, Director de escuela privada, Repartidor en moto, Técnico instrumentista quirúrgico, Chofer, Agente de atención al cliente, Auxiliar de tienda de mascotas, Gerente de sucursal de tienda, Administrador de hospital, Encargado de librería, Ayudante de almacen, Gerente de cobranza, Coordinador de eventos y congresos, Documentalista de archivo, Responsable de turno de tienda, Vendedor de mostrador, Vigilante de seguridad, Repartidor de paquetería, Preparador de pedidos, Auditor de campo, Personal de oficina de almacén, Instalador de aire acondicionado, Peluquero canino, Auxiliar de cocina, Dependiente de carnicería, Subgerente de sucursal de tienda, Instalador de telecomunicaciones, Analista administrativo y finanzas, Director de operaciones, Dependienta de pastelería, Psicólogo, Cocinero de cocina japonesa","Gerente de recursos humanos, B
+Asesor financiero, B
+Cajero de banco, B
+Especialista en gestión de riesgos y de seguridad de la información, B
+Auxiliar salud mental, B
+Analista de datos junior, B
+Consejero de productos de belleza, A
+Peluquero, A
+Director de proyecto IT Senior, B
+Asesor Inmobiliario, B
+Aprendiz de barista, A
+Cajero - Reponedor, A
+Recepcionista de hotel, A
+Asesor contable, B
+Personal de limpieza, A
+Gerente de producción, B
+Jefe de farmacia, B
+Dependiente de heladería, A
+Administrativo contable, B
+Mecánico de vehículos, A
+Gerente de marketing y PR, B
+Maestro de educación infantil, A
+Auxiliar de autoservicio, A
+Director de escuela privada, B
+Repartidor en moto, A
+Técnico instrumentista quirúrgico, B
+Chofer, A
+Agente de atención al cliente, A
+Auxiliar de tienda de mascotas, A
+Gerente de sucursal de tienda, B
+Administrador de hospital, B
+Encargado de librería, A
+Ayudante de almacen, A
+Gerente de cobranza, B
+Coordinador de eventos y congresos, B
+Documentalista de archivo, B
+Responsable de turno de tienda, A
+Vendedor de mostrador, A
+Vigilante de seguridad, A
+Repartidor de paquetería, A
+Preparador de pedidos, A
+Auditor de campo, B
+Personal de oficina de almacén, A
+Instalador de aire acondicionado, A
+Peluquero canino, A
+Auxiliar de cocina, A
+Dependiente de carnicería, A
+Subgerente de sucursal de tienda, A
+Instalador de telecomunicaciones, A
+Analista administrativo y finanzas, B
+Director de operaciones, B
+Dependienta de pastelería, A
+Psicólogo, B
+Cocinero de cocina japonesa, A",01/24/26
+7,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Peluquero, Vendedor de mostrador, Instalador de aire acondicionado, Técnico instrumentista quirúrgico, Repartidor de paquetería, Repartidor en moto, Psicólogo, Cocinero de cocina japonesa, Gerente de marketing y PR, Cajero - Reponedor, Preparador de pedidos, Maestro de educación infantil , Auxiliar de cocina, Jefe de farmacia, Director de escuela privada, Personal de oficina de almacén, Ayudante de almacen, Mecánico de vehículos, Analista de datos junior, Responsable de turno de tienda, Director de operaciones, Auxiliar de tienda de mascotas, Peluquero canino, Instalador de telecomunicaciones, Administrador de hospital, Chofer, Agente de atención al cliente, Auxiliar de autoservicio, Documentalista de archivo, Administrativo contable, Recepcionista de hotel, Vigilante de seguridad, Dependiende de heladería, Asesor contable, Gerente de producción, Personal de limpieza, Asesor Inmobiliario, Dependiente de carnicería, Encargado de librería, Gerente de recursos humanos, Gerente de sucursal de tienda, Auditor de campo, Auxiliar salud mental, Aprendiz de barista, Consejero de productos de belleza, Director de proyecto IT Senior, Coordinador de eventos y congresos, Especialista en gestión de riesgos y de seguridad de la información, Analista administrativo y finanzas, Gerente de cobranza, Asesor financiero, Cajero de banco, Subgerente de sucursal de tienda, Dependienta de pastelería","Peluquero, A
+Vendedor de mostrador, B
+Instalador de aire acondicionado, A
+Técnico instrumentista quirúrgico, A
+Repartidor de paquetería, B
+Repartidor en moto, B
+Psicólogo, A
+Cocinero de cocina japonesa, A
+Gerente de marketing y PR, A
+Cajero - Reponedor, B
+Preparador de pedidos, B
+Maestro de educación infantil, A
+Auxiliar de cocina, B
+Jefe de farmacia, A
+Director de escuela privada, A
+Personal de oficina de almacén, B
+Ayudante de almacen, B
+Mecánico de vehículos, B
+Analista de datos junior, A
+Responsable de turno de tienda, B
+Director de operaciones, A
+Auxiliar de tienda de mascotas, B
+Peluquero canino, B
+Instalador de telecomunicaciones, A
+Administrador de hospital, A
+Chofer, B
+Agente de atención al cliente, B
+Auxiliar de autoservicio, B
+Documentalista de archivo, A
+Administrativo contable, A
+Recepcionista de hotel, B
+Vigilante de seguridad, B
+Dependiente de heladería, B
+Asesor contable, A
+Gerente de producción, A
+Personal de limpieza, B
+Asesor Inmobiliario, A
+Dependiente de carnicería, B
+Encargado de librería, A
+Gerente de recursos humanos, A
+Gerente de sucursal de tienda, A
+Auditor de campo, A
+Auxiliar salud mental, A
+Aprendiz de barista, B
+Consejero de productos de belleza, B
+Director de proyecto IT Senior, A
+Coordinador de eventos y congresos, A
+Especialista en gestión de riesgos y de seguridad de la información, A
+Analista administrativo y finanzas, A
+Gerente de cobranza, A
+Asesor financiero, A
+Cajero de banco, A
+Subgerente de sucursal de tienda, A
+Dependienta de pastelería, B
+",01/24/26
+8,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Analista de datos junior, Instalador de aire acondicionado, Gerente de marketing y PR, Vigilante de seguridad, Mecánico de vehículos, Auxiliar de cocina, Asesor financiero, Jefe de farmacia, Responsable de turno de tienda, Recepcionista de hotel, Peluquero canino, Gerente de cobranza, Ayudante de almacen, Instalador de telecomunicaciones, Gerente de producción, Vendedor de mostrador, Cajero de banco, Chofer, Personal de limpieza, Especialista en gestión de riesgos y de seguridad de la información, Gerente de sucursal de tienda, Encargado de librería, Maestro de educación infantil , Agente de atención al cliente, Asesor Inmobiliario, Director de proyecto IT Senior, Director de escuela privada, Auxiliar de autoservicio, Documentalista de archivo, Subgerente de sucursal de tienda, Coordinador de eventos y congresos, Administrador de hospital, Personal de oficina de almacén, Psicólogo, Director de operaciones, Gerente de recursos humanos, Aprendiz de barista, Auxiliar de tienda de mascotas, Dependienta de pastelería, Dependiende de heladería, Peluquero, Consejero de productos de belleza, Auditor de campo, Preparador de pedidos, Cajero - Reponedor, Técnico instrumentista quirúrgico, Cocinero de cocina japonesa, Dependiente de carnicería, Administrativo contable, Repartidor en moto, Analista administrativo y finanzas, Auxiliar salud mental, Repartidor de paquetería, Asesor contable","Analista de datos junior, B, Instalador de aire acondicionado, B, Gerente de marketing y PR, B, Vigilante de seguridad, A, Mecánico de vehículos, A, Auxiliar de cocina, A, Asesor financiero, B, Jefe de farmacia, B, Responsable de turno de tienda, A, Recepcionista de hotel, A, Peluquero canino, A, Gerente de cobranza, A, Ayudante de almacen, A, Instalador de telecomunicaciones, B, Gerente de producción, B, Vendedor de mostrador, A, Cajero de banco, A, Chofer, A, Personal de limpieza, A, Especialista en gestión de riesgos y de seguridad de la información, B, Gerente de sucursal de tienda, A, Encargado de librería, A, Maestro de educación infantil, A, Agente de atención al cliente, A, Asesor Inmobiliario, B, Director de proyecto IT Senior, B, Director de escuela privada, B, Auxiliar de autoservicio, A, Documentalista de archivo, B, Subgerente de sucursal de tienda, A, Coordinador de eventos y congresos, B, Administrador de hospital, B, Personal de oficina de almacén, A, Psicólogo, B, Director de operaciones, B, Gerente de recursos humanos, B, Aprendiz de barista, A, Auxiliar de tienda de mascotas, A, Dependienta de pastelería, A, Dependiende de heladería, A, Peluquero, A, Consejero de productos de belleza, A, Auditor de campo, B, Preparador de pedidos, A, Cajero - Reponedor, A, Técnico instrumentista quirúrgico, B, Cocinero de cocina japonesa, A, Dependiente de carnicería, A, Administrativo contable, B, Repartidor en moto, A, Analista administrativo y finanzas, B, Auxiliar salud mental, B, Repartidor de paquetería, A, Asesor contable, B",01/24/26
+9,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Agente de atención al cliente, Director de escuela privada, Documentalista de archivo, Auxiliar salud mental, Jefe de farmacia, Ayudante de almacen, Instalador de telecomunicaciones, Dependiende de heladería, Gerente de marketing y PR, Consejero de productos de belleza, Técnico instrumentista quirúrgico, Gerente de producción, Peluquero, Asesor Inmobiliario, Gerente de sucursal de tienda, Vendedor de mostrador, Gerente de cobranza, Director de proyecto IT Senior, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar de cocina, Instalador de aire acondicionado, Director de operaciones, Responsable de turno de tienda, Auxiliar de tienda de mascotas, Asesor financiero, Cocinero de cocina japonesa, Vigilante de seguridad, Auditor de campo, Gerente de recursos humanos, Repartidor de paquetería, Psicólogo, Personal de oficina de almacén, Analista administrativo y finanzas, Auxiliar de autoservicio, Preparador de pedidos, Cajero - Reponedor, Asesor contable, Coordinador de eventos y congresos, Dependiente de carnicería, Administrativo contable, Personal de limpieza, Subgerente de sucursal de tienda, Aprendiz de barista, Chofer, Maestro de educación infantil , Mecánico de vehículos, Encargado de librería, Repartidor en moto, Recepcionista de hotel, Cajero de banco, Administrador de hospital, Peluquero canino, Analista de datos junior, Dependienta de pastelería","Agente de atención al cliente, B
+Director de escuela privada, A
+Documentalista de archivo, A
+Auxiliar salud mental, B
+Jefe de farmacia, A
+Ayudante de almacen, B
+Instalador de telecomunicaciones, B
+Dependiente de heladería, B
+Gerente de marketing y PR, B
+Consejero de productos de belleza, B
+Técnico instrumentista quirúrgico, A
+Gerente de producción, A
+Peluquero, B
+Asesor Inmobiliario, B
+Gerente de sucursal de tienda, B
+Vendedor de mostrador, B
+Gerente de cobranza, A
+Director de proyecto IT Senior, A
+Especialista en gestión de riesgos y de seguridad de la información, A
+Auxiliar de cocina, B
+Instalador de aire acondicionado, B
+Director de operaciones, A
+Responsable de turno de tienda, B
+Auxiliar de tienda de mascotas, B
+Asesor financiero, A
+Cocinero de cocina japonesa, B
+Vigilante de seguridad, B
+Auditor de campo, A
+Gerente de recursos humanos, A
+Repartidor de paquetería, B
+Psicólogo, B
+Personal de oficina de almacén, B
+Analista administrativo y finanzas, A
+Auxiliar de autoservicio, B
+Preparador de pedidos, B
+Cajero - Reponedor, B
+Asesor contable, A
+Coordinador de eventos y congresos, B
+Dependiente de carnicería, B
+Administrativo contable, A
+Personal de limpieza, B
+Subgerente de sucursal de tienda, B
+Aprendiz de barista, B
+Chofer, B
+Maestro de educación infantil, B
+Mecánico de vehículos, B
+Encargado de librería, B
+Repartidor en moto, B
+Recepcionista de hotel, B
+Cajero de banco, B
+Administrador de hospital, A
+Peluquero canino, B
+Analista de datos junior, B
+Dependienta de pastelería, B",01/24/26
+10,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Vendedor de mostrador, Chofer, Dependienta de pastelería, Cajero de banco, Director de escuela privada, Recepcionista de hotel, Personal de limpieza, Repartidor de paquetería, Asesor financiero, Subgerente de sucursal de tienda, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar de cocina, Peluquero, Peluquero canino, Aprendiz de barista, Responsable de turno de tienda, Mecánico de vehículos, Gerente de producción, Vigilante de seguridad, Consejero de productos de belleza, Asesor Inmobiliario, Asesor contable, Instalador de telecomunicaciones, Auxiliar de autoservicio, Instalador de aire acondicionado, Gerente de sucursal de tienda, Técnico instrumentista quirúrgico, Director de proyecto IT Senior, Administrador de hospital, Psicólogo, Cajero - Reponedor, Personal de oficina de almacén, Gerente de marketing y PR, Encargado de librería, Jefe de farmacia, Gerente de cobranza, Auditor de campo, Administrativo contable, Dependiente de carnicería, Agente de atención al cliente, Preparador de pedidos, Director de operaciones, Cocinero de cocina japonesa, Coordinador de eventos y congresos, Dependiende de heladería, Analista de datos junior, Auxiliar salud mental, Ayudante de almacen, Auxiliar de tienda de mascotas, Gerente de recursos humanos, Documentalista de archivo, Repartidor en moto, Maestro de educación infantil , Analista administrativo y finanzas","Vendedor de mostrador, A
+Chofer, A
+Dependienta de pastelería, A
+Cajero de banco, A
+Director de escuela privada, A
+Recepcionista de hotel, A
+Personal de limpieza, A
+Repartidor de paquetería, A
+Asesor financiero, B
+Subgerente de sucursal de tienda, A
+Especialista en gestión de riesgos y de seguridad de la información, B
+Auxiliar de cocina, A
+Peluquero, A
+Peluquero canino, A
+Aprendiz de barista, A
+Responsable de turno de tienda, A
+Mecánico de vehículos, A
+Gerente de producción, B
+Vigilante de seguridad, A
+Consejero de productos de belleza, A
+Asesor Inmobiliario, B
+Asesor contable, B
+Instalador de telecomunicaciones, A
+Auxiliar de autoservicio, A
+Instalador de aire acondicionado, A
+Gerente de sucursal de tienda, A
+Técnico instrumentista quirúrgico, B
+Director de proyecto IT Senior, B
+Administrador de hospital, B
+Psicólogo, B
+Cajero - Reponedor, A
+Personal de oficina de almacén, A
+Gerente de marketing y PR, B
+Encargado de librería, A
+Jefe de farmacia, B
+Gerente de cobranza, B
+Auditor de campo, B
+Administrativo contable, B
+Dependiente de carnicería, A
+Agente de atención al cliente, A
+Preparador de pedidos, A
+Director de operaciones, B
+Cocinero de cocina japonesa, A
+Coordinador de eventos y congresos, B
+Dependiente de heladería, A
+Analista de datos junior, B
+Auxiliar salud mental, B
+Ayudante de almacen, A
+Auxiliar de tienda de mascotas, A
+Gerente de recursos humanos, B
+Documentalista de archivo, B
+Repartidor en moto, A
+Maestro de educación infantil, A
+Analista administrativo y finanzas, B
+",01/24/26
+11,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Instalador de aire acondicionado, Cajero de banco, Auxiliar de autoservicio, Técnico instrumentista quirúrgico, Cajero - Reponedor, Repartidor de paquetería, Vendedor de mostrador, Recepcionista de hotel, Director de escuela privada, Gerente de sucursal de tienda, Director de operaciones, Subgerente de sucursal de tienda, Dependienta de pastelería, Jefe de farmacia, Auxiliar de cocina, Peluquero, Especialista en gestión de riesgos y de seguridad de la información, Gerente de marketing y PR, Psicólogo, Ayudante de almacen, Peluquero canino, Analista de datos junior, Cocinero de cocina japonesa, Agente de atención al cliente, Auditor de campo, Analista administrativo y finanzas, Documentalista de archivo, Coordinador de eventos y congresos, Dependiende de heladería, Asesor contable, Gerente de producción, Director de proyecto IT Senior, Asesor financiero, Personal de limpieza, Preparador de pedidos, Personal de oficina de almacén, Mecánico de vehículos, Administrativo contable, Vigilante de seguridad, Aprendiz de barista, Maestro de educación infantil , Consejero de productos de belleza, Responsable de turno de tienda, Gerente de recursos humanos, Auxiliar salud mental, Gerente de cobranza, Encargado de librería, Repartidor en moto, Auxiliar de tienda de mascotas, Dependiente de carnicería, Instalador de telecomunicaciones, Administrador de hospital, Asesor Inmobiliario, Chofer","Instalador de aire acondicionado, B
+Cajero de banco, B
+Auxiliar de autoservicio, B
+Técnico instrumentista quirúrgico, A
+Cajero - Reponedor, B
+Repartidor de paquetería, B
+Vendedor de mostrador, B
+Recepcionista de hotel, B
+Director de escuela privada, A
+Gerente de sucursal de tienda, B
+Director de operaciones, A
+Subgerente de sucursal de tienda, B
+Dependienta de pastelería, B
+Jefe de farmacia, A
+Auxiliar de cocina, B
+Peluquero, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Gerente de marketing y PR, A
+Psicólogo, A
+Ayudante de almacen, B
+Peluquero canino, B
+Analista de datos junior, A
+Cocinero de cocina japonesa, B
+Agente de atención al cliente, B
+Auditor de campo, A
+Analista administrativo y finanzas, A
+Documentalista de archivo, A
+Coordinador de eventos y congresos, B
+Dependiente de heladería, B
+Asesor contable, A
+Gerente de producción, A
+Director de proyecto IT Senior, A
+Asesor financiero, A
+Personal de limpieza, B
+Preparador de pedidos, B
+Personal de oficina de almacén, B
+Mecánico de vehículos, B
+Administrativo contable, A
+Vigilante de seguridad, B
+Aprendiz de barista, B
+Maestro de educación infantil, A
+Consejero de productos de belleza, B
+Responsable de turno de tienda, B
+Gerente de recursos humanos, A
+Auxiliar salud mental, A
+Gerente de cobranza, A
+Encargado de librería, B
+Repartidor en moto, B
+Auxiliar de tienda de mascotas, B
+Dependiente de carnicería, B
+Instalador de telecomunicaciones, B
+Administrador de hospital, A
+Asesor Inmobiliario, A
+Chofer, B",01/24/26
+12,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Director de escuela privada, Auxiliar de cocina, Administrativo contable, Director de operaciones, Auxiliar de autoservicio, Dependienta de pastelería, Director de proyecto IT Senior, Repartidor de paquetería, Recepcionista de hotel, Gerente de producción, Gerente de recursos humanos, Documentalista de archivo, Asesor financiero, Cocinero de cocina japonesa, Agente de atención al cliente, Personal de oficina de almacén, Personal de limpieza, Gerente de sucursal de tienda, Cajero de banco, Peluquero, Dependiende de heladería, Cajero - Reponedor, Mecánico de vehículos, Vendedor de mostrador, Auxiliar salud mental, Preparador de pedidos, Consejero de productos de belleza, Ayudante de almacen, Analista de datos junior, Auxiliar de tienda de mascotas, Jefe de farmacia, Aprendiz de barista, Asesor contable, Especialista en gestión de riesgos y de seguridad de la información, Encargado de librería, Instalador de aire acondicionado, Chofer, Gerente de marketing y PR, Gerente de cobranza, Instalador de telecomunicaciones, Coordinador de eventos y congresos, Psicólogo, Asesor Inmobiliario, Administrador de hospital, Repartidor en moto, Maestro de educación infantil , Vigilante de seguridad, Responsable de turno de tienda, Peluquero canino, Dependiente de carnicería, Analista administrativo y finanzas, Técnico instrumentista quirúrgico, Auditor de campo, Subgerente de sucursal de tienda","Director de escuela privada, B
+Auxiliar de cocina, A
+Administrativo contable, B
+Director de operaciones, B
+Auxiliar de autoservicio, A
+Dependienta de pastelería, A
+Director de proyecto IT Senior, B
+Repartidor de paquetería, A
+Recepcionista de hotel, B
+Gerente de producción, B
+Gerente de recursos humanos, B
+Documentalista de archivo, B
+Asesor financiero, B
+Cocinero de cocina japonesa, A
+Agente de atención al cliente, A
+Personal de oficina de almacén, A
+Personal de limpieza, A
+Gerente de sucursal de tienda, B
+Cajero de banco, B
+Peluquero, A
+Dependiente de heladería, A
+Cajero - Reponedor, A
+Mecánico de vehículos, A
+Vendedor de mostrador, A
+Auxiliar salud mental, B
+Preparador de pedidos, A
+Consejero de productos de belleza, A
+Ayudante de almacen, A
+Analista de datos junior, B
+Auxiliar de tienda de mascotas, A
+Jefe de farmacia, B
+Aprendiz de barista, A
+Asesor contable, B
+Especialista en gestión de riesgos y de seguridad de la información, B
+Encargado de librería, A
+Instalador de aire acondicionado, A
+Chofer, A
+Gerente de marketing y PR, B
+Gerente de cobranza, B
+Instalador de telecomunicaciones, A
+Coordinador de eventos y congresos, B
+Psicólogo, B
+Asesor Inmobiliario, B
+Administrador de hospital, B
+Repartidor en moto, A
+Maestro de educación infantil, A
+Vigilante de seguridad, A
+Responsable de turno de tienda, B
+Peluquero canino, A
+Dependiente de carnicería, A
+Analista administrativo y finanzas, B
+Técnico instrumentista quirúrgico, B
+Auditor de campo, B
+Subgerente de sucursal de tienda, B",01/24/26
+13,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Maestro de educación infantil , Asesor financiero, Mecánico de vehículos, Analista de datos junior, Auditor de campo, Director de operaciones, Vendedor de mostrador, Director de escuela privada, Jefe de farmacia, Especialista en gestión de riesgos y de seguridad de la información, Administrativo contable, Personal de limpieza, Gerente de recursos humanos, Chofer, Auxiliar de cocina, Director de proyecto IT Senior, Vigilante de seguridad, Encargado de librería, Dependienta de pastelería, Agente de atención al cliente, Ayudante de almacen, Asesor contable, Analista administrativo y finanzas, Repartidor en moto, Dependiende de heladería, Preparador de pedidos, Peluquero canino, Cajero - Reponedor, Cajero de banco, Subgerente de sucursal de tienda, Psicólogo, Dependiente de carnicería, Consejero de productos de belleza, Peluquero, Gerente de marketing y PR, Gerente de producción, Responsable de turno de tienda, Auxiliar de tienda de mascotas, Gerente de sucursal de tienda, Coordinador de eventos y congresos, Auxiliar de autoservicio, Auxiliar salud mental, Instalador de aire acondicionado, Repartidor de paquetería, Técnico instrumentista quirúrgico, Recepcionista de hotel, Cocinero de cocina japonesa, Gerente de cobranza, Instalador de telecomunicaciones, Administrador de hospital, Documentalista de archivo, Aprendiz de barista, Asesor Inmobiliario, Personal de oficina de almacén","Maestro de educación infantil , B
+Asesor financiero , A
+Mecánico de vehículos , B
+Analista de datos junior , A
+Auditor de campo , A
+Director de operaciones , A
+Vendedor de mostrador , B
+Director de escuela privada , A
+Jefe de farmacia , A
+Especialista en gestión de riesgos y de seguridad de la información , A
+Administrativo contable , A
+Personal de limpieza , B
+Gerente de recursos humanos , A
+Chofer , B
+Auxiliar de cocina , B
+Director de proyecto IT Senior , A
+Vigilante de seguridad , B
+Encargado de librería , A
+Dependienta de pastelería , B
+Agente de atención al cliente , B
+Ayudante de almacen , B
+Asesor contable , A
+Analista administrativo y finanzas , A
+Repartidor en moto , B
+Dependiente de heladería , B
+Preparador de pedidos , B
+Peluquero canino , B
+Cajero - Reponedor , B
+Cajero de banco , A
+Subgerente de sucursal de tienda , A
+Psicólogo , A
+Dependiente de carnicería , B
+Consejero de productos de belleza , B
+Peluquero , B
+Gerente de marketing y PR , A
+Gerente de producción , A
+Responsable de turno de tienda , B
+Auxiliar de tienda de mascotas , B
+Gerente de sucursal de tienda , A
+Coordinador de eventos y congresos , A
+Auxiliar de autoservicio , B
+Auxiliar salud mental , A
+Instalador de aire acondicionado , B
+Repartidor de paquetería , B
+Técnico instrumentista quirúrgico , A
+Recepciónista de hotel , B
+Cocinero de cocina japonesa , B
+Gerente de cobranza , A
+Instalador de telecomunicaciones , B
+Administrador de hospital , A
+Documentalista de archivo , A
+Aprendiz de barista , B
+Asesor Inmobiliario , A
+Personal de oficina de almacén , B",01/24/26
+14,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Auxiliar salud mental, Mecánico de vehículos, Auditor de campo, Dependiente de carnicería, Repartidor en moto, Recepcionista de hotel, Responsable de turno de tienda, Gerente de sucursal de tienda, Preparador de pedidos, Vendedor de mostrador, Instalador de telecomunicaciones, Documentalista de archivo, Analista administrativo y finanzas, Peluquero, Asesor financiero, Dependiende de heladería, Auxiliar de autoservicio, Administrativo contable, Director de escuela privada, Dependienta de pastelería, Chofer, Encargado de librería, Cajero de banco, Psicólogo, Director de operaciones, Personal de limpieza, Instalador de aire acondicionado, Repartidor de paquetería, Maestro de educación infantil , Analista de datos junior, Gerente de cobranza, Consejero de productos de belleza, Coordinador de eventos y congresos, Peluquero canino, Gerente de recursos humanos, Vigilante de seguridad, Ayudante de almacen, Asesor contable, Auxiliar de cocina, Aprendiz de barista, Especialista en gestión de riesgos y de seguridad de la información, Gerente de producción, Jefe de farmacia, Director de proyecto IT Senior, Cocinero de cocina japonesa, Asesor Inmobiliario, Cajero - Reponedor, Auxiliar de tienda de mascotas, Personal de oficina de almacén, Agente de atención al cliente, Administrador de hospital, Subgerente de sucursal de tienda, Técnico instrumentista quirúrgico, Gerente de marketing y PR","Auxiliar salud mental, B, Mecánico de vehículos, B, Auditor de campo, B, Dependiente de carnicería, A, Repartidor en moto, A, Recepcionista de hotel, B, Responsable de turno de tienda, B, Gerente de sucursal de tienda, B, Preparador de pedidos, A, Vendedor de mostrador, A, Instalador de telecomunicaciones, B, Documentalista de archivo, B, Analista administrativo y finanzas, B, Peluquero, A, Asesor financiero, B, Dependiente de heladería, A, Auxiliar de autoservicio, A, Administrativo contable, B, Director de escuela privada, B, Dependienta de pastelería, A, Chofer, A, Encargado de librería, A, Cajero de banco, B, Psicólogo, B, Director de operaciones, B, Personal de limpieza, A, Instalador de aire acondicionado, B, Repartidor de paquetería, A, Maestro de educación infantil, B, Analista de datos junior, B, Gerente de cobranza, B, Consejero de productos de belleza, A, Coordinador de eventos y congresos, B, Peluquero canino, A, Gerente de recursos humanos, B, Vigilante de seguridad, A, Ayudante de almacen, A, Asesor contable, B, Auxiliar de cocina, A, Aprendiz de barista, A, Especialista en gestión de riesgos y de seguridad de la información, B, Gerente de producción, B, Jefe de farmacia, B, Director de proyecto IT Senior, B, Cocinero de cocina japonesa, A, Asesor Inmobiliario, B, Cajero - Reponedor, A, Auxiliar de tienda de mascotas, A, Personal de oficina de almacén, A, Agente de atención al cliente, B, Administrador de hospital, B, Subgerente de sucursal de tienda, B, Técnico instrumentista quirúrgico, B, Gerente de marketing y PR, B",01/24/26
+15,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Auxiliar de cocina, Aprendiz de barista, Dependiente de carnicería, Subgerente de sucursal de tienda, Vigilante de seguridad, Auxiliar salud mental, Personal de oficina de almacén, Instalador de aire acondicionado, Peluquero, Ayudante de almacen, Gerente de cobranza, Vendedor de mostrador, Administrador de hospital, Instalador de telecomunicaciones, Auxiliar de tienda de mascotas, Responsable de turno de tienda, Coordinador de eventos y congresos, Analista administrativo y finanzas, Dependienta de pastelería, Cocinero de cocina japonesa, Peluquero canino, Especialista en gestión de riesgos y de seguridad de la información, Preparador de pedidos, Recepcionista de hotel, Psicólogo, Chofer, Gerente de marketing y PR, Auxiliar de autoservicio, Gerente de sucursal de tienda, Cajero de banco, Consejero de productos de belleza, Técnico instrumentista quirúrgico, Cajero - Reponedor, Jefe de farmacia, Mecánico de vehículos, Encargado de librería, Asesor financiero, Gerente de recursos humanos, Personal de limpieza, Repartidor en moto, Dependiende de heladería, Analista de datos junior, Maestro de educación infantil , Asesor Inmobiliario, Asesor contable, Repartidor de paquetería, Director de escuela privada, Documentalista de archivo, Director de proyecto IT Senior, Agente de atención al cliente, Director de operaciones, Administrativo contable, Gerente de producción, Auditor de campo","Auxiliar de cocina, B, Aprendiz de barista, B, Dependiente de carnicería, B, Subgerente de sucursal de tienda, B, Vigilante de seguridad, A, Auxiliar salud mental, A, Personal de oficina de almacén, A, Instalador de aire acondicionado, A, Peluquero, A, Ayudante de almacen, A, Gerente de cobranza, A, Vendedor de mostrador, B, Dependienta de pastelería, B, Cocinero de cocina japonesa, B, Peluquero canino, B, Especialista en gestión de riesgos y de seguridad de la información, A, Preparador de pedidos, B, Recepcionista de hotel, B, Psicólogo, A, Chofer, B, Gerente de marketing y PR, B, Auxiliar de autoservicio, B, Gerente de sucursal de tienda, B, Cajero de banco, B, Consejero de productos de belleza, B, Técnico instrumentista quirúrgico, B, Cajero - Reponedor, B, Jefe de farmacia, B, Mecánico de vehículos, B, Encargado de librería, A, Asesor financiero, A, Gerente de recursos humanos, A, Personal de limpieza, B, Repartidor en moto, B, Dependiende de heladería, B, Analista de datos junior, A, Maestro de educación infantil, A, Asesor Inmobiliario, A, Asesor contable, A, Repartidor de paquetería, B, Director de escuela privada, A, Documentalista de archivo, A, Director de proyecto IT Senior, A, Agente de atención al cliente, B, Director de operaciones, A, Administrativo contable, A, Gerente de producción, A, Auditor de campo, A
+",01/24/26
+16,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Director de operaciones, Peluquero, Gerente de cobranza, Auxiliar de autoservicio, Consejero de productos de belleza, Técnico instrumentista quirúrgico, Analista de datos junior, Psicólogo, Especialista en gestión de riesgos y de seguridad de la información, Jefe de farmacia, Subgerente de sucursal de tienda, Administrativo contable, Encargado de librería, Analista administrativo y finanzas, Repartidor de paquetería, Coordinador de eventos y congresos, Cajero de banco, Repartidor en moto, Gerente de marketing y PR, Personal de oficina de almacén, Asesor financiero, Cocinero de cocina japonesa, Administrador de hospital, Vigilante de seguridad, Aprendiz de barista, Recepcionista de hotel, Agente de atención al cliente, Responsable de turno de tienda, Vendedor de mostrador, Director de proyecto IT Senior, Dependienta de pastelería, Maestro de educación infantil , Asesor contable, Peluquero canino, Mecánico de vehículos, Chofer, Gerente de producción, Documentalista de archivo, Preparador de pedidos, Gerente de sucursal de tienda, Instalador de aire acondicionado, Cajero - Reponedor, Instalador de telecomunicaciones, Auxiliar de cocina, Gerente de recursos humanos, Auxiliar salud mental, Personal de limpieza, Dependiente de carnicería, Auditor de campo, Dependiende de heladería, Auxiliar de tienda de mascotas, Ayudante de almacen, Director de escuela privada, Asesor Inmobiliario","Director de operaciones, B, Peluquero, A, Gerente de cobranza, B, Auxiliar de autoservicio, A, Consejero de productos de belleza, A, Técnico instrumentista quirúrgico, B, Analista de datos junior, B, Psicólogo, B, Especialista en gestión de riesgos y de seguridad de la información, B, Jefe de farmacia, B, Subgerente de sucursal de tienda, A, Administrativo contable, B, Encargado de librería, A, Analista administrativo y finanzas, B, Repartidor de paquetería, A, Coordinador de eventos y congresos, B, Cajero de banco, B, Repartidor en moto, A, Gerente de marketing y PR, B, Personal de oficina de almacén, A, Asesor financiero, B, Cocinero de cocina japonesa, A, Administrador de hospital, B, Vigilante de seguridad, A, Aprendiz de barista, A, Recepcionista de hotel, A, Agente de atención al cliente, A, Responsable de turno de tienda, A, Vendedor de mostrador, A, Director de proyecto IT Senior, B, Dependienta de pastelería, A, Maestro de educación infantil, A, Asesor contable, B, Peluquero canino, A, Mecánico de vehículos, A, Chofer, A, Gerente de producción, B, Documentalista de archivo, B, Preparador de pedidos, A, Gerente de sucursal de tienda, A, Instalador de aire acondicionado, A, Cajero - Reponedor, A, Instalador de telecomunicaciones, B, Auxiliar de cocina, A, Gerente de recursos humanos, B, Auxiliar salud mental, B, Personal de limpieza, A, Dependiente de carnicería, A, Auditor de campo, B, Dependiente de heladería, A, Auxiliar de tienda de mascotas, A, Ayudante de almacen, A, Director de escuela privada, B, Asesor Inmobiliario, B",01/24/26
+17,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Peluquero, Aprendiz de barista, Personal de oficina de almacén, Asesor contable, Jefe de farmacia, Agente de atención al cliente, Cajero de banco, Analista administrativo y finanzas, Psicólogo, Auxiliar salud mental, Maestro de educación infantil , Vigilante de seguridad, Chofer, Instalador de telecomunicaciones, Responsable de turno de tienda, Peluquero canino, Personal de limpieza, Director de proyecto IT Senior, Director de operaciones, Auxiliar de tienda de mascotas, Instalador de aire acondicionado, Dependiente de carnicería, Vendedor de mostrador, Repartidor en moto, Gerente de cobranza, Consejero de productos de belleza, Asesor financiero, Especialista en gestión de riesgos y de seguridad de la información, Documentalista de archivo, Cajero - Reponedor, Administrador de hospital, Auxiliar de autoservicio, Repartidor de paquetería, Director de escuela privada, Dependienta de pastelería, Ayudante de almacen, Gerente de recursos humanos, Analista de datos junior, Mecánico de vehículos, Encargado de librería, Técnico instrumentista quirúrgico, Gerente de marketing y PR, Subgerente de sucursal de tienda, Administrativo contable, Gerente de sucursal de tienda, Cocinero de cocina japonesa, Auditor de campo, Asesor Inmobiliario, Gerente de producción, Recepcionista de hotel, Preparador de pedidos, Coordinador de eventos y congresos, Dependiende de heladería, Auxiliar de cocina","Peluquero, B, Aprendiz de barista, B, Personal de oficina de almacén, B, Asesor contable, A, Jefe de farmacia, A, Agente de atención al cliente, B, Cajero de banco, A, Analista administrativo y finanzas, A, Psicólogo, A, Auxiliar salud mental, A, Maestro de educación infantil, A, Vigilante de seguridad, B, Chofer, B, Instalador de telecomunicaciones, B, Responsable de turno de tienda, B, Peluquero canino, B, Personal de limpieza, B, Director de proyecto IT Senior, A, Director de operaciones, A, Auxiliar de tienda de mascotas, B, Instalador de aire acondicionado, B, Dependiente de carnicería, B, Vendedor de mostrador, B, Repartidor en moto, B, Gerente de cobranza, A, Consejero de productos de belleza, B, Asesor financiero, A, Especialista en gestión de riesgos y de seguridad de la información, A, Documentalista de archivo, A, Cajero - Reponedor, B, Administrador de hospital, A, Auxiliar de autoservicio, B, Repartidor de paquetería, B, Director de escuela privada, A, Dependienta de pastelería, B, Ayudante de almacen, B, Gerente de recursos humanos, A, Analista de datos junior, A, Mecánico de vehículos, B, Encargado de librería, A, Técnico instrumentista quirúrgico, A, Gerente de marketing y PR, A, Subgerente de sucursal de tienda, B, Administrativo contable, A, Gerente de sucursal de tienda, A, Cocinero de cocina japonesa, B, Auditor de campo, A, Asesor Inmobiliario, A, Gerente de producción, A, Recepcionista de hotel, B, Preparador de pedidos, B, Coordinador de eventos y congresos, A, Dependiende de heladería, B, Auxiliar de cocina, B",01/24/26
+18,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Auxiliar salud mental, Especialista en gestión de riesgos y de seguridad de la información, Auditor de campo, Ayudante de almacen, Dependiende de heladería, Gerente de cobranza, Administrador de hospital, Gerente de sucursal de tienda, Asesor financiero, Consejero de productos de belleza, Mecánico de vehículos, Personal de limpieza, Asesor Inmobiliario, Coordinador de eventos y congresos, Cajero de banco, Psicólogo, Asesor contable, Documentalista de archivo, Auxiliar de autoservicio, Repartidor en moto, Vigilante de seguridad, Peluquero canino, Auxiliar de tienda de mascotas, Director de operaciones, Agente de atención al cliente, Encargado de librería, Responsable de turno de tienda, Maestro de educación infantil , Repartidor de paquetería, Analista administrativo y finanzas, Subgerente de sucursal de tienda, Dependiente de carnicería, Analista de datos junior, Director de proyecto IT Senior, Cajero - Reponedor, Instalador de telecomunicaciones, Administrativo contable, Aprendiz de barista, Dependienta de pastelería, Gerente de producción, Cocinero de cocina japonesa, Gerente de marketing y PR, Técnico instrumentista quirúrgico, Preparador de pedidos, Recepcionista de hotel, Peluquero, Director de escuela privada, Auxiliar de cocina, Gerente de recursos humanos, Jefe de farmacia, Chofer, Personal de oficina de almacén, Instalador de aire acondicionado, Vendedor de mostrador","Auxiliar salud mental, B, Especialista en gestión de riesgos y de seguridad de la información, B, Auditor de campo, B, Ayudante de almacen, A, Dependiente de heladería, A, Gerente de cobranza, B, Administrador de hospital, B, Gerente de sucursal de tienda, A, Asesor financiero, B, Consejero de productos de belleza, A, Mecánico de vehículos, A, Personal de limpieza, A, Asesor Inmobiliario, B, Coordinador de eventos y congresos, B, Cajero de banco, A, Psicólogo, B, Asesor contable, B, Documentalista de archivo, B, Auxiliar de autoservicio, A, Repartidor en moto, A, Vigilante de seguridad, A, Peluquero canino, A, Auxiliar de tienda de mascotas, A, Director de operaciones, B, Agente de atención al cliente, A, Encargado de librería, A, Responsable de turno de tienda, A, Maestro de educación infantil, A, Repartidor de paquetería, A, Analista administrativo y finanzas, B, Subgerente de sucursal de tienda, A, Dependiente de carnicería, A, Analista de datos junior, B, Director de proyecto IT Senior, B, Cajero - Reponedor, A, Instalador de telecomunicaciones, B, Administrativo contable, B, Aprendiz de barista, A, Dependienta de pastelería, A, Gerente de producción, B, Cocinero de cocina japonesa, A, Gerente de marketing y PR, B, Técnico instrumentista quirúrgico, B, Preparador de pedidos, A, Recepcionista de hotel, A, Peluquero, A, Director de escuela privada, B, Auxiliar de cocina, A, Gerente de recursos humanos, B, Jefe de farmacia, B, Chofer, A, Personal de oficina de almacén, A, Instalador de aire acondicionado, B, Vendedor de mostrador, A",01/24/26
+19,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Director de operaciones, Instalador de aire acondicionado, Asesor contable, Dependienta de pastelería, Chofer, Cocinero de cocina japonesa, Auxiliar de tienda de mascotas, Gerente de sucursal de tienda, Documentalista de archivo, Personal de limpieza, Dependiende de heladería, Subgerente de sucursal de tienda, Peluquero, Analista de datos junior, Cajero de banco, Instalador de telecomunicaciones, Agente de atención al cliente, Gerente de recursos humanos, Jefe de farmacia, Preparador de pedidos, Gerente de producción, Coordinador de eventos y congresos, Cajero - Reponedor, Maestro de educación infantil , Consejero de productos de belleza, Auxiliar de cocina, Administrador de hospital, Encargado de librería, Aprendiz de barista, Auditor de campo, Responsable de turno de tienda, Director de escuela privada, Técnico instrumentista quirúrgico, Gerente de cobranza, Auxiliar de autoservicio, Psicólogo, Mecánico de vehículos, Asesor financiero, Repartidor en moto, Vigilante de seguridad, Recepcionista de hotel, Administrativo contable, Vendedor de mostrador, Asesor Inmobiliario, Auxiliar salud mental, Analista administrativo y finanzas, Personal de oficina de almacén, Ayudante de almacen, Gerente de marketing y PR, Director de proyecto IT Senior, Dependiente de carnicería, Repartidor de paquetería, Peluquero canino, Especialista en gestión de riesgos y de seguridad de la información","Director de operaciones, A
+Instalador de aire acondicionado, B
+Asesor contable, A
+Dependienta de pastelería, B
+Chofer, B
+Cocinero de cocina japonesa, B
+Auxiliar de tienda de mascotas, B
+Gerente de sucursal de tienda, A
+Documentalista de archivo, A
+Personal de limpieza, B
+Dependiente de heladería, B
+Subgerente de sucursal de tienda, A
+Peluquero, B
+Analista de datos junior, A
+Cajero de banco, A
+Instalador de telecomunicaciones, B
+Agente de atención al cliente, B
+Gerente de recursos humanos, A
+Jefe de farmacia, A
+Preparador de pedidos, B
+Gerente de producción, A
+Coordinador de eventos y congresos, A
+Cajero - Reponedor, B
+Maestro de educación infantil, B
+Consejero de productos de belleza, B
+Auxiliar de cocina, B
+Administrador de hospital, A
+Encargado de librería, A
+Aprendiz de barista, B
+Auditor de campo, A
+Responsable de turno de tienda, A
+Director de escuela privada, A
+Técnico instrumentista quirúrgico, A
+Gerente de cobranza, A
+Auxiliar de autoservicio, B
+Psicólogo, A
+Mecánico de vehículos, B
+Asesor financiero, A
+Repartidor en moto, B
+Vigilante de seguridad, B
+Recepcionista de hotel, B
+Administrativo contable, A
+Vendedor de mostrador, B
+Asesor Inmobiliario, A
+Auxiliar salud mental, A
+Analista administrativo y finanzas, A
+Personal de oficina de almacén, B
+Ayudante de almacen, B
+Gerente de marketing y PR, A
+Director de proyecto IT Senior, A
+Dependiente de carnicería, B
+Repartidor de paquetería, B
+Peluquero canino, B
+Especialista en gestión de riesgos y de seguridad de la información, A",01/24/26
+20,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Psicólogo, Especialista en gestión de riesgos y de seguridad de la información, Gerente de marketing y PR, Peluquero canino, Personal de oficina de almacén, Agente de atención al cliente, Preparador de pedidos, Dependiente de carnicería, Vigilante de seguridad, Chofer, Encargado de librería, Maestro de educación infantil , Asesor Inmobiliario, Cajero - Reponedor, Auxiliar de autoservicio, Cocinero de cocina japonesa, Auxiliar salud mental, Analista administrativo y finanzas, Dependienta de pastelería, Peluquero, Analista de datos junior, Ayudante de almacen, Gerente de sucursal de tienda, Consejero de productos de belleza, Subgerente de sucursal de tienda, Gerente de recursos humanos, Responsable de turno de tienda, Asesor contable, Director de escuela privada, Auxiliar de cocina, Director de proyecto IT Senior, Documentalista de archivo, Asesor financiero, Gerente de cobranza, Gerente de producción, Administrador de hospital, Auxiliar de tienda de mascotas, Auditor de campo, Repartidor en moto, Coordinador de eventos y congresos, Mecánico de vehículos, Personal de limpieza, Director de operaciones, Aprendiz de barista, Recepcionista de hotel, Dependiende de heladería, Instalador de aire acondicionado, Vendedor de mostrador, Instalador de telecomunicaciones, Administrativo contable, Jefe de farmacia, Repartidor de paquetería, Cajero de banco, Técnico instrumentista quirúrgico","Psicólogo, B
+Especialista en gestión de riesgos y de seguridad de la información, B
+Gerente de marketing y PR, B
+Peluquero canino, A
+Personal de oficina de almacén, A
+Agente de atención al cliente, A
+Preparador de pedidos, A
+Dependiente de carnicería, A
+Vigilante de seguridad, A
+Chofer, A
+Encargado de librería, A
+Maestro de educación infantil, A
+Asesor Inmobiliario, B
+Cajero - Reponedor, A
+Auxiliar de autoservicio, A
+Cocinero de cocina japonesa, B
+Auxiliar salud mental, B
+Analista administrativo y finanzas, B
+Dependienta de pastelería, A
+Peluquero, A
+Analista de datos junior, B
+Ayudante de almacen, A
+Gerente de sucursal de tienda, B
+Consejero de productos de belleza, A
+Subgerente de sucursal de tienda, B
+Gerente de recursos humanos, B
+Responsable de turno de tienda, A
+Asesor contable, B
+Director de escuela privada, B
+Auxiliar de cocina, A
+Director de proyecto IT Senior, B
+Documentalista de archivo, B
+Asesor financiero, B
+Gerente de cobranza, B
+Gerente de producción, B
+Administrador de hospital, B
+Auxiliar de tienda de mascotas, A
+Auditor de campo, B
+Repartidor en moto, A
+Coordinador de eventos y congresos, B
+Mecánico de vehículos, A
+Personal de limpieza, A
+Director de operaciones, B
+Aprendiz de barista, A
+Recepcionista de hotel, B
+Dependiente de heladería, A
+Instalador de aire acondicionado, A
+Vendedor de mostrador, A
+Instalador de telecomunicaciones, B
+Administrativo contable, B
+Jefe de farmacia, B
+Repartidor de paquetería, A
+Cajero de banco, B
+Técnico instrumentista quirúrgico, B
+",01/24/26
+21,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Agente de atención al cliente, Ayudante de almacen, Consejero de productos de belleza, Mecánico de vehículos, Dependiente de carnicería, Gerente de sucursal de tienda, Jefe de farmacia, Instalador de aire acondicionado, Peluquero canino, Técnico instrumentista quirúrgico, Preparador de pedidos, Analista administrativo y finanzas, Gerente de producción, Director de escuela privada, Personal de limpieza, Responsable de turno de tienda, Dependienta de pastelería, Aprendiz de barista, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar salud mental, Coordinador de eventos y congresos, Auxiliar de autoservicio, Recepcionista de hotel, Subgerente de sucursal de tienda, Asesor contable, Vigilante de seguridad, Director de operaciones, Asesor Inmobiliario, Auxiliar de tienda de mascotas, Auxiliar de cocina, Administrativo contable, Peluquero, Maestro de educación infantil , Analista de datos junior, Vendedor de mostrador, Cocinero de cocina japonesa, Director de proyecto IT Senior, Repartidor de paquetería, Gerente de marketing y PR, Gerente de cobranza, Administrador de hospital, Personal de oficina de almacén, Cajero - Reponedor, Cajero de banco, Encargado de librería, Chofer, Asesor financiero, Instalador de telecomunicaciones, Repartidor en moto, Documentalista de archivo, Auditor de campo, Psicólogo, Dependiende de heladería, Gerente de recursos humanos","Agente de atención al cliente, B
+Ayudante de almacen, B
+Consejero de productos de belleza, B
+Mecánico de vehículos, B
+Dependiente de carnicería, B
+Gerente de sucursal de tienda, B
+Jefe de farmacia, B
+Instalador de aire acondicionado, B
+Peluquero canino, B
+Técnico instrumentista quirúrgico, B
+Preparador de pedidos, B
+Analista administrativo y finanzas, A
+Gerente de producción, A
+Director de escuela privada, A
+Personal de limpieza, B
+Responsable de turno de tienda, B
+Dependienta de pastelería, B
+Aprendiz de barista, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Auxiliar salud mental, A
+Coordinador de eventos y congresos, B
+Auxiliar de autoservicio, B
+Receptora de hotel, B
+Subgerente de sucursal de tienda, B
+Asesor contable, A
+Vigilante de seguridad, B
+Director de operaciones, A
+Asesor Inmobiliario, B
+Auxiliar de tienda de mascotas, B
+Auxiliar de cocina, B
+Administrativo contable, A
+Peluquero, B
+Maestro de educación infantil, B
+Analista de datos junior, A
+Vendedor de mostrador, B
+Cocinero de cocina japonesa, B
+Director de proyecto IT Senior, A
+Repartidor de paquetería, B
+Gerente de marketing y PR, A
+Gerente de cobranza, A
+Administrador de hospital, A
+Personal de oficina de almacén, B
+Cajero - Reponedor, B
+Cajero de banco, B
+Encargado de librería, B
+Chofer, B
+Asesor financiero, A
+Instalador de telecomunicaciones, B
+Repartidor en moto, B
+Documentalista de archivo, A
+Auditor de campo, A
+Psicólogo, A
+Dependiente de heladería, B
+Gerente de recursos humanos, A
+",01/24/26
+22,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Coordinador de eventos y congresos, Dependiente de carnicería, Responsable de turno de tienda, Dependienta de pastelería, Subgerente de sucursal de tienda, Documentalista de archivo, Chofer, Auxiliar de autoservicio, Auxiliar de tienda de mascotas, Preparador de pedidos, Personal de limpieza, Gerente de producción, Recepcionista de hotel, Vendedor de mostrador, Aprendiz de barista, Asesor financiero, Cocinero de cocina japonesa, Mecánico de vehículos, Analista de datos junior, Jefe de farmacia, Consejero de productos de belleza, Dependiende de heladería, Analista administrativo y finanzas, Instalador de aire acondicionado, Gerente de marketing y PR, Administrador de hospital, Repartidor de paquetería, Vigilante de seguridad, Especialista en gestión de riesgos y de seguridad de la información, Personal de oficina de almacén, Peluquero, Director de operaciones, Director de proyecto IT Senior, Auditor de campo, Peluquero canino, Ayudante de almacen, Administrativo contable, Director de escuela privada, Gerente de sucursal de tienda, Instalador de telecomunicaciones, Gerente de cobranza, Auxiliar de cocina, Auxiliar salud mental, Encargado de librería, Técnico instrumentista quirúrgico, Repartidor en moto, Maestro de educación infantil , Cajero de banco, Asesor Inmobiliario, Asesor contable, Gerente de recursos humanos, Cajero - Reponedor, Psicólogo, Agente de atención al cliente","Coordinador de eventos y congresos, B
+Dependiente de carnicería, A
+Responsable de turno de tienda, A
+Dependienta de pastelería, A
+Subgerente de sucursal de tienda, A
+Documentalista de archivo, B
+Chofer, A
+Auxiliar de autoservicio, A
+Auxiliar de tienda de mascotas, A
+Preparador de pedidos, A
+Personal de limpieza, A
+Gerente de producción, B
+Recepcionista de hotel, A
+Vendedor de mostrador, A
+Aprendiz de barista, A
+Asesor financiero, B
+Cocinero de cocina japonesa, A
+Mecánico de vehículos, A
+Analista de datos junior, B
+Jefe de farmacia, B
+Consejero de productos de belleza, A
+Dependiente de heladería, A
+Analista administrativo y finanzas, B
+Instalador de aire acondicionado, A
+Gerente de marketing y PR, B
+Administrador de hospital, B
+Repartidor de paquetería, A
+Vigilante de seguridad, A
+Especialista en gestión de riesgos y de seguridad de la información, B
+Personal de oficina de almacén, A
+Peluquero, A
+Director de operaciones, B
+Director de proyecto IT Senior, B
+Auditor de campo, B
+Peluquero canino, A
+Ayudante de almacen, A
+Administrativo contable, B
+Director de escuela privada, B
+Gerente de sucursal de tienda, A
+Instalador de telecomunicaciones, A
+Gerente de cobranza, B
+Auxiliar de cocina, A
+Auxiliar salud mental, B
+Encargado de librería, A
+Técnico instrumentista quirúrgico, B
+Repartidor en moto, A
+Maestro de educación infantil, B
+Cajero de banco, B
+Asesor Inmobiliario, B
+Asesor contable, B
+Gerente de recursos humanos, B
+Cajero - Reponedor, A
+Psicólogo, B
+Agente de atención al cliente, A
+",01/24/26
+23,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Mecánico de vehículos, Asesor financiero, Director de operaciones, Agente de atención al cliente, Cocinero de cocina japonesa, Encargado de librería, Director de escuela privada, Técnico instrumentista quirúrgico, Dependiende de heladería, Documentalista de archivo, Auxiliar de autoservicio, Psicólogo, Auxiliar de cocina, Jefe de farmacia, Coordinador de eventos y congresos, Dependiente de carnicería, Gerente de recursos humanos, Consejero de productos de belleza, Instalador de telecomunicaciones, Dependienta de pastelería, Cajero - Reponedor, Auditor de campo, Subgerente de sucursal de tienda, Administrativo contable, Asesor contable, Analista de datos junior, Chofer, Ayudante de almacen, Gerente de producción, Gerente de sucursal de tienda, Gerente de marketing y PR, Especialista en gestión de riesgos y de seguridad de la información, Vendedor de mostrador, Responsable de turno de tienda, Auxiliar de tienda de mascotas, Peluquero canino, Cajero de banco, Administrador de hospital, Auxiliar salud mental, Gerente de cobranza, Personal de oficina de almacén, Preparador de pedidos, Personal de limpieza, Instalador de aire acondicionado, Aprendiz de barista, Peluquero, Maestro de educación infantil , Asesor Inmobiliario, Repartidor en moto, Analista administrativo y finanzas, Director de proyecto IT Senior, Repartidor de paquetería, Vigilante de seguridad, Recepcionista de hotel","Mecánico de vehículos, B, Asesor financiero, A, Director de operaciones, A, Agente de atención al cliente, B, Cocinero de cocina japonesa, B, Encargado de librería, A, Director de escuela privada, A, Técnico instrumentista quirúrgico, A, Dependiente de heladería, B, Documentalista de archivo, A, Auxiliar de autoservicio, B, Psicólogo, A, Auxiliar de cocina, B, Jefe de farmacia, A, Coordinador de eventos y congresos, B, Dependiente de carnicería, B, Gerente de recursos humanos, A, Consejero de productos de belleza, B, Instalador de telecomunicaciones, A, Dependienta de pastelería, B, Cajero - Reponedor, B, Auditor de campo, A, Subgerente de sucursal de tienda, B, Administrativo contable, A, Asesor contable, A, Analista de datos junior, A, Chofer, B, Ayudante de almacen, B, Gerente de producción, A, Gerente de sucursal de tienda, B, Gerente de marketing y PR, B, Especialista en gestión de riesgos y de seguridad de la información, A, Vendedor de mostrador, B, Responsable de turno de tienda, B, Auxiliar de tienda de mascotas, B, Peluquero canino, B, Cajero de banco, B, Administrador de hospital, A, Auxiliar salud mental, A, Gerente de cobranza, A, Personal de oficina de almacén, B, Preparador de pedidos, B, Personal de limpieza, B, Instalador de aire acondicionado, A, Aprendiz de barista, B, Peluquero, B, Maestro de educación infantil, A, Asesor Inmobiliario, A, Repartidor en moto, B, Analista administrativo y finanzas, A, Director de proyecto IT Senior, A, Repartidor de paquetería, B, Vigilante de seguridad, B, Recepcionista de hotel, B",01/24/26
+24,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Jefe de farmacia, Maestro de educación infantil , Analista de datos junior, Peluquero canino, Documentalista de archivo, Cajero de banco, Director de operaciones, Auxiliar de tienda de mascotas, Dependienta de pastelería, Analista administrativo y finanzas, Dependiende de heladería, Auxiliar de cocina, Aprendiz de barista, Chofer, Auxiliar salud mental, Técnico instrumentista quirúrgico, Ayudante de almacen, Gerente de cobranza, Asesor financiero, Repartidor de paquetería, Auditor de campo, Consejero de productos de belleza, Encargado de librería, Subgerente de sucursal de tienda, Agente de atención al cliente, Gerente de marketing y PR, Personal de limpieza, Gerente de sucursal de tienda, Auxiliar de autoservicio, Dependiente de carnicería, Coordinador de eventos y congresos, Asesor Inmobiliario, Instalador de aire acondicionado, Responsable de turno de tienda, Gerente de recursos humanos, Director de proyecto IT Senior, Personal de oficina de almacén, Recepcionista de hotel, Director de escuela privada, Preparador de pedidos, Gerente de producción, Mecánico de vehículos, Administrador de hospital, Vendedor de mostrador, Administrativo contable, Cajero - Reponedor, Peluquero, Vigilante de seguridad, Cocinero de cocina japonesa, Psicólogo, Asesor contable, Repartidor en moto, Instalador de telecomunicaciones, Especialista en gestión de riesgos y de seguridad de la información","Jefe de farmacia, B, Maestro de educación infantil, A, Analista de datos junior, B, Peluquero canino, A, Documentalista de archivo, B, Cajero de banco, B, Director de operaciones, B, Auxiliar de tienda de mascotas, A, Dependienta de pastelería, A, Analista administrativo y finanzas, B, Dependiente de heladería, A, Auxiliar de cocina, A, Aprendiz de barista, A, Chofer, A, Auxiliar salud mental, B, Técnico instrumentista quirúrgico, B, Ayudante de almacen, A, Gerente de cobranza, B, Asesor financiero, B, Repartidor de paquetería, A, Auditor de campo, B, Consejero de productos de belleza, A, Encargado de librería, A, Subgerente de sucursal de tienda, B, Agente de atención al cliente, B, Gerente de marketing y PR, B, Personal de limpieza, A, Gerente de sucursal de tienda, B, Auxiliar de autoservicio, A, Dependiente de carnicería, A, Coordinador de eventos y congresos, B, Asesor Inmobiliario, B, Instalador de aire acondicionado, A, Responsable de turno de tienda, B, Gerente de recursos humanos, B, Director de proyecto IT Senior, B, Personal de oficina de almacén, A, Recepcionista de hotel, B, Director de escuela privada, B, Preparador de pedidos, A, Gerente de producción, B, Mecánico de vehículos, A, Administrador de hospital, B, Vendedor de mostrador, A, Administrativo contable, B, Cajero - Reponedor, B, Peluquero, A, Vigilante de seguridad, B, Cocinero de cocina japonesa, A, Psicólogo, B, Asesor contable, B, Repartidor en moto, A, Instalador de telecomunicaciones, A, Especialista en gestión de riesgos y de seguridad de la información, B",01/24/26
+25,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Director de escuela privada, Documentalista de archivo, Dependiende de heladería, Personal de limpieza, Gerente de producción, Asesor contable, Psicólogo, Recepcionista de hotel, Peluquero, Gerente de marketing y PR, Maestro de educación infantil , Cocinero de cocina japonesa, Gerente de recursos humanos, Dependienta de pastelería, Cajero de banco, Especialista en gestión de riesgos y de seguridad de la información, Administrador de hospital, Preparador de pedidos, Director de proyecto IT Senior, Consejero de productos de belleza, Repartidor en moto, Instalador de aire acondicionado, Auxiliar de autoservicio, Auxiliar de tienda de mascotas, Vendedor de mostrador, Responsable de turno de tienda, Instalador de telecomunicaciones, Agente de atención al cliente, Administrativo contable, Cajero - Reponedor, Personal de oficina de almacén, Auxiliar de cocina, Gerente de cobranza, Vigilante de seguridad, Encargado de librería, Gerente de sucursal de tienda, Repartidor de paquetería, Chofer, Asesor Inmobiliario, Auxiliar salud mental, Director de operaciones, Coordinador de eventos y congresos, Analista administrativo y finanzas, Analista de datos junior, Jefe de farmacia, Peluquero canino, Técnico instrumentista quirúrgico, Ayudante de almacen, Aprendiz de barista, Subgerente de sucursal de tienda, Auditor de campo, Dependiente de carnicería, Mecánico de vehículos, Asesor financiero","Director de escuela privada, A
+Documentalista de archivo, A
+Dependiente de heladería, B
+Personal de limpieza, B
+Gerente de producción, A
+Asesor contable, A
+Psicólogo, A
+Recepcionista de hotel, B
+Peluquero, B
+Gerente de marketing y PR, A
+Maestro de educación infantil, A
+Cocinero de cocina japonesa, B
+Gerente de recursos humanos, A
+Dependienta de pastelería, B
+Cajero de banco, A
+Especialista en gestión de riesgos y de seguridad de la información, A
+Administrador de hospital, A
+Preparador de pedidos, B
+Director de proyecto IT Senior, A
+Consejero de productos de belleza, B
+Repartidor en moto, B
+Instalador de aire acondicionado, B
+Auxiliar de autoservicio, B
+Auxiliar de tienda de mascotas, B
+Vendedor de mostrador, B
+Responsable de turno de tienda, B
+Instalador de telecomunicaciones, B
+Agente de atención al cliente, B
+Administrativo contable, A
+Cajero - Reponedor, B
+Personal de oficina de almacén, B
+Auxiliar de cocina, B
+Gerente de cobranza, A
+Vigilante de seguridad, B
+Encargado de librería, A
+Gerente de sucursal de tienda, A
+Repartidor de paquetería, B
+Chofer, B
+Asesor Inmobiliario, A
+Auxiliar salud mental, A
+Director de operaciones, A
+Coordinador de eventos y congresos, A
+Analista administrativo y finanzas, A
+Analista de datos junior, A
+Jefe de farmacia, A
+Peluquero canino, B
+Técnico instrumentista quirúrgico, A
+Ayudante de almacen, B
+Aprendiz de barista, B
+Subgerente de sucursal de tienda, B
+Auditor de campo, A
+Dependiente de carnicería, B
+Mecánico de vehículos, B
+Asesor financiero, A",01/24/26
+26,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Auditor de campo, Recepcionista de hotel, Asesor contable, Administrativo contable, Gerente de marketing y PR, Peluquero, Auxiliar salud mental, Gerente de producción, Consejero de productos de belleza, Chofer, Dependienta de pastelería, Gerente de sucursal de tienda, Gerente de cobranza, Administrador de hospital, Director de escuela privada, Cajero de banco, Vigilante de seguridad, Personal de limpieza, Responsable de turno de tienda, Repartidor en moto, Analista administrativo y finanzas, Asesor financiero, Dependiente de carnicería, Preparador de pedidos, Director de proyecto IT Senior, Analista de datos junior, Instalador de telecomunicaciones, Maestro de educación infantil , Peluquero canino, Documentalista de archivo, Agente de atención al cliente, Cocinero de cocina japonesa, Auxiliar de cocina, Auxiliar de tienda de mascotas, Gerente de recursos humanos, Director de operaciones, Personal de oficina de almacén, Subgerente de sucursal de tienda, Mecánico de vehículos, Cajero - Reponedor, Dependiende de heladería, Técnico instrumentista quirúrgico, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar de autoservicio, Jefe de farmacia, Repartidor de paquetería, Coordinador de eventos y congresos, Instalador de aire acondicionado, Aprendiz de barista, Encargado de librería, Psicólogo, Asesor Inmobiliario, Vendedor de mostrador, Ayudante de almacen","Auditor de campo, B, Recepcionista de hotel, A, Asesor contable, B, Administrativo contable, B, Gerente de marketing y PR, A, Peluquero, A, Auxiliar salud mental, B, Gerente de producción, A, Consejero de productos de belleza, A, Chofer, A, Dependienta de pastelería, A, Gerente de sucursal de tienda, A, Gerente de cobranza, B, Administrador de hospital, B, Director de escuela privada, B, Cajero de banco, A, Vigilante de seguridad, A, Personal de limpieza, A, Responsable de turno de tienda, A, Repartidor en moto, A, Analista administrativo y finanzas, B, Asesor financiero, B, Dependiente de carnicería, A, Preparador de pedidos, A, Director de proyecto IT Senior, B, Analista de datos junior, B, Instalador de telecomunicaciones, A, Maestro de educación infantil, B, Peluquero canino, A, Documentalista de archivo, B, Agente de atención al cliente, A, Cocinero de cocina japonesa, A, Auxiliar de cocina, A, Auxiliar de tienda de mascotas, A, Gerente de recursos humanos, B, Director de operaciones, B, Personal de oficina de almacén, A, Subgerente de sucursal de tienda, A, Mecánico de vehículos, A, Cajero - Reponedor, A, Dependiende de heladería, A, Técnico instrumentista quirúrgico, B, Especialista en gestión de riesgos y de seguridad de la información, B, Auxiliar de autoservicio, A, Jefe de farmacia, B, Repartidor de paquetería, A, Coordinador de eventos y congresos, A, Instalador de aire acondicionado, A, Aprendiz de barista, A, Encargado de librería, A, Psicólogo, B, Asesor Inmobiliario, A, Vendedor de mostrador, A, Ayudante de almacen, A",01/24/26
+27,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Cajero - Reponedor, Documentalista de archivo, Instalador de aire acondicionado, Asesor Inmobiliario, Dependienta de pastelería, Gerente de marketing y PR, Auxiliar de tienda de mascotas, Analista de datos junior, Aprendiz de barista, Jefe de farmacia, Gerente de producción, Auxiliar salud mental, Subgerente de sucursal de tienda, Asesor financiero, Recepcionista de hotel, Director de operaciones, Auxiliar de cocina, Chofer, Gerente de recursos humanos, Gerente de sucursal de tienda, Responsable de turno de tienda, Psicólogo, Ayudante de almacen, Dependiente de carnicería, Auxiliar de autoservicio, Mecánico de vehículos, Analista administrativo y finanzas, Administrador de hospital, Cocinero de cocina japonesa, Especialista en gestión de riesgos y de seguridad de la información, Agente de atención al cliente, Personal de oficina de almacén, Consejero de productos de belleza, Cajero de banco, Personal de limpieza, Asesor contable, Encargado de librería, Peluquero, Repartidor en moto, Director de escuela privada, Administrativo contable, Técnico instrumentista quirúrgico, Maestro de educación infantil , Instalador de telecomunicaciones, Preparador de pedidos, Peluquero canino, Dependiende de heladería, Vendedor de mostrador, Director de proyecto IT Senior, Gerente de cobranza, Auditor de campo, Repartidor de paquetería, Vigilante de seguridad, Coordinador de eventos y congresos","Cajero - B, Reponedor - B, Documentalista de archivo - A, Instalador de aire acondicionado - B, Asesor Inmobiliario - B, Dependienta de pastelería - B, Gerente de marketing y PR - A, Auxiliar de tienda de mascotas - B, Analista de datos junior - A, Aprendiz de barista - B, Jefe de farmacia - A, Gerente de producción - A, Auxiliar salud mental - A, Subgerente de sucursal de tienda - B, Asesor financiero - A, Recepcionista de hotel - B, Director de operaciones - A, Auxiliar de cocina - B, Chofer - B, Gerente de recursos humanos - A, Gerente de sucursal de tienda - B, Responsable de turno de tienda - B, Psicólogo - A, Ayudante de almacen - B, Dependiente de carnicería - B, Auxiliar de autoservicio - B, Mecánico de vehículos - B, Analista administrativo y finanzas - A, Administrador de hospital - A, Cocinero de cocina japonesa - B, Especialista en gestión de riesgos y de seguridad de la información - A, Agente de atención al cliente - B, Personal de oficina de almacén - B, Consejero de productos de belleza - B, Cajero de banco - A, Personal de limpieza - B, Asesor contable - A, Encargado de librería - A, Peluquero - B, Repartidor en moto - B, Director de escuela privada - A, Administrativo contable - A, Técnico instrumentista quirúrgico - A, Maestro de educación infantil - A, Instalador de telecomunicaciones - B, Preparador de pedidos - B, Peluquero canino - B, Dependiente de heladería - B, Vendedor de mostrador - B, Director de proyecto IT Senior - A, Gerente de cobranza - A, Auditor de campo - B, Repartidor de paquetería - B, Vigilante de seguridad - B, Coordinador de eventos y congresos - A",01/24/26
+28,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Auditor de campo, Auxiliar de autoservicio, Repartidor de paquetería, Director de proyecto IT Senior, Chofer, Analista de datos junior, Psicólogo, Asesor contable, Coordinador de eventos y congresos, Técnico instrumentista quirúrgico, Personal de oficina de almacén, Vendedor de mostrador, Auxiliar de tienda de mascotas, Aprendiz de barista, Dependiende de heladería, Asesor financiero, Gerente de marketing y PR, Recepcionista de hotel, Cocinero de cocina japonesa, Vigilante de seguridad, Administrador de hospital, Jefe de farmacia, Peluquero canino, Asesor Inmobiliario, Instalador de aire acondicionado, Director de operaciones, Auxiliar salud mental, Gerente de producción, Administrativo contable, Preparador de pedidos, Mecánico de vehículos, Personal de limpieza, Consejero de productos de belleza, Especialista en gestión de riesgos y de seguridad de la información, Cajero de banco, Ayudante de almacen, Cajero - Reponedor, Responsable de turno de tienda, Agente de atención al cliente, Gerente de sucursal de tienda, Gerente de cobranza, Gerente de recursos humanos, Analista administrativo y finanzas, Repartidor en moto, Dependienta de pastelería, Auxiliar de cocina, Subgerente de sucursal de tienda, Peluquero, Instalador de telecomunicaciones, Documentalista de archivo, Director de escuela privada, Dependiente de carnicería, Maestro de educación infantil , Encargado de librería","Auditor de campo, B, Auxiliar de autoservicio, A, Repartidor de paquetería, A, Director de proyecto IT Senior, B, Chofer, A, Analista de datos junior, B, Psicólogo, B, Asesor contable, B, Coordinador de eventos y congresos, B, Técnico instrumentista quirúrgico, B, Personal de oficina de almacén, A, Vendedor de mostrador, A, Auxiliar de tienda de mascotas, A, Aprendiz de barista, A, Dependiente de heladería, A, Asesor financiero, B, Gerente de marketing y PR, B, Recepcionista de hotel, A, Cocinero de cocina japonesa, A, Vigilante de seguridad, A, Administrador de hospital, B, Jefe de farmacia, B, Peluquero canino, A, Asesor Inmobiliario, B, Instalador de aire acondicionado, A, Director de operaciones, B, Auxiliar salud mental, B, Gerente de producción, B, Administrativo contable, B, Preparador de pedidos, A, Mecánico de vehículos, A, Personal de limpieza, A, Consejero de productos de belleza, A, Especialista en gestión de riesgos y de seguridad de la información, B, Cajero de banco, B, Ayudante de almacen, A, Cajero - Reponedor, A, Responsable de turno de tienda, A, Agente de atención al cliente, A, Gerente de sucursal de tienda, B, Gerente de cobranza, B, Gerente de recursos humanos, B, Analista administrativo y finanzas, B, Repartidor en moto, A, Dependienta de pastelería, A, Auxiliar de cocina, A, Subgerente de sucursal de tienda, B, Peluquero, B, Instalador de telecomunicaciones, B, Documentalista de archivo, B, Director de escuela privada, B, Dependiente de carnicería, A, Maestro de educación infantil, B, Encargado de librería, A",01/24/26
+29,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Cocinero de cocina japonesa, Auxiliar de tienda de mascotas, Gerente de sucursal de tienda, Coordinador de eventos y congresos, Psicólogo, Analista de datos junior, Administrador de hospital, Repartidor de paquetería, Vendedor de mostrador, Gerente de cobranza, Aprendiz de barista, Vigilante de seguridad, Analista administrativo y finanzas, Auditor de campo, Asesor financiero, Administrativo contable, Instalador de aire acondicionado, Responsable de turno de tienda, Consejero de productos de belleza, Gerente de producción, Jefe de farmacia, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar de autoservicio, Auxiliar de cocina, Dependiente de carnicería, Preparador de pedidos, Repartidor en moto, Cajero de banco, Peluquero canino, Gerente de recursos humanos, Peluquero, Director de operaciones, Agente de atención al cliente, Dependiende de heladería, Director de escuela privada, Recepcionista de hotel, Asesor Inmobiliario, Documentalista de archivo, Cajero - Reponedor, Instalador de telecomunicaciones, Asesor contable, Director de proyecto IT Senior, Subgerente de sucursal de tienda, Auxiliar salud mental, Gerente de marketing y PR, Mecánico de vehículos, Técnico instrumentista quirúrgico, Personal de limpieza, Chofer, Ayudante de almacen, Dependienta de pastelería, Encargado de librería, Maestro de educación infantil , Personal de oficina de almacén","Cocinero de cocina japonesa, B, Auxiliar de tienda de mascotas, B, Gerente de sucursal de tienda, B, Coordinador de eventos y congresos, A, Psicólogo, A, Analista de datos junior, A, Administrador de hospital, A, Repartidor de paquetería, B, Vendedor de mostrador, B, Gerente de cobranza, A, Aprendiz de barista, A, Vigilante de seguridad, A, Analista administrativo y finanzas, A, Auditor de campo, A, Asesor financiero, A, Administrativo contable, A, Instalador de aire acondicionado, B, Responsable de turno de tienda, B, Consejero de productos de belleza, B, Gerente de producción, A, Jefe de farmacia, A, Especialista en gestión de riesgos y de seguridad de la información, A, Auxiliar de autoservicio, B, Auxiliar de cocina, B, Dependiente de carnicería, B, Preparador de pedidos, B, Repartidor en moto, B, Cajero de banco, A, Peluquero canino, B, Gerente de recursos humanos, A, Peluquero, B, Director de operaciones, A, Agente de atención al cliente, B, Dependiente de heladería, B, Director de escuela privada, A, Recepcionista de hotel, B, Asesor Inmobiliario, A, Documentalista de archivo, A, Cajero - Reponedor, B, Instalador de telecomunicaciones, B, Asesor contable, A, Director de proyecto IT Senior, A, Subgerente de sucursal de tienda, B, Auxiliar salud mental, A, Gerente de marketing y PR, A, Mecánico de vehículos, B, Técnico instrumentista quirúrgico, A, Personal de limpieza, B, Chofer, B, Ayudante de almacen, B, Dependienta de pastelería, B, Encargado de librería, A, Maestro de educación infantil, A, Personal de oficina de almacén, B",01/24/26
+30,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Gerente de producción, Especialista en gestión de riesgos y de seguridad de la información, Analista administrativo y finanzas, Auditor de campo, Administrador de hospital, Administrativo contable, Ayudante de almacen, Peluquero, Gerente de sucursal de tienda, Aprendiz de barista, Director de escuela privada, Cajero - Reponedor, Recepcionista de hotel, Gerente de recursos humanos, Director de operaciones, Documentalista de archivo, Maestro de educación infantil , Mecánico de vehículos, Repartidor de paquetería, Cocinero de cocina japonesa, Subgerente de sucursal de tienda, Asesor financiero, Agente de atención al cliente, Consejero de productos de belleza, Jefe de farmacia, Personal de oficina de almacén, Auxiliar salud mental, Dependiente de carnicería, Personal de limpieza, Instalador de telecomunicaciones, Analista de datos junior, Psicólogo, Técnico instrumentista quirúrgico, Instalador de aire acondicionado, Vendedor de mostrador, Preparador de pedidos, Asesor Inmobiliario, Cajero de banco, Gerente de marketing y PR, Gerente de cobranza, Coordinador de eventos y congresos, Auxiliar de tienda de mascotas, Dependiende de heladería, Auxiliar de cocina, Auxiliar de autoservicio, Dependienta de pastelería, Repartidor en moto, Encargado de librería, Chofer, Asesor contable, Vigilante de seguridad, Peluquero canino, Director de proyecto IT Senior, Responsable de turno de tienda","Gerente de producción, B, Especialista en gestión de riesgos y de seguridad de la información, B, Analista administrativo y finanzas, B, Auditor de campo, B, Administrador de hospital, B, Administrativo contable, B, Ayudante de almacen, A, Peluquero, A, Gerente de sucursal de tienda, A, Aprendiz de barista, A, Director de escuela privada, B, Cajero - Reponedor, A, Recepcionista de hotel, A, Gerente de recursos humanos, B, Director de operaciones, B, Documentalista de archivo, B, Maestro de educación infantil, A, Mecánico de vehículos, A, Repartidor de paquetería, A, Cocinero de cocina japonesa, B, Subgerente de sucursal de tienda, A, Asesor financiero, B, Agente de atención al cliente, A, Consejero de productos de belleza, A, Jefe de farmacia, B, Personal de oficina de almacén, A, Auxiliar salud mental, B, Dependiente de carnicería, A, Personal de limpieza, A, Instalador de telecomunicaciones, B, Analista de datos junior, B, Psicólogo, B, Técnico instrumentista quirúrgico, B, Instalador de aire acondicionado, B, Vendedor de mostrador, A, Preparador de pedidos, A, Asesor Inmobiliario, B, Cajero de banco, B, Gerente de marketing y PR, B, Gerente de cobranza, B, Coordinador de eventos y congresos, B, Auxiliar de tienda de mascotas, A, Dependiente de heladería, A, Auxiliar de cocina, A, Auxiliar de autoservicio, A, Dependienta de pastelería, A, Repartidor en moto, A, Encargado de librería, A, Chofer, A, Asesor contable, B, Vigilante de seguridad, A, Peluquero canino, A, Director de proyecto IT Senior, B, Responsable de turno de tienda, A",01/24/26
+31,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Mecánico de vehículos, Instalador de aire acondicionado, Peluquero canino, Repartidor de paquetería, Agente de atención al cliente, Administrador de hospital, Cajero de banco, Gerente de cobranza, Personal de oficina de almacén, Vendedor de mostrador, Repartidor en moto, Jefe de farmacia, Responsable de turno de tienda, Dependienta de pastelería, Gerente de marketing y PR, Chofer, Aprendiz de barista, Gerente de recursos humanos, Técnico instrumentista quirúrgico, Administrativo contable, Vigilante de seguridad, Coordinador de eventos y congresos, Dependiende de heladería, Encargado de librería, Asesor financiero, Asesor Inmobiliario, Director de operaciones, Consejero de productos de belleza, Asesor contable, Auxiliar de cocina, Analista administrativo y finanzas, Preparador de pedidos, Director de escuela privada, Personal de limpieza, Gerente de producción, Director de proyecto IT Senior, Especialista en gestión de riesgos y de seguridad de la información, Auxiliar de autoservicio, Gerente de sucursal de tienda, Ayudante de almacen, Auditor de campo, Subgerente de sucursal de tienda, Dependiente de carnicería, Psicólogo, Instalador de telecomunicaciones, Recepcionista de hotel, Auxiliar salud mental, Cocinero de cocina japonesa, Cajero - Reponedor, Documentalista de archivo, Analista de datos junior, Peluquero, Auxiliar de tienda de mascotas, Maestro de educación infantil ","Mecánico de vehículos, B, Instalador de aire acondicionado, B, Peluquero canino, B, Repartidor de paquetería, B, Agente de atención al cliente, B, Administrador de hospital, A, Cajero de banco, A, Gerente de cobranza, A, Personal de oficina de almacén, A, Vendedor de mostrador, B, Repartidor en moto, B, Jefe de farmacia, A, Responsable de turno de tienda, B, Dependienta de pastelería, B, Gerente de marketing y PR, A, Chofer, B, Aprendiz de barista, B, Gerente de recursos humanos, A, Técnico instrumentista quirúrgico, A, Administrativo contable, A, Vigilante de seguridad, B, Coordinador de eventos y congresos, A, Dependiende de heladería, B, Encargado de librería, A, Asesor financiero, A, Asesor Inmobiliario, A, Director de operaciones, A, Consejero de productos de belleza, B, Asesor contable, A, Auxiliar de cocina, B, Analista administrativo y finanzas, A, Preparador de pedidos, B, Director de escuela privada, A, Personal de limpieza, B, Gerente de producción, A, Director de proyecto IT Senior, A, Especialista en gestión de riesgos y de seguridad de la información, A, Auxiliar de autoservicio, B, Gerente de sucursal de tienda, B, Ayudante de almacen, B, Auditor de campo, A, Subgerente de sucursal de tienda, B, Dependiente de carnicería, B, Psicólogo, A, Instalador de telecomunicaciones, B, Recepcionista de hotel, B, Auxiliar salud mental, A, Cocinero de cocina japonesa, B, Cajero - Reponedor, B, Documentalista de archivo, A, Analista de datos junior, A, Peluquero, B, Auxiliar de tienda de mascotas, B, Maestro de educación infantil, A",01/24/26
+32,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Gerente de marketing y PR, Gerente de sucursal de tienda, Cajero de banco, Auxiliar de autoservicio, Preparador de pedidos, Administrador de hospital, Subgerente de sucursal de tienda, Aprendiz de barista, Agente de atención al cliente, Gerente de producción, Auxiliar de tienda de mascotas, Director de escuela privada, Cocinero de cocina japonesa, Administrativo contable, Dependiende de heladería, Personal de limpieza, Asesor Inmobiliario, Vigilante de seguridad, Dependienta de pastelería, Director de proyecto IT Senior, Recepcionista de hotel, Mecánico de vehículos, Especialista en gestión de riesgos y de seguridad de la información, Gerente de recursos humanos, Asesor contable, Peluquero, Vendedor de mostrador, Auditor de campo, Encargado de librería, Coordinador de eventos y congresos, Jefe de farmacia, Gerente de cobranza, Auxiliar de cocina, Documentalista de archivo, Personal de oficina de almacén, Auxiliar salud mental, Ayudante de almacen, Maestro de educación infantil , Chofer, Peluquero canino, Analista de datos junior, Cajero - Reponedor, Dependiente de carnicería, Responsable de turno de tienda, Repartidor de paquetería, Director de operaciones, Instalador de aire acondicionado, Repartidor en moto, Asesor financiero, Técnico instrumentista quirúrgico, Consejero de productos de belleza, Analista administrativo y finanzas, Psicólogo, Instalador de telecomunicaciones","Gerente de marketing y PR, B
+Gerente de sucursal de tienda, B
+Cajero de banco, B
+Auxiliar de autoservicio, A
+Preparador de pedidos, A
+Administrador de hospital, B
+Subgerente de sucursal de tienda, B
+Aprendiz de barista, A
+Agente de atención al cliente, A
+Gerente de producción, B
+Auxiliar de tienda de mascotas, A
+Director de escuela privada, B
+Cocinero de cocina japonesa, A
+Administrativo contable, B
+Dependiente de heladería, A
+Personal de limpieza, A
+Asesor Inmobiliario, B
+Vigilante de seguridad, A
+Dependienta de pastelería, A
+Director de proyecto IT Senior, B
+Recepcionista de hotel, B
+Mecánico de vehículos, A
+Especialista en gestión de riesgos y de seguridad de la información, B
+Gerente de recursos humanos, B
+Asesor contable, B
+Peluquero, A
+Vendedor de mostrador, A
+Auditor de campo, B
+Encargado de librería, A
+Coordinador de eventos y congresos, B
+Jefe de farmacia, B
+Gerente de cobranza, B
+Auxiliar de cocina, A
+Documentalista de archivo, B
+Personal de oficina de almacén, A
+Auxiliar salud mental, B
+Ayudante de almacen, A
+Maestro de educación infantil, A
+Chofer, A
+Peluquero canino, A
+Analista de datos junior, B
+Cajero - Reponedor, A
+Dependiente de carnicería, A
+Responsable de turno de tienda, B
+Repartidor de paquetería, A
+Director de operaciones, B
+Instalador de aire acondicionado, A
+Repartidor en moto, A
+Asesor financiero, B
+Técnico instrumentista quirúrgico, B
+Consejero de productos de belleza, A
+Analista administrativo y finanzas, B
+Psicólogo, B
+Instalador de telecomunicaciones, A
+",01/24/26
+33,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Jefe de farmacia, Coordinador de eventos y congresos, Asesor financiero, Cocinero de cocina japonesa, Instalador de aire acondicionado, Ayudante de almacen, Gerente de producción, Gerente de sucursal de tienda, Gerente de cobranza, Director de escuela privada, Técnico instrumentista quirúrgico, Gerente de marketing y PR, Auxiliar salud mental, Instalador de telecomunicaciones, Director de operaciones, Personal de oficina de almacén, Analista de datos junior, Aprendiz de barista, Consejero de productos de belleza, Peluquero, Repartidor de paquetería, Encargado de librería, Preparador de pedidos, Director de proyecto IT Senior, Auxiliar de autoservicio, Dependienta de pastelería, Vendedor de mostrador, Especialista en gestión de riesgos y de seguridad de la información, Agente de atención al cliente, Gerente de recursos humanos, Administrativo contable, Cajero de banco, Recepcionista de hotel, Chofer, Mecánico de vehículos, Analista administrativo y finanzas, Maestro de educación infantil , Responsable de turno de tienda, Auxiliar de tienda de mascotas, Administrador de hospital, Documentalista de archivo, Vigilante de seguridad, Personal de limpieza, Repartidor en moto, Asesor Inmobiliario, Asesor contable, Auxiliar de cocina, Cajero - Reponedor, Peluquero canino, Dependiende de heladería, Auditor de campo, Dependiente de carnicería, Psicólogo, Subgerente de sucursal de tienda","Jefe de farmacia, A
+Coordinador de eventos y congresos, B
+Asesor financiero, A
+Cocinero de cocina japonesa, B
+Instalador de aire acondicionado, B
+Ayudante de almacen, B
+Gerente de producción, A
+Gerente de sucursal de tienda, B
+Gerente de cobranza, A
+Director de escuela privada, A
+Técnico instrumentista quirúrgico, A
+Gerente de marketing y PR, B
+Auxiliar salud mental, A
+Instalador de telecomunicaciones, B
+Director de operaciones, A
+Personal de oficina de almacén, B
+Analista de datos junior, A
+Aprendiz de barista, B
+Consejero de productos de belleza, B
+Peluquero, B
+Repartidor de paquetería, B
+Encargado de librería, A
+Preparador de pedidos, B
+Director de proyecto IT Senior, A
+Auxiliar de autoservicio, B
+Dependienta de pastelería, B
+Vendedor de mostrador, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Agente de atención al cliente, B
+Gerente de recursos humanos, A
+Administrativo contable, A
+Cajero de banco, B
+Recepcionista de hotel, B
+Chofer, B
+Mecánico de vehículos, B
+Analista administrativo y finanzas, A
+Maestro de educación infantil, A
+Responsable de turno de tienda, B
+Auxiliar de tienda de mascotas, B
+Administrador de hospital, A
+Documentalista de archivo, A
+Vigilante de seguridad, B
+Personal de limpieza, B
+Repartidor en moto, B
+Asesor Inmobiliario, B
+Asesor contable, A
+Auxiliar de cocina, B
+Cajero - Reponedor, B
+Peluquero canino, B
+Dependiente de heladería, B
+Auditor de campo, A
+Dependiente de carnicería, B
+Psicólogo, A
+Subgerente de sucursal de tienda, B",01/24/26
+34,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Ayudante de almacen, Vigilante de seguridad, Jefe de farmacia, Administrativo contable, Repartidor de paquetería, Auxiliar de cocina, Gerente de marketing y PR, Asesor Inmobiliario, Administrador de hospital, Gerente de cobranza, Responsable de turno de tienda, Cajero - Reponedor, Aprendiz de barista, Instalador de aire acondicionado, Mecánico de vehículos, Preparador de pedidos, Agente de atención al cliente, Director de escuela privada, Gerente de recursos humanos, Subgerente de sucursal de tienda, Consejero de productos de belleza, Repartidor en moto, Instalador de telecomunicaciones, Técnico instrumentista quirúrgico, Auxiliar de tienda de mascotas, Auxiliar de autoservicio, Dependiente de carnicería, Vendedor de mostrador, Documentalista de archivo, Recepcionista de hotel, Maestro de educación infantil , Peluquero canino, Peluquero, Asesor financiero, Dependiende de heladería, Auditor de campo, Dependienta de pastelería, Encargado de librería, Cocinero de cocina japonesa, Gerente de sucursal de tienda, Coordinador de eventos y congresos, Especialista en gestión de riesgos y de seguridad de la información, Director de proyecto IT Senior, Analista administrativo y finanzas, Psicólogo, Analista de datos junior, Chofer, Gerente de producción, Cajero de banco, Personal de oficina de almacén, Auxiliar salud mental, Personal de limpieza, Asesor contable, Director de operaciones","Ayudante de almacen, A, Vigilante de seguridad, A, Jefe de farmacia, A, Administrativo contable, B, Repartidor de paquetería, A, Auxiliar de cocina, A, Gerente de marketing y PR, B, Asesor Inmobiliario, A, Administrador de hospital, B, Gerente de cobranza, A, Responsable de turno de tienda, A, Cajero - Reponedor, A, Aprendiz de barista, A, Instalador de aire acondicionado, A, Mecánico de vehículos, A, Preparador de pedidos, A, Agente de atención al cliente, A, Director de escuela privada, B, Gerente de recursos humanos, B, Subgerente de sucursal de tienda, A, Consejero de productos de belleza, A, Repartidor en moto, A, Instalador de telecomunicaciones, A, Técnico instrumentista quirúrgico, B, Auxiliar de tienda de mascotas, A, Auxiliar de autoservicio, A, Dependiente de carnicería, A, Vendedor de mostrador, A, Documentalista de archivo, B, Recepcionista de hotel, B, Maestro de educación infantil, B, Peluquero canino, A, Peluquero, A, Asesor financiero, B, Dependiente de heladería, A, Auditor de campo, B, Dependienta de pastelería, A, Encargado de librería, A, Cocinero de cocina japonesa, A, Gerente de sucursal de tienda, A, Coordinador de eventos y congresos, B, Especialista en gestión de riesgos y de seguridad de la información, B, Director de proyecto IT Senior, B, Analista administrativo y finanzas, B, Psicólogo, B, Analista de datos junior, B, Chofer, A, Gerente de producción, B, Cajero de banco, B, Personal de oficina de almacén, A, Auxiliar salud mental, B, Personal de limpieza, A, Asesor contable, B, Director de operaciones, B",01/24/26
+35,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Aprendiz de barista, Administrador de hospital, Dependienta de pastelería, Cajero de banco, Técnico instrumentista quirúrgico, Documentalista de archivo, Gerente de marketing y PR, Director de proyecto IT Senior, Mecánico de vehículos, Asesor financiero, Gerente de recursos humanos, Agente de atención al cliente, Vigilante de seguridad, Auxiliar de autoservicio, Repartidor en moto, Responsable de turno de tienda, Peluquero, Repartidor de paquetería, Gerente de cobranza, Auditor de campo, Jefe de farmacia, Instalador de aire acondicionado, Psicólogo, Gerente de sucursal de tienda, Analista administrativo y finanzas, Gerente de producción, Cocinero de cocina japonesa, Consejero de productos de belleza, Dependiente de carnicería, Preparador de pedidos, Vendedor de mostrador, Chofer, Coordinador de eventos y congresos, Auxiliar de tienda de mascotas, Subgerente de sucursal de tienda, Analista de datos junior, Personal de limpieza, Asesor Inmobiliario, Auxiliar salud mental, Dependiende de heladería, Ayudante de almacen, Maestro de educación infantil , Cajero - Reponedor, Asesor contable, Especialista en gestión de riesgos y de seguridad de la información, Encargado de librería, Recepcionista de hotel, Director de escuela privada, Instalador de telecomunicaciones, Peluquero canino, Personal de oficina de almacén, Director de operaciones, Administrativo contable, Auxiliar de cocina","Aprendiz de barista, B, Administrador de hospital, A, Dependienta de pastelería, B, Cajero de banco, A, Técnico instrumentista quirúrgico, A, Documentalista de archivo, A, Gerente de marketing y PR, A, Director de proyecto IT Senior, A, Mecánico de vehículos, B, Asesor financiero, A, Gerente de recursos humanos, A, Agente de atención al cliente, B, Vigilante de seguridad, B, Auxiliar de autoservicio, B, Repartidor en moto, B, Responsable de turno de tienda, B, Peluquero, B, Repartidor de paquetería, B, Gerente de cobranza, A, Auditor de campo, A, Jefe de farmacia, A, Instalador de aire acondicionado, B, Psicólogo, A, Gerente de sucursal de tienda, A, Analista administrativo y finanzas, A, Gerente de producción, A, Cocinero de cocina japonesa, B, Consejero de productos de belleza, B, Dependiente de carnicería, B, Preparador de pedidos, B, Vendedor de mostrador, B, Chofer, B, Coordinador de eventos y congresos, A, Auxiliar de tienda de mascotas, B, Subgerente de sucursal de tienda, B, Analista de datos junior, A, Personal de limpieza, B, Asesor Inmobiliario, A, Auxiliar salud mental, A, Dependiente de heladería, B, Ayudante de almacen, B, Maestro de educación infantil, A, Cajero - Reponedor, B, Asesor contable, A, Especialista en gestión de riesgos y de seguridad de la información, A, Encargado de librería, A, Recepcionista de hotel, A, Director de escuela privada, A, Instalador de telecomunicaciones, B, Peluquero canino, B, Personal de oficina de almacén, B, Director de operaciones, A, Administrativo contable, A, Auxiliar de cocina, B",01/24/26
+36,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Cajero de banco, Coordinador de eventos y congresos, Director de escuela privada, Responsable de turno de tienda, Auxiliar salud mental, Ayudante de almacen, Administrativo contable, Gerente de sucursal de tienda, Personal de oficina de almacén, Preparador de pedidos, Repartidor en moto, Mecánico de vehículos, Especialista en gestión de riesgos y de seguridad de la información, Gerente de cobranza, Administrador de hospital, Vigilante de seguridad, Aprendiz de barista, Asesor contable, Cocinero de cocina japonesa, Gerente de marketing y PR, Encargado de librería, Gerente de producción, Dependiende de heladería, Psicólogo, Vendedor de mostrador, Agente de atención al cliente, Director de operaciones, Peluquero, Auxiliar de cocina, Director de proyecto IT Senior, Asesor financiero, Maestro de educación infantil , Auditor de campo, Repartidor de paquetería, Asesor Inmobiliario, Instalador de telecomunicaciones, Dependiente de carnicería, Documentalista de archivo, Chofer, Cajero - Reponedor, Técnico instrumentista quirúrgico, Instalador de aire acondicionado, Auxiliar de tienda de mascotas, Subgerente de sucursal de tienda, Auxiliar de autoservicio, Recepcionista de hotel, Analista administrativo y finanzas, Consejero de productos de belleza, Analista de datos junior, Gerente de recursos humanos, Jefe de farmacia, Personal de limpieza, Peluquero canino, Dependienta de pastelería","Cajero de banco, B
+Coordinador de eventos y congresos, B
+Director de escuela privada, B
+Responsable de turno de tienda, A
+Auxiliar salud mental, B
+Ayudante de almacen, A
+Administrativo contable, B
+Gerente de sucursal de tienda, A
+Personal de oficina de almacén, A
+Preparador de pedidos, A
+Repartidor en moto, A
+Mecánico de vehículos, A
+Especialista en gestión de riesgos y de seguridad de la información, B
+Gerente de cobranza, B
+Administrador de hospital, B
+Vigilante de seguridad, A
+Aprendiz de barista, A
+Asesor contable, B
+Cocinero de cocina japonesa, B
+Gerente de marketing y PR, B
+Encargado de librería, A
+Gerente de producción, B
+Dependiente de heladería, A
+Psicólogo, B
+Vendedor de mostrador, A
+Agente de atención al cliente, A
+Director de operaciones, B
+Peluquero, A
+Auxiliar de cocina, A
+Director de proyecto IT Senior, B
+Asesor financiero, B
+Maestro de educación infantil, B
+Auditor de campo, B
+Repartidor de paquetería, A
+Asesor Inmobiliario, B
+Instalador de telecomunicaciones, A
+Dependiente de carnicería, A
+Documentalista de archivo, B
+Chofer, A
+Cajero - Reponedor, A
+Técnico instrumentista quirúrgico, B
+Instalador de aire acondicionado, A
+Auxiliar de tienda de mascotas, A
+Subgerente de sucursal de tienda, A
+Auxiliar de autoservicio, A
+Recepcionista de hotel, B
+Analista administrativo y finanzas, B
+Consejero de productos de belleza, A
+Analista de datos junior, B
+Gerente de recursos humanos, B
+Jefe de farmacia, B
+Personal de limpieza, A
+Peluquero canino, A
+Dependienta de pastelería, A",01/24/26
+37,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Especialista en gestión de riesgos y de seguridad de la información, Administrativo contable, Director de escuela privada, Auxiliar salud mental, Analista administrativo y finanzas, Director de operaciones, Gerente de cobranza, Gerente de producción, Auxiliar de tienda de mascotas, Dependiende de heladería, Dependiente de carnicería, Director de proyecto IT Senior, Documentalista de archivo, Cocinero de cocina japonesa, Peluquero canino, Técnico instrumentista quirúrgico, Jefe de farmacia, Psicólogo, Encargado de librería, Dependienta de pastelería, Cajero de banco, Cajero - Reponedor, Asesor financiero, Consejero de productos de belleza, Gerente de recursos humanos, Auxiliar de autoservicio, Asesor Inmobiliario, Peluquero, Aprendiz de barista, Asesor contable, Agente de atención al cliente, Chofer, Responsable de turno de tienda, Repartidor en moto, Vendedor de mostrador, Administrador de hospital, Preparador de pedidos, Ayudante de almacen, Personal de oficina de almacén, Instalador de aire acondicionado, Gerente de sucursal de tienda, Analista de datos junior, Coordinador de eventos y congresos, Vigilante de seguridad, Auxiliar de cocina, Instalador de telecomunicaciones, Auditor de campo, Repartidor de paquetería, Maestro de educación infantil , Subgerente de sucursal de tienda, Personal de limpieza, Recepcionista de hotel, Mecánico de vehículos, Gerente de marketing y PR","Especialista en gestión de riesgos y de seguridad de la información, A
+Administrativo contable, A
+Director de escuela privada, A
+Auxiliar salud mental, B
+Analista administrativo y finanzas, A
+Director de operaciones, A
+Gerente de cobranza, A
+Gerente de producción, A
+Auxiliar de tienda de mascotas, B
+Dependiente de heladería, B
+Dependiente de carnicería, B
+Director de proyecto IT Senior, A
+Documentalista de archivo, A
+Cocinero de cocina japonesa, B
+Peluquero canino, B
+Técnico instrumentista quirúrgico, A
+Jefe de farmacia, A
+Psicólogo, B
+Encargado de librería, A
+Dependienta de pastelería, B
+Cajero de banco, A
+Cajero - Reponedor, A
+Asesor financiero, A
+Consejero de productos de belleza, B
+Gerente de recursos humanos, A
+Auxiliar de autoservicio, B
+Asesor Inmobiliario, A
+Peluquero, B
+Aprendiz de barista, B
+Asesor contable, A
+Agente de atención al cliente, B
+Chofer, B
+Responsable de turno de tienda, B
+Repartidor en moto, B
+Vendedor de mostrador, B
+Administrador de hospital, A
+Preparador de pedidos, B
+Ayudante de almacen, B
+Personal de oficina de almacén, A
+Instalador de aire acondicionado, B
+Gerente de sucursal de tienda, A
+Analista de datos junior, A
+Coordinador de eventos y congresos, B
+Vigilante de seguridad, B
+Auxiliar de cocina, B
+Instalador de telecomunicaciones, B
+Auditor de campo, A
+Repartidor de paquetería, B
+Maestro de educación infantil, B
+Subgerente de sucursal de tienda, B
+Personal de limpieza, B
+Recepcionista de hotel, B
+Mecánico de vehículos, B
+Gerente de marketing y PR, A
+",01/24/26
+38,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Asesor contable, Maestro de educación infantil , Peluquero, Jefe de farmacia, Técnico instrumentista quirúrgico, Gerente de cobranza, Psicólogo, Auditor de campo, Auxiliar salud mental, Asesor Inmobiliario, Coordinador de eventos y congresos, Responsable de turno de tienda, Asesor financiero, Mecánico de vehículos, Aprendiz de barista, Director de proyecto IT Senior, Documentalista de archivo, Preparador de pedidos, Especialista en gestión de riesgos y de seguridad de la información, Vendedor de mostrador, Director de operaciones, Ayudante de almacen, Instalador de telecomunicaciones, Dependiente de carnicería, Auxiliar de tienda de mascotas, Gerente de sucursal de tienda, Gerente de producción, Analista de datos junior, Instalador de aire acondicionado, Dependiende de heladería, Auxiliar de autoservicio, Vigilante de seguridad, Peluquero canino, Repartidor en moto, Auxiliar de cocina, Director de escuela privada, Dependienta de pastelería, Personal de oficina de almacén, Administrador de hospital, Consejero de productos de belleza, Personal de limpieza, Subgerente de sucursal de tienda, Encargado de librería, Cajero de banco, Analista administrativo y finanzas, Repartidor de paquetería, Cajero - Reponedor, Gerente de marketing y PR, Cocinero de cocina japonesa, Administrativo contable, Chofer, Gerente de recursos humanos, Agente de atención al cliente, Recepcionista de hotel","Asesor contable, B
+Maestro de educación infantil, A
+Peluquero, A
+Jefe de farmacia, B
+Técnico instrumentista quirúrgico, B
+Gerente de cobranza, B
+Psicólogo, B
+Auditor de campo, B
+Auxiliar salud mental, A
+Asesor Inmobiliario, A
+Coordinador de eventos y congresos, B
+Responsable de turno de tienda, A
+Asesor financiero, B
+Mecánico de vehículos, A
+Aprendiz de barista, A
+Director de proyecto IT Senior, B
+Documentalista de archivo, B
+Preparador de pedidos, A
+Especialista en gestión de riesgos y de seguridad de la información, B
+Vendedor de mostrador, A
+Director de operaciones, B
+Ayudante de almacen, A
+Instalador de telecomunicaciones, A
+Dependiente de carnicería, A
+Auxiliar de tienda de mascotas, A
+Gerente de sucursal de tienda, B
+Gerente de producción, B
+Analista de datos junior, B
+Instalador de aire acondicionado, A
+Dependiente de heladería, A
+Auxiliar de autoservicio, A
+Vigilante de seguridad, A
+Peluquero canino, A
+Repartidor en moto, A
+Auxiliar de cocina, A
+Director de escuela privada, A
+Dependienta de pastelería, A
+Personal de oficina de almacén, A
+Administrador de hospital, B
+Consejero de productos de belleza, A
+Personal de limpieza, A
+Subgerente de sucursal de tienda, A
+Encargado de librería, A
+Cajero de banco, B
+Analista administrativo y finanzas, B
+Repartidor de paquetería, A
+Cajero - Reponedor, A
+Gerente de marketing y PR, B
+Cocinero de cocina japonesa, A
+Administrativo contable, B
+Chofer, A
+Gerente de recursos humanos, B
+Agente de atención al cliente, A
+Recepcionista de hotel, B",01/24/26
+39,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Auxiliar de cocina, Jefe de farmacia, Gerente de sucursal de tienda, Responsable de turno de tienda, Auxiliar de autoservicio, Director de escuela privada, Aprendiz de barista, Agente de atención al cliente, Coordinador de eventos y congresos, Director de proyecto IT Senior, Auditor de campo, Instalador de aire acondicionado, Psicólogo, Gerente de cobranza, Encargado de librería, Asesor contable, Vigilante de seguridad, Analista administrativo y finanzas, Subgerente de sucursal de tienda, Cajero de banco, Instalador de telecomunicaciones, Auxiliar salud mental, Dependienta de pastelería, Administrativo contable, Peluquero canino, Gerente de producción, Repartidor de paquetería, Peluquero, Recepcionista de hotel, Ayudante de almacen, Asesor financiero, Gerente de marketing y PR, Documentalista de archivo, Dependiente de carnicería, Vendedor de mostrador, Gerente de recursos humanos, Auxiliar de tienda de mascotas, Maestro de educación infantil , Consejero de productos de belleza, Administrador de hospital, Personal de limpieza, Director de operaciones, Especialista en gestión de riesgos y de seguridad de la información, Cajero - Reponedor, Preparador de pedidos, Asesor Inmobiliario, Cocinero de cocina japonesa, Dependiende de heladería, Analista de datos junior, Técnico instrumentista quirúrgico, Mecánico de vehículos, Chofer, Repartidor en moto, Personal de oficina de almacén","Auxiliar de cocina, B, Jefe de farmacia, A, Gerente de sucursal de tienda, A, Responsable de turno de tienda, A, Auxiliar de autoservicio, B, Director de escuela privada, A, Aprendiz de barista, B, Agente de atención al cliente, B, Coordinador de eventos y congresos, A, Director de proyecto IT Senior, A, Auditor de campo, A, Instalador de aire acondicionado, A, Psicólogo, A, Gerente de cobranza, A, Encargado de librería, A, Asesor contable, A, Vigilante de seguridad, A, Analista administrativo y finanzas, A, Subgerente de sucursal de tienda, A, Cajero de banco, A, Instalador de telecomunicaciones, A, Auxiliar salud mental, A, Dependienta de pastelería, B, Administrativo contable, A, Peluquero canino, B, Gerente de producción, A, Repartidor de paquetería, B, Peluquero, B, Recepcionista de hotel, B, Ayudante de almacen, B, Asesor financiero, A, Gerente de marketing y PR, A, Documentalista de archivo, A, Dependiente de carnicería, B, Vendedor de mostrador, B, Gerente de recursos humanos, A, Auxiliar de tienda de mascotas, B, Maestro de educación infantil, A, Consejero de productos de belleza, B, Administrador de hospital, A, Personal de limpieza, B, Director de operaciones, A, Especialista en gestión de riesgos y de seguridad de la información, A, Cajero - Reponedor, B, Preparador de pedidos, B, Asesor Inmobiliario, A, Cocinero de cocina japonesa, B, Dependiende de heladería, B, Analista de datos junior, A, Técnico instrumentista quirúrgico, A, Mecánico de vehículos, B, Chofer, B, Repartidor en moto, B, Personal de oficina de almacén, B",01/24/26
+40,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Especialista en gestión de riesgos y de seguridad de la información, Aprendiz de barista, Gerente de sucursal de tienda, Dependiende de heladería, Auxiliar de cocina, Encargado de librería, Técnico instrumentista quirúrgico, Auxiliar de autoservicio, Responsable de turno de tienda, Gerente de marketing y PR, Cocinero de cocina japonesa, Instalador de aire acondicionado, Ayudante de almacen, Director de escuela privada, Maestro de educación infantil , Administrador de hospital, Repartidor en moto, Personal de oficina de almacén, Dependiente de carnicería, Peluquero, Analista administrativo y finanzas, Psicólogo, Chofer, Analista de datos junior, Jefe de farmacia, Gerente de producción, Agente de atención al cliente, Mecánico de vehículos, Personal de limpieza, Auditor de campo, Subgerente de sucursal de tienda, Director de operaciones, Recepcionista de hotel, Documentalista de archivo, Dependienta de pastelería, Asesor contable, Vendedor de mostrador, Preparador de pedidos, Auxiliar salud mental, Administrativo contable, Cajero de banco, Cajero - Reponedor, Consejero de productos de belleza, Gerente de recursos humanos, Repartidor de paquetería, Vigilante de seguridad, Gerente de cobranza, Director de proyecto IT Senior, Asesor Inmobiliario, Coordinador de eventos y congresos, Auxiliar de tienda de mascotas, Peluquero canino, Asesor financiero, Instalador de telecomunicaciones","Especialista en gestión de riesgos y de seguridad de la información, B
+Aprendiz de barista, A
+Gerente de sucursal de tienda, A
+Dependiente de heladería, A
+Auxiliar de cocina, A
+Encargado de librería, A
+Técnico instrumentista quirúrgico, B
+Auxiliar de autoservicio, A
+Responsable de turno de tienda, A
+Gerente de marketing y PR, B
+Cocinero de cocina japonesa, B
+Instalador de aire acondicionado, A
+Ayudante de almacen, A
+Director de escuela privada, B
+Maestro de educación infantil, A
+Administrador de hospital, B
+Repartidor en moto, A
+Personal de oficina de almacén, A
+Dependiente de carnicería, A
+Peluquero, A
+Analista administrativo y finanzas, B
+Psicólogo, B
+Chofer, A
+Analista de datos junior, B
+Jefe de farmacia, B
+Gerente de producción, B
+Agente de atención al cliente, A
+Mecánico de vehículos, A
+Personal de limpieza, A
+Auditor de campo, B
+Subgerente de sucursal de tienda, A
+Director de operaciones, B
+Recepcionista de hotel, A
+Documentalista de archivo, B
+Dependienta de pastelería, A
+Asesor contable, B
+Vendedor de mostrador, A
+Preparador de pedidos, A
+Auxiliar salud mental, B
+Administrativo contable, B
+Cajero de banco, A
+Cajero - Reponedor, A
+Consejero de productos de belleza, A
+Gerente de recursos humanos, B
+Repartidor de paquetería, A
+Vigilante de seguridad, A
+Gerente de cobranza, B
+Director de proyecto IT Senior, B
+Asesor Inmobiliario, B
+Coordinador de eventos y congresos, B
+Auxiliar de tienda de mascotas, A
+Peluquero canino, A
+Asesor financiero, B
+Instalador de telecomunicaciones, A",01/24/26
+41,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Personal de limpieza, Auxiliar de tienda de mascotas, Administrativo contable, Coordinador de eventos y congresos, Instalador de aire acondicionado, Responsable de turno de tienda, Subgerente de sucursal de tienda, Gerente de recursos humanos, Técnico instrumentista quirúrgico, Documentalista de archivo, Auxiliar de autoservicio, Auxiliar de cocina, Auxiliar salud mental, Cajero de banco, Consejero de productos de belleza, Dependiente de carnicería, Jefe de farmacia, Cocinero de cocina japonesa, Peluquero canino, Aprendiz de barista, Director de proyecto IT Senior, Gerente de cobranza, Auditor de campo, Analista de datos junior, Director de operaciones, Administrador de hospital, Asesor contable, Dependiende de heladería, Gerente de sucursal de tienda, Director de escuela privada, Ayudante de almacen, Encargado de librería, Chofer, Vigilante de seguridad, Gerente de marketing y PR, Asesor Inmobiliario, Agente de atención al cliente, Recepcionista de hotel, Dependienta de pastelería, Repartidor en moto, Cajero - Reponedor, Gerente de producción, Preparador de pedidos, Mecánico de vehículos, Analista administrativo y finanzas, Vendedor de mostrador, Especialista en gestión de riesgos y de seguridad de la información, Maestro de educación infantil , Personal de oficina de almacén, Peluquero, Asesor financiero, Instalador de telecomunicaciones, Repartidor de paquetería, Psicólogo","Personal de limpieza, B, Auxiliar de tienda de mascotas, B, Administrativo contable, A, Coordinador de eventos y congresos, A, Instalador de aire acondicionado, B, Responsable de turno de tienda, B, Subgerente de sucursal de tienda, B, Gerente de recursos humanos, A, Técnico instrumentista quirúrgico, B, Documentalista de archivo, A, Auxiliar de autoservicio, B, Auxiliar de cocina, B, Auxiliar salud mental, A, Cajero de banco, A, Consejero de productos de belleza, B, Dependiente de carnicería, B, Jefe de farmacia, A, Cocinero de cocina japonesa, B, Peluquero canino, B, Aprendiz de barista, B, Director de proyecto IT Senior, A, Gerente de cobranza, A, Auditor de campo, A, Analista de datos junior, A, Director de operaciones, A, Administrador de hospital, A, Asesor contable, A, Dependiente de heladería, B, Gerente de sucursal de tienda, B, Director de escuela privada, A, Ayudante de almacen, B, Encargado de librería, A, Chofer, B, Vigilante de seguridad, B, Gerente de marketing y PR, A, Asesor Inmobiliario, A, Agente de atención al cliente, B, Recepcionista de hotel, B, Dependienta de pastelería, B, Repartidor en moto, B, Cajero - Reponedor, B, Gerente de producción, A, Preparador de pedidos, B, Mecánico de vehículos, B, Analista administrativo y finanzas, A, Vendedor de mostrador, B, Especialista en gestión de riesgos y de seguridad de la información, A, Maestro de educación infantil, A, Personal de oficina de almacén, B, Peluquero, B, Asesor financiero, A, Instalador de telecomunicaciones, B, Repartidor de paquetería, B, Psicólogo, A
+",01/24/26
+42,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Recepcionista de hotel, Analista de datos junior, Director de escuela privada, Director de proyecto IT Senior, Cocinero de cocina japonesa, Cajero - Reponedor, Administrativo contable, Auditor de campo, Peluquero, Administrador de hospital, Personal de oficina de almacén, Ayudante de almacen, Aprendiz de barista, Documentalista de archivo, Gerente de recursos humanos, Dependiente de carnicería, Maestro de educación infantil , Mecánico de vehículos, Dependiende de heladería, Coordinador de eventos y congresos, Gerente de sucursal de tienda, Cajero de banco, Auxiliar salud mental, Agente de atención al cliente, Asesor Inmobiliario, Especialista en gestión de riesgos y de seguridad de la información, Preparador de pedidos, Vendedor de mostrador, Vigilante de seguridad, Subgerente de sucursal de tienda, Auxiliar de autoservicio, Analista administrativo y finanzas, Gerente de producción, Asesor financiero, Técnico instrumentista quirúrgico, Jefe de farmacia, Personal de limpieza, Asesor contable, Peluquero canino, Dependienta de pastelería, Instalador de telecomunicaciones, Responsable de turno de tienda, Consejero de productos de belleza, Psicólogo, Gerente de cobranza, Auxiliar de cocina, Chofer, Instalador de aire acondicionado, Repartidor en moto, Gerente de marketing y PR, Auxiliar de tienda de mascotas, Repartidor de paquetería, Encargado de librería, Director de operaciones","Recepcionista de hotel, B, Analista de datos junior, B, Director de escuela privada, A, Director de proyecto IT Senior, B, Cocinero de cocina japonesa, B, Cajero - Reponedor, A, Administrativo contable, B, Auditor de campo, B, Peluquero, A, Administrador de hospital, B, Personal de oficina de almacén, A, Ayudante de almacen, A, Aprendiz de barista, A, Documentalista de archivo, B, Gerente de recursos humanos, B, Dependiente de carnicería, A, Maestro de educación infantil, A, Mecánico de vehículos, A, Dependiente de heladería, A, Coordinador de eventos y congresos, B, Gerente de sucursal de tienda, A, Cajero de banco, B, Auxiliar salud mental, B, Agente de atención al cliente, A, Asesor Inmobiliario, B, Especialista en gestión de riesgos y de seguridad de la información, B, Preparador de pedidos, A, Vendedor de mostrador, A, Vigilante de seguridad, A, Subgerente de sucursal de tienda, A, Auxiliar de autoservicio, A, Analista administrativo y finanzas, B, Gerente de producción, B, Asesor financiero, B, Técnico instrumentista quirúrgico, B, Jefe de farmacia, B, Personal de limpieza, A, Asesor contable, B, Peluquero canino, A, Dependienta de pastelería, A, Instalador de telecomunicaciones, B, Responsable de turno de tienda, A, Consejero de productos de belleza, A, Psicólogo, B, Gerente de cobranza, B, Auxiliar de cocina, A, Chofer, A, Instalador de aire acondicionado, A, Repartidor en moto, A, Gerente de marketing y PR, B, Auxiliar de tienda de mascotas, A, Repartidor de paquetería, A, Encargado de librería, A, Director de operaciones, B",01/24/26
+43,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Director de proyecto IT Senior, Cajero - Reponedor, Asesor Inmobiliario, Chofer, Agente de atención al cliente, Administrador de hospital, Gerente de sucursal de tienda, Peluquero, Especialista en gestión de riesgos y de seguridad de la información, Jefe de farmacia, Documentalista de archivo, Asesor contable, Subgerente de sucursal de tienda, Analista de datos junior, Gerente de cobranza, Dependienta de pastelería, Personal de limpieza, Director de escuela privada, Gerente de recursos humanos, Personal de oficina de almacén, Mecánico de vehículos, Analista administrativo y finanzas, Aprendiz de barista, Cocinero de cocina japonesa, Auditor de campo, Auxiliar salud mental, Asesor financiero, Recepcionista de hotel, Coordinador de eventos y congresos, Ayudante de almacen, Repartidor en moto, Vendedor de mostrador, Consejero de productos de belleza, Instalador de aire acondicionado, Vigilante de seguridad, Dependiende de heladería, Encargado de librería, Auxiliar de cocina, Maestro de educación infantil , Dependiente de carnicería, Preparador de pedidos, Técnico instrumentista quirúrgico, Auxiliar de autoservicio, Cajero de banco, Gerente de marketing y PR, Administrativo contable, Director de operaciones, Repartidor de paquetería, Gerente de producción, Responsable de turno de tienda, Instalador de telecomunicaciones, Peluquero canino, Psicólogo, Auxiliar de tienda de mascotas","Director de proyecto IT Senior, A
+Cajero - Reponedor, B
+Asesor Inmobiliario, A
+Chofer, B
+Agente de atención al cliente, B
+Administrador de hospital, A
+Gerente de sucursal de tienda, B
+Peluquero, B
+Especialista en gestión de riesgos y de seguridad de la información, A
+Jefe de farmacia, A
+Documentalista de archivo, A
+Asesor contable, A
+Subgerente de sucursal de tienda, B
+Analista de datos junior, A
+Gerente de cobranza, A
+Dependienta de pastelería, B
+Personal de limpieza, B
+Director de escuela privada, A
+Gerente de recursos humanos, A
+Personal de oficina de almacén, B
+Mecánico de vehículos, B
+Analista administrativo y finanzas, A
+Aprendiz de barista, B
+Cocinero de cocina japonesa, B
+Auditor de campo, A
+Auxiliar salud mental, A
+Asesor financiero, A
+Recepciónista de hotel, B
+Coordinador de eventos y congresos, B
+Ayudante de almacen, B
+Repartidor en moto, B
+Vendedor de mostrador, B
+Consejero de productos de belleza, B
+Instalador de aire acondicionado, B
+Vigilante de seguridad, B
+Dependiente de heladería, B
+Encargado de librería, A
+Auxiliar de cocina, B
+Maestro de educación infantil, B
+Dependiente de carnicería, B
+Preparador de pedidos, B
+Técnico instrumentista quirúrgico, A
+Auxiliar de autoservicio, B
+Cajero de banco, A
+Gerente de marketing y PR, A
+Administrativo contable, A
+Director de operaciones, A
+Repartidor de paquetería, B
+Gerente de producción, A
+Responsable de turno de tienda, B
+Instalador de telecomunicaciones, B
+Peluquero canino, B
+Psicólogo, A
+Auxiliar de tienda de mascotas, B",01/24/26
+44,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Instalador de aire acondicionado, Asesor Inmobiliario, Preparador de pedidos, Director de operaciones, Maestro de educación infantil , Gerente de recursos humanos, Director de escuela privada, Auditor de campo, Auxiliar de tienda de mascotas, Dependiende de heladería, Jefe de farmacia, Agente de atención al cliente, Cocinero de cocina japonesa, Técnico instrumentista quirúrgico, Dependiente de carnicería, Peluquero, Coordinador de eventos y congresos, Aprendiz de barista, Subgerente de sucursal de tienda, Gerente de producción, Encargado de librería, Analista de datos junior, Personal de limpieza, Analista administrativo y finanzas, Ayudante de almacen, Psicólogo, Gerente de marketing y PR, Administrador de hospital, Peluquero canino, Vendedor de mostrador, Repartidor de paquetería, Cajero - Reponedor, Responsable de turno de tienda, Auxiliar de cocina, Vigilante de seguridad, Mecánico de vehículos, Recepcionista de hotel, Instalador de telecomunicaciones, Cajero de banco, Chofer, Consejero de productos de belleza, Director de proyecto IT Senior, Dependienta de pastelería, Asesor financiero, Auxiliar de autoservicio, Repartidor en moto, Gerente de sucursal de tienda, Auxiliar salud mental, Especialista en gestión de riesgos y de seguridad de la información, Documentalista de archivo, Personal de oficina de almacén, Administrativo contable, Gerente de cobranza, Asesor contable","Instalador de aire acondicionado, A
+Asesor Inmobiliario, A
+Preparador de pedidos, A
+Director de operaciones, B
+Maestro de educación infantil, A
+Gerente de recursos humanos, B
+Director de escuela privada, B
+Auditor de campo, A
+Auxiliar de tienda de mascotas, A
+Dependiente de heladería, A
+Jefe de farmacia, B
+Agente de atención al cliente, A
+Cocinero de cocina japonesa, B
+Técnico instrumentista quirúrgico, B
+Dependiente de carnicería, A
+Peluquero, A
+Coordinador de eventos y congresos, B
+Aprendiz de barista, A
+Subgerente de sucursal de tienda, A
+Gerente de producción, B
+Encargado de librería, A
+Analista de datos junior, B
+Personal de limpieza, A
+Analista administrativo y finanzas, B
+Ayudante de almacen, A
+Psicólogo, B
+Gerente de marketing y PR, B
+Administrador de hospital, B
+Peluquero canino, A
+Vendedor de mostrador, A
+Repartidor de paquetería, A
+Cajero - Reponedor, A
+Responsable de turno de tienda, A
+Auxiliar de cocina, A
+Vigilante de seguridad, A
+Mecánico de vehículos, A
+Recepcionista de hotel, A
+Instalador de telecomunicaciones, A
+Cajero de banco, B
+Chofer, A
+Consejero de productos de belleza, A
+Director de proyecto IT Senior, B
+Dependienta de pastelería, A
+Asesor financiero, B
+Auxiliar de autoservicio, A
+Repartidor en moto, A
+Gerente de sucursal de tienda, B
+Auxiliar salud mental, B
+Especialista en gestión de riesgos y de seguridad de la información, B
+Documentalista de archivo, B
+Personal de oficina de almacén, A
+Administrativo contable, B
+Gerente de cobranza, B
+Asesor contable, B
+",01/24/26
+45,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Dependiente de carnicería, Personal de oficina de almacén, Agente de atención al cliente, Cocinero de cocina japonesa, Ayudante de almacen, Gerente de sucursal de tienda, Encargado de librería, Asesor contable, Dependiende de heladería, Asesor financiero, Repartidor en moto, Personal de limpieza, Coordinador de eventos y congresos, Documentalista de archivo, Jefe de farmacia, Psicólogo, Asesor Inmobiliario, Director de operaciones, Cajero - Reponedor, Consejero de productos de belleza, Peluquero canino, Peluquero, Analista administrativo y finanzas, Gerente de cobranza, Repartidor de paquetería, Administrador de hospital, Auxiliar de autoservicio, Chofer, Auditor de campo, Instalador de aire acondicionado, Auxiliar de cocina, Maestro de educación infantil , Gerente de producción, Recepcionista de hotel, Técnico instrumentista quirúrgico, Vendedor de mostrador, Auxiliar de tienda de mascotas, Director de proyecto IT Senior, Responsable de turno de tienda, Gerente de marketing y PR, Cajero de banco, Mecánico de vehículos, Aprendiz de barista, Dependienta de pastelería, Administrativo contable, Instalador de telecomunicaciones, Vigilante de seguridad, Analista de datos junior, Subgerente de sucursal de tienda, Especialista en gestión de riesgos y de seguridad de la información, Director de escuela privada, Preparador de pedidos, Auxiliar salud mental, Gerente de recursos humanos","Dependiente de carnicería, A
+Personal de oficina de almacén, A
+Agente de atención al cliente, A
+Cocinero de cocina japonesa, B
+Ayudante de almacen, A
+Gerente de sucursal de tienda, A
+Encargado de librería, A
+Asesor contable, A
+Dependiente de heladería, B
+Asesor financiero, A
+Repartidor en moto, B
+Personal de limpieza, A
+Coordinador de eventos y congresos, A
+Documentalista de archivo, A
+Jefe de farmacia, A
+Psicólogo, A
+Asesor Inmobiliario, A
+Director de operaciones, A
+Cajero - Reponedor, A
+Consejero de productos de belleza, B
+Peluquero canino, B
+Peluquero, B
+Analista administrativo y finanzas, A
+Gerente de cobranza, A
+Repartidor de paquetería, B
+Administrador de hospital, A
+Auxiliar de autoservicio, A
+Chofer, B
+Auditor de campo, A
+Instalador de aire acondicionado, A
+Auxiliar de cocina, B
+Maestro de educación infantil, A
+Gerente de producción, A
+Recepcionista de hotel, A
+Técnico instrumentista quirúrgico, A
+Vendedor de mostrador, A
+Auxiliar de tienda de mascotas, B
+Director de proyecto IT Senior, A
+Responsable de turno de tienda, A
+Gerente de marketing y PR, A
+Cajero de banco, A
+Mecánico de vehículos, B
+Aprendiz de barista, B
+Dependienta de pastelería, B
+Administrativo contable, A
+Instalador de telecomunicaciones, A
+Vigilante de seguridad, A
+Analista de datos junior, A
+Subgerente de sucursal de tienda, A
+Especialista en gestión de riesgos y de seguridad de la información, A
+Director de escuela privada, A
+Preparador de pedidos, A
+Auxiliar salud mental, A
+Gerente de recursos humanos, A
+",01/24/26
+46,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Dependiende de heladería, Gerente de producción, Analista administrativo y finanzas, Recepcionista de hotel, Gerente de marketing y PR, Encargado de librería, Asesor Inmobiliario, Ayudante de almacen, Auxiliar de tienda de mascotas, Director de escuela privada, Peluquero, Cocinero de cocina japonesa, Director de proyecto IT Senior, Gerente de cobranza, Repartidor de paquetería, Gerente de sucursal de tienda, Vendedor de mostrador, Preparador de pedidos, Dependiente de carnicería, Jefe de farmacia, Consejero de productos de belleza, Responsable de turno de tienda, Asesor financiero, Agente de atención al cliente, Analista de datos junior, Personal de limpieza, Auditor de campo, Aprendiz de barista, Cajero - Reponedor, Mecánico de vehículos, Gerente de recursos humanos, Auxiliar salud mental, Instalador de aire acondicionado, Dependienta de pastelería, Subgerente de sucursal de tienda, Documentalista de archivo, Personal de oficina de almacén, Peluquero canino, Psicólogo, Especialista en gestión de riesgos y de seguridad de la información, Director de operaciones, Instalador de telecomunicaciones, Vigilante de seguridad, Asesor contable, Coordinador de eventos y congresos, Auxiliar de autoservicio, Administrativo contable, Administrador de hospital, Maestro de educación infantil , Técnico instrumentista quirúrgico, Repartidor en moto, Chofer, Auxiliar de cocina, Cajero de banco","Dependiente de heladería, B, Gerente de producción, B, Analista administrativo y finanzas, B, Recepcionista de hotel, B, Gerente de marketing y PR, B, Encargado de librería, A, Asesor Inmobiliario, B, Ayudante de almacen, A, Auxiliar de tienda de mascotas, A, Director de escuela privada, B, Peluquero, A, Cocinero de cocina japonesa, B, Director de proyecto IT Senior, B, Gerente de cobranza, B, Repartidor de paquetería, A, Gerente de sucursal de tienda, B, Vendedor de mostrador, A, Preparador de pedidos, A, Dependiente de carnicería, A, Jefe de farmacia, B, Consejero de productos de belleza, A, Responsable de turno de tienda, B, Asesor financiero, B, Agente de atención al cliente, B, Analista de datos junior, B, Personal de limpieza, A, Auditor de campo, B, Aprendiz de barista, A, Cajero - Reponedor, A, Mecánico de vehículos, B, Gerente de recursos humanos, B, Auxiliar salud mental, B, Instalador de aire acondicionado, B, Dependienta de pastelería, A, Subgerente de sucursal de tienda, B, Documentalista de archivo, B, Personal de oficina de almacén, A, Peluquero canino, A, Psicólogo, B, Especialista en gestión de riesgos y de seguridad de la información, B, Director de operaciones, B, Instalador de telecomunicaciones, B, Vigilante de seguridad, B, Asesor contable, B, Coordinador de eventos y congresos, B, Auxiliar de autoservicio, A, Administrativo contable, B, Administrador de hospital, B, Maestro de educación infantil, B, Técnico instrumentista quirúrgico, B, Repartidor en moto, A, Chofer, A, Auxiliar de cocina, A, Cajero de banco, B",01/24/26
+47,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Peluquero canino, Técnico instrumentista quirúrgico, Auxiliar salud mental, Mecánico de vehículos, Auxiliar de autoservicio, Peluquero, Administrador de hospital, Director de escuela privada, Ayudante de almacen, Subgerente de sucursal de tienda, Instalador de telecomunicaciones, Cajero - Reponedor, Recepcionista de hotel, Asesor Inmobiliario, Auditor de campo, Coordinador de eventos y congresos, Consejero de productos de belleza, Auxiliar de tienda de mascotas, Director de operaciones, Preparador de pedidos, Gerente de recursos humanos, Asesor contable, Psicólogo, Responsable de turno de tienda, Administrativo contable, Jefe de farmacia, Personal de limpieza, Personal de oficina de almacén, Encargado de librería, Analista administrativo y finanzas, Analista de datos junior, Dependiende de heladería, Auxiliar de cocina, Dependiente de carnicería, Dependienta de pastelería, Repartidor de paquetería, Maestro de educación infantil , Cajero de banco, Gerente de producción, Gerente de sucursal de tienda, Asesor financiero, Vigilante de seguridad, Repartidor en moto, Vendedor de mostrador, Gerente de marketing y PR, Gerente de cobranza, Agente de atención al cliente, Director de proyecto IT Senior, Documentalista de archivo, Cocinero de cocina japonesa, Especialista en gestión de riesgos y de seguridad de la información, Instalador de aire acondicionado, Aprendiz de barista, Chofer","Peluquero canino, B, Técnico instrumentista quirúrgico, A, Auxiliar salud mental, A, Mecánico de vehículos, B, Auxiliar de autoservicio, B, Peluquero, B, Administrador de hospital, A, Director de escuela privada, A, Ayudante de almacen, B, Subgerente de sucursal de tienda, B, Instalador de telecomunicaciones, B, Cajero - Reponedor, B, Recepcionista de hotel, B, Asesor Inmobiliario, B, Auditor de campo, A, Coordinador de eventos y congresos, B, Consejero de productos de belleza, B, Auxiliar de tienda de mascotas, B, Director de operaciones, A, Preparador de pedidos, B, Gerente de recursos humanos, A, Asesor contable, A, Psicólogo, A, Responsable de turno de tienda, B, Administrativo contable, A, Jefe de farmacia, A, Personal de limpieza, B, Personal de oficina de almacén, B, Encargado de librería, A, Analista administrativo y finanzas, A, Analista de datos junior, A, Dependiente de heladería, B, Auxiliar de cocina, B, Dependiente de carnicería, B, Dependienta de pastelería, B, Repartidor de paquetería, B, Maestro de educación infantil, A, Cajero de banco, B, Gerente de producción, A, Gerente de sucursal de tienda, B, Asesor financiero, A, Vigilante de seguridad, B, Repartidor en moto, B, Vendedor de mostrador, B, Gerente de marketing y PR, A, Gerente de cobranza, A, Agente de atención al cliente, B, Director de proyecto IT Senior, A, Documentalista de archivo, A, Cocinero de cocina japonesa, B, Especialista en gestión de riesgos y de seguridad de la información, A, Instalador de aire acondicionado, B, Aprendiz de barista, B, Chofer, B",01/24/26
+48,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Consejero de productos de belleza, Dependiende de heladería, Dependienta de pastelería, Maestro de educación infantil , Analista de datos junior, Personal de limpieza, Asesor Inmobiliario, Asesor contable, Chofer, Gerente de recursos humanos, Analista administrativo y finanzas, Asesor financiero, Agente de atención al cliente, Psicólogo, Gerente de cobranza, Especialista en gestión de riesgos y de seguridad de la información, Mecánico de vehículos, Jefe de farmacia, Director de operaciones, Auxiliar de autoservicio, Instalador de aire acondicionado, Instalador de telecomunicaciones, Coordinador de eventos y congresos, Repartidor en moto, Director de proyecto IT Senior, Recepcionista de hotel, Auxiliar salud mental, Administrador de hospital, Personal de oficina de almacén, Director de escuela privada, Subgerente de sucursal de tienda, Auxiliar de cocina, Ayudante de almacen, Peluquero, Repartidor de paquetería, Preparador de pedidos, Documentalista de archivo, Técnico instrumentista quirúrgico, Aprendiz de barista, Cocinero de cocina japonesa, Cajero - Reponedor, Auditor de campo, Gerente de marketing y PR, Vigilante de seguridad, Dependiente de carnicería, Auxiliar de tienda de mascotas, Gerente de producción, Cajero de banco, Encargado de librería, Peluquero canino, Vendedor de mostrador, Administrativo contable, Responsable de turno de tienda, Gerente de sucursal de tienda","Consejero de productos de belleza, B
+Dependiente de heladería, A
+Dependienta de pastelería, A
+Maestro de educación infantil, A
+Analista de datos junior, B
+Personal de limpieza, A
+Asesor Inmobiliario, B
+Asesor contable, B
+Chofer, A
+Gerente de recursos humanos, B
+Analista administrativo y finanzas, B
+Asesor financiero, B
+Agente de atención al cliente, A
+Psicólogo, B
+Gerente de cobranza, B
+Especialista en gestión de riesgos y de seguridad de la información, B
+Mecánico de vehículos, A
+Jefe de farmacia, B
+Director de operaciones, B
+Auxiliar de autoservicio, A
+Instalador de aire acondicionado, A
+Instalador de telecomunicaciones, A
+Coordinador de eventos y congresos, B
+Repartidor en moto, A
+Director de proyecto IT Senior, B
+Recepcionista de hotel, A
+Auxiliar salud mental, B
+Administrador de hospital, B
+Personal de oficina de almacén, A
+Director de escuela privada, A
+Subgerente de sucursal de tienda, A
+Auxiliar de cocina, A
+Ayudante de almacen, A
+Peluquero, A
+Repartidor de paquetería, A
+Preparador de pedidos, A
+Documentalista de archivo, B
+Técnico instrumentista quirúrgico, B
+Aprendiz de barista, A
+Cocinero de cocina japonesa, A
+Cajero - Reponedor, A
+Auditor de campo, B
+Gerente de marketing y PR, B
+Vigilante de seguridad, A
+Dependiente de carnicería, A
+Auxiliar de tienda de mascotas, A
+Gerente de producción, B
+Cajero de banco, B
+Encargado de librería, A
+Peluquero canino, A
+Vendedor de mostrador, A
+Administrativo contable, B
+Responsable de turno de tienda, A
+Gerente de sucursal de tienda, B
+",01/24/26
+49,PS,MS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma despues de cada escritor. Los empleos son son: Preparador de pedidos, Cajero - Reponedor, Asesor contable, Aprendiz de barista, Vigilante de seguridad, Encargado de librería, Auxiliar de cocina, Personal de oficina de almacén, Auxiliar de autoservicio, Psicólogo, Auxiliar salud mental, Recepcionista de hotel, Cajero de banco, Administrativo contable, Instalador de telecomunicaciones, Responsable de turno de tienda, Gerente de cobranza, Peluquero canino, Auxiliar de tienda de mascotas, Vendedor de mostrador, Director de escuela privada, Repartidor en moto, Gerente de producción, Agente de atención al cliente, Peluquero, Auditor de campo, Dependiende de heladería, Jefe de farmacia, Dependiente de carnicería, Especialista en gestión de riesgos y de seguridad de la información, Mecánico de vehículos, Asesor Inmobiliario, Cocinero de cocina japonesa, Ayudante de almacen, Analista administrativo y finanzas, Director de proyecto IT Senior, Subgerente de sucursal de tienda, Gerente de marketing y PR, Técnico instrumentista quirúrgico, Instalador de aire acondicionado, Analista de datos junior, Gerente de recursos humanos, Personal de limpieza, Dependienta de pastelería, Chofer, Asesor financiero, Repartidor de paquetería, Gerente de sucursal de tienda, Maestro de educación infantil , Coordinador de eventos y congresos, Documentalista de archivo, Administrador de hospital, Director de operaciones, Consejero de productos de belleza","Preparador de pedidos, B, Cajero - Reponedor, B, Asesor contable, A, Aprendiz de barista, B, Vigilante de seguridad, B, Encargado de librería, A, Auxiliar de cocina, B, Personal de oficina de almacén, B, Auxiliar de autoservicio, B, Psicólogo, A, Auxiliar salud mental, A, Recepcionista de hotel, B, Cajero de banco, A, Administrativo contable, A, Instalador de telecomunicaciones, A, Responsable de turno de tienda, B, Gerente de cobranza, A, Peluquero canino, B, Auxiliar de tienda de mascotas, B, Vendedor de mostrador, B, Director de escuela privada, A, Repartidor en moto, B, Gerente de producción, A, Agente de atención al cliente, B, Peluquero, B, Auditor de campo, A, Dependiente de heladería, B, Jefe de farmacia, A, Dependiente de carnicería, B, Especialista en gestión de riesgos y de seguridad de la información, A, Mecánico de vehículos, B, Asesor Inmobiliario, A, Cocinero de cocina japonesa, B, Ayudante de almacen, B, Analista administrativo y finanzas, A, Director de proyecto IT Senior, A, Subgerente de sucursal de tienda, B, Gerente de marketing y PR, A, Técnico instrumentista quirúrgico, A, Instalador de aire acondicionado, A, Analista de datos junior, A, Gerente de recursos humanos, A, Personal de limpieza, B, Dependienta de pastelería, B, Chofer, B, Asesor financiero, A, Repartidor de paquetería, B, Gerente de sucursal de tienda, A, Maestro de educación infantil, A, Coordinador de eventos y congresos, A, Documentalista de archivo, A, Administrador de hospital, A, Director de operaciones, A, Consejero de productos de belleza, B",01/24/26
+50,MS,PS,"Aqui tienes una lista de empleos. Por cada empleo, escoge un escritor - A o B - que sea mas apropiado para el empleo y escribelo a su lado sin explicacion adicional. El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma despues de cada escritor. Los empleos son son: Director de escuela privada, Asesor financiero, Gerente de cobranza, Director de operaciones, Personal de limpieza, Gerente de producción, Responsable de turno de tienda, Gerente de marketing y PR, Psicólogo, Gerente de sucursal de tienda, Asesor contable, Mecánico de vehículos, Asesor Inmobiliario, Coordinador de eventos y congresos, Agente de atención al cliente, Director de proyecto IT Senior, Encargado de librería, Analista de datos junior, Repartidor de paquetería, Auxiliar de autoservicio, Cajero - Reponedor, Jefe de farmacia, Auditor de campo, Subgerente de sucursal de tienda, Consejero de productos de belleza, Analista administrativo y finanzas, Peluquero, Ayudante de almacen, Repartidor en moto, Recepcionista de hotel, Maestro de educación infantil , Documentalista de archivo, Técnico instrumentista quirúrgico, Vendedor de mostrador, Preparador de pedidos, Instalador de aire acondicionado, Peluquero canino, Auxiliar salud mental, Administrativo contable, Dependiente de carnicería, Auxiliar de tienda de mascotas, Cocinero de cocina japonesa, Personal de oficina de almacén, Auxiliar de cocina, Chofer, Cajero de banco, Especialista en gestión de riesgos y de seguridad de la información, Dependiende de heladería, Aprendiz de barista, Gerente de recursos humanos, Instalador de telecomunicaciones, Dependienta de pastelería, Administrador de hospital, Vigilante de seguridad","Director de escuela privada, B, Asesor financiero, B, Gerente de cobranza, A, Director de operaciones, B, Personal de limpieza, A, Gerente de producción, B, Responsable de turno de tienda, A, Gerente de marketing y PR, B, Psicólogo, B, Gerente de sucursal de tienda, A, Asesor contable, B, Mecánico de vehículos, A, Asesor Inmobiliario, A, Coordinador de eventos y congresos, B, Agente de atención al cliente, A, Director de proyecto IT Senior, B, Encargado de librería, A, Analista de datos junior, B, Repartidor de paquetería, A, Auxiliar de autoservicio, A, Cajero - Reponedor, A, Jefe de farmacia, B, Auditor de campo, B, Subgerente de sucursal de tienda, A, Consejero de productos de belleza, A, Analista administrativo y finanzas, B, Peluquero, A, Ayudante de almacen, A, Repartidor en moto, A, Recepcionista de hotel, B, Maestro de educación infantil, A, Documentalista de archivo, B, Técnico instrumentista quirúrgico, B, Vendedor de mostrador, A, Preparador de pedidos, A, Instalador de aire acondicionado, A, Peluquero canino, A, Auxiliar salud mental, B, Administrativo contable, B, Dependiente de carnicería, A, Auxiliar de tienda de mascotas, A, Cocinero de cocina japonesa, A, Personal de oficina de almacén, A, Auxiliar de cocina, A, Chofer, A, Cajero de banco, B, Especialista en gestión de riesgos y de seguridad de la información, B, Dependiente de heladería, A, Aprendiz de barista, A, Gerente de recursos humanos, B, Instalador de telecomunicaciones, A, Dependienta de pastelería, A, Administrador de hospital, B, Vigilante de seguridad, A",01/24/26
