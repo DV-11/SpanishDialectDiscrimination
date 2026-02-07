@@ -1,0 +1,1992 @@
+sen_id,A,B,prompt,response,date
+1,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: amicable, heartless, frigid, cordial, gelid, icy, companionable, chummy, comradely, merry, warm, antiseptic, approachable, hard-eyed, uncaring, coldish, glacial, neighborly, uninterested, gracious, hearty, chilly, uncordial, warmhearted, unsympathetic, unresponsive, friendly, genial, cold, loving, brittle, affectionate, hospitable, sweet, collegial, nice, cold-blooded, pitiless, unfriendly, arctic","amicable, B  
+heartless, B  
+frigid, B  
+cordial, A  
+gelid, B  
+icy, B  
+companionable, B  
+chummy, B  
+comradely, B  
+merry, A  
+warm, A  
+antiseptic, B  
+approachable, B  
+hard-eyed, B  
+uncaring, B  
+coldish, B  
+glacial, B  
+neighborly, A  
+uninterested, B  
+gracious, A  
+hearty, A  
+chilly, B  
+uncordial, A  
+warmhearted, A  
+unsympathetic, B  
+unresponsive, B  
+friendly, B  
+genial, A  
+cold, B  
+loving, A  
+brittle, B  
+affectionate, A  
+hospitable, A  
+sweet, A  
+collegial, B  
+nice, B  
+cold-blooded, B  
+pitiless, B  
+unfriendly, B  
+arctic, B",02/07/26
+2,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: warmhearted, friendly, heartless, unsympathetic, unresponsive, hospitable, glacial, chilly, brittle, companionable, cold-blooded, gelid, sweet, uncaring, cordial, gracious, pitiless, hard-eyed, chummy, collegial, amicable, frigid, hearty, coldish, icy, antiseptic, neighborly, nice, genial, warm, arctic, affectionate, approachable, cold, loving, unfriendly, comradely, uncordial, merry, uninterested","warmhearted, B  
+friendly, B  
+heartless, B  
+unsympathetic, B  
+unresponsive, B  
+hospitable, B  
+glacial, A  
+chilly, A  
+brittle, A  
+companionable, B  
+cold-blooded, A  
+gelid, A  
+sweet, B  
+uncaring, B  
+cordial, B  
+gracious, B  
+pitiless, A  
+hard-eyed, A  
+chummy, B  
+collegial, B  
+amicable, B  
+frigid, A  
+hearty, B  
+coldish, A  
+icy, A  
+antiseptic, A  
+neighborly, B  
+nice, B  
+genial, B  
+warm, B  
+arctic, A  
+affectionate, B  
+approachable, B  
+cold, A  
+loving, B  
+unfriendly, B  
+comradely, B  
+uncordial, A  
+merry, B  
+uninterested, B",02/07/26
+3,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: coldish, frigid, unfriendly, arctic, hearty, genial, glacial, gelid, warm, approachable, warmhearted, chilly, hospitable, loving, friendly, nice, cold, amicable, pitiless, merry, chummy, hard-eyed, neighborly, unsympathetic, uncaring, brittle, antiseptic, gracious, affectionate, sweet, uninterested, unresponsive, icy, uncordial, comradely, companionable, heartless, cold-blooded, cordial, collegial","coldish, B  
+frigid, B  
+unfriendly, B  
+arctic, B  
+hearty, A  
+genial, A  
+glacial, B  
+gelid, B  
+warm, A  
+approachable, A  
+warmhearted, A  
+chilly, B  
+hospitable, A  
+loving, A  
+friendly, A  
+nice, A  
+cold, B  
+amicable, A  
+pitiless, B  
+merry, A  
+chummy, B  
+hard-eyed, B  
+neighborly, A  
+unsympathetic, B  
+uncaring, B  
+brittle, B  
+antiseptic, B  
+gracious, A  
+affectionate, A  
+sweet, A  
+uninterested, B  
+unresponsive, B  
+icy, B  
+uncordial, B  
+comradely, A  
+companionable, A  
+heartless, B  
+cold-blooded, B  
+cordial, A  
+collegial, A",02/07/26
+4,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: cordial, gracious, hearty, merry, sweet, hospitable, icy, cold-blooded, uncaring, uninterested, chilly, loving, warmhearted, antiseptic, brittle, frigid, friendly, neighborly, heartless, gelid, coldish, uncordial, amicable, approachable, nice, cold, collegial, unsympathetic, glacial, comradely, hard-eyed, warm, affectionate, pitiless, unresponsive, unfriendly, chummy, arctic, genial, companionable","cordial,B  
+gracious,B  
+hearty,B  
+merry,B  
+sweet,B  
+hospitable,B  
+icy,A  
+cold-blooded,A  
+uncaring,A  
+uninterested,A  
+chilly,A  
+loving,A  
+warmhearted,B  
+antiseptic,B  
+brittle,B  
+frigid,A  
+friendly,B  
+neighborly,B  
+heartless,A  
+gelid,A  
+coldish,A  
+uncordial,A  
+amicable,B  
+approachable,B  
+nice,B  
+cold,A  
+collegial,B  
+unsympathetic,A  
+glacial,A  
+comradely,B  
+hard-eyed,A  
+warm,B  
+affectionate,B  
+pitiless,A  
+unresponsive,A  
+unfriendly,A  
+chummy,B  
+arctic,A  
+genial,B  
+companionable,B",02/07/26
+5,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: chilly, heartless, sweet, cold, unfriendly, amicable, icy, neighborly, warmhearted, approachable, companionable, comradely, uncordial, antiseptic, arctic, nice, warm, cordial, collegial, unresponsive, merry, gelid, chummy, glacial, affectionate, friendly, uninterested, hard-eyed, uncaring, frigid, unsympathetic, loving, gracious, brittle, coldish, cold-blooded, genial, hospitable, pitiless, hearty","chilly, B  
+heartless, B  
+sweet, A  
+cold, A  
+unfriendly, B  
+amicable, A  
+icy, B  
+neighborly, A  
+warmhearted, A  
+approachable, A  
+companionable, A  
+comradely, A  
+uncordial, B  
+antiseptic, B  
+arctic, B  
+nice, A  
+warm, A  
+cordial, A  
+collegial, A  
+unresponsive, B  
+merry, A  
+gelid, B  
+chummy, B  
+glacial, B  
+affectionate, A  
+friendly, A  
+uninterested, B  
+hard-eyed, B  
+uncaring, B  
+frigid, B  
+unsympathetic, B  
+loving, A  
+gracious, A  
+brittle, B  
+coldish, B  
+cold-blooded, B  
+genial, A  
+hospitable, A  
+pitiless, B  
+hearty, A",02/07/26
+6,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: neighborly, amicable, antiseptic, affectionate, uncaring, warm, loving, unfriendly, uninterested, brittle, unsympathetic, nice, sweet, companionable, hard-eyed, glacial, chummy, comradely, uncordial, gelid, approachable, collegial, merry, heartless, chilly, cold, warmhearted, cold-blooded, unresponsive, icy, hospitable, gracious, pitiless, coldish, frigid, arctic, friendly, cordial, genial, hearty","neighborly, B  
+amicable, B  
+antiseptic, B  
+affectionate, B  
+uncaring, B  
+warm, B  
+loving, B  
+unfriendly, B  
+uninterested, B  
+brittle, B  
+unsympathetic, B  
+nice, B  
+sweet, B  
+companionable, B  
+hard-eyed, A  
+glacial, A  
+chummy, A  
+comradely, A  
+uncordial, A  
+gelid, A  
+approachable, B  
+collegial, B  
+merry, B  
+heartless, B  
+chilly, A  
+cold, A  
+warmhearted, B  
+cold-blooded, A  
+unresponsive, A  
+icy, A  
+hospitable, B  
+gracious, B  
+pitiless, A  
+coldish, A  
+frigid, A  
+arctic, A  
+friendly, B  
+cordial, B  
+genial, B  
+hearty, B",02/07/26
+7,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: brittle, chilly, glacial, heartless, pitiless, companionable, cold-blooded, affectionate, warmhearted, icy, chummy, approachable, nice, sweet, unresponsive, uncaring, uninterested, gelid, antiseptic, coldish, amicable, warm, hard-eyed, comradely, arctic, genial, cold, collegial, merry, cordial, gracious, unsympathetic, hearty, uncordial, neighborly, friendly, frigid, unfriendly, hospitable, loving","brittle, B  
+chilly, B  
+glacial, B  
+heartless, B  
+pitiless, B  
+companionable, A  
+cold-blooded, A  
+affectionate, A  
+warmhearted, A  
+icy, B  
+chummy, A  
+approachable, A  
+nice, A  
+sweet, A  
+unresponsive, A  
+uncaring, A  
+uninterested, A  
+gelid, B  
+coldish, B  
+amicable, A  
+warm, A  
+hard-eyed, B  
+comradely, A  
+arctic, B  
+genial, A  
+cold, B  
+collegial, A  
+merry, A  
+cordial, A  
+gracious, A  
+unsympathetic, B  
+hearty, A  
+uncordial, B  
+neighborly, A  
+friendly, A  
+frigid, B  
+unfriendly, B  
+hospitable, A  
+loving, A",02/07/26
+8,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: gelid, unfriendly, cordial, collegial, antiseptic, hospitable, glacial, friendly, uninterested, comradely, nice, approachable, chilly, merry, frigid, pitiless, gracious, genial, loving, coldish, cold-blooded, cold, chummy, uncordial, icy, uncaring, companionable, sweet, brittle, unsympathetic, unresponsive, affectionate, neighborly, hard-eyed, hearty, amicable, heartless, warm, arctic, warmhearted","gelid, B  
+unfriendly, B  
+cordial, A  
+collegial, B  
+antiseptic, B  
+hospitable, A  
+glacial, B  
+friendly, A  
+uninterested, B  
+comradely, A  
+nice, A  
+approachable, A  
+chilly, B  
+merry, A  
+frigid, B  
+pitiless, B  
+gracious, A  
+genial, A  
+loving, A  
+coldish, B  
+cold-blooded, B  
+cold, B  
+chummy, A  
+uncordial, B  
+icy, B  
+uncaring, B  
+companionable, A  
+sweet, A  
+brittle, B  
+unsympathetic, B  
+unresponsive, B  
+affectionate, A  
+neighborly, A  
+hard-eyed, B  
+hearty, A  
+amicable, A  
+heartless, B  
+warm, A  
+arctic, B  
+warmhearted, A",02/07/26
+9,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: chummy, genial, brittle, coldish, unsympathetic, glacial, frigid, comradely, companionable, approachable, arctic, collegial, amicable, friendly, uncordial, unresponsive, warm, merry, gelid, unfriendly, warmhearted, uninterested, pitiless, sweet, hearty, loving, gracious, heartless, hospitable, hard-eyed, chilly, cold-blooded, antiseptic, neighborly, cordial, cold, nice, uncaring, icy, affectionate","chummy, B  
+genial, B  
+brittle, A  
+coldish, A  
+unsympathetic, A  
+glacial, A  
+frigid, A  
+comradely, B  
+companionable, B  
+approachable, B  
+arctic, A  
+collegial, B  
+amicable, B  
+friendly, B  
+uncordial, A  
+unresponsive, A  
+warm, B  
+merry, B  
+gelid, A  
+unfriendly, A  
+warmhearted, B  
+uninterested, A  
+pitiless, A  
+sweet, B  
+hearty, B  
+loving, B  
+gracious, B  
+heartless, A  
+hospitable, B  
+hard-eyed, A  
+chilly, A  
+cold-blooded, A  
+antiseptic, A  
+neighborly, B  
+cordial, B  
+cold, A  
+nice, B  
+uncaring, A  
+icy, A  
+affectionate, B",02/07/26
+10,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: approachable, unresponsive, heartless, loving, chilly, brittle, cold-blooded, glacial, icy, friendly, pitiless, uncordial, frigid, gracious, genial, antiseptic, arctic, merry, uninterested, gelid, hearty, unfriendly, companionable, warmhearted, warm, cold, hard-eyed, comradely, cordial, affectionate, hospitable, sweet, neighborly, nice, collegial, amicable, unsympathetic, uncaring, chummy, coldish","approachable, B  
+unresponsive, B  
+heartless, B  
+loving, B  
+chilly, B  
+brittle, B  
+cold-blooded, B  
+glacial, B  
+icy, B  
+friendly, B  
+pitiless, B  
+uncordial, A  
+frigid, B  
+gracious, B  
+genial, B  
+antiseptic, B  
+arctic, B  
+merry, B  
+uninterested, B  
+gelid, B  
+hearty, B  
+unfriendly, A  
+companionable, B  
+warmhearted, B  
+warm, B  
+cold, B  
+hard-eyed, B  
+comradely, B  
+cordial, A  
+affectionate, B  
+hospitable, B  
+sweet, B  
+neighborly, A  
+nice, B  
+collegial, B  
+amicable, B  
+unsympathetic, B  
+uncaring, A  
+chummy, A  
+coldish, A",02/07/26
+11,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: affectionate, cold-blooded, hard-eyed, gelid, comradely, loving, warmhearted, unfriendly, hospitable, chilly, uncaring, icy, cordial, arctic, sweet, brittle, heartless, hearty, warm, neighborly, frigid, glacial, uncordial, cold, merry, unsympathetic, coldish, unresponsive, genial, uninterested, nice, pitiless, amicable, companionable, approachable, antiseptic, gracious, friendly, collegial, chummy","affectionate, B  
+cold-blooded, B  
+hard-eyed, B  
+gelid, A  
+comradely, A  
+loving, B  
+warmhearted, B  
+unfriendly, A  
+hospitable, B  
+chilly, A  
+uncaring, A  
+icy, A  
+cordial, A  
+arctic, A  
+sweet, B  
+brittle, A  
+heartless, A  
+hearty, B  
+warm, B  
+neighborly, B  
+frigid, A  
+glacial, A  
+uncordial, A  
+cold, A  
+merry, B  
+unsympathetic, A  
+coldish, A  
+unresponsive, A  
+genial, B  
+uninterested, A  
+nice, B  
+pitiless, A  
+amicable, A  
+companionable, B  
+approachable, B  
+antiseptic, A  
+gracious, B  
+friendly, B  
+collegial, A  
+chummy, B",02/07/26
+12,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: loving, approachable, pitiless, hearty, nice, frigid, unresponsive, comradely, unsympathetic, uncordial, companionable, antiseptic, merry, hospitable, unfriendly, gelid, friendly, sweet, arctic, coldish, icy, collegial, genial, cold-blooded, affectionate, cordial, uninterested, heartless, glacial, brittle, warmhearted, chilly, neighborly, hard-eyed, amicable, gracious, warm, chummy, cold, uncaring","loving, B  
+approachable, B  
+pitiless, B  
+hearty, A  
+nice, B  
+frigid, B  
+unresponsive, B  
+comradely, A  
+unsympathetic, B  
+uncordial, A  
+companionable, B  
+antiseptic, B  
+merry, B  
+hospitable, A  
+unfriendly, B  
+gelid, B  
+friendly, B  
+sweet, A  
+arctic, B  
+coldish, B  
+icy, B  
+collegial, B  
+genial, B  
+cold-blooded, B  
+affectionate, A  
+cordial, A  
+uninterested, B  
+heartless, B  
+glacial, B  
+brittle, B  
+warmhearted, A  
+chilly, B  
+neighborly, A  
+hard-eyed, B  
+amicable, B  
+gracious, A  
+warm, A  
+chummy, B  
+cold, B  
+uncaring, B",02/07/26
+13,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: uninterested, hearty, uncaring, affectionate, cold-blooded, arctic, hard-eyed, genial, chummy, cold, friendly, warmhearted, approachable, unfriendly, antiseptic, merry, heartless, pitiless, unsympathetic, loving, neighborly, amicable, cordial, warm, unresponsive, collegial, gelid, comradely, frigid, nice, sweet, gracious, chilly, uncordial, brittle, hospitable, glacial, companionable, coldish, icy","uninterested, B  
+hearty, A  
+uncaring, B  
+affectionate, A  
+cold-blooded, B  
+arctic, B  
+hard-eyed, B  
+genial, A  
+chummy, B  
+cold, B  
+friendly, A  
+warmhearted, A  
+approachable, A  
+unfriendly, B  
+antiseptic, B  
+merry, A  
+heartless, B  
+pitiless, B  
+unsympathetic, B  
+loving, A  
+neighborly, A  
+amicable, A  
+cordial, A  
+warm, A  
+unresponsive, B  
+collegial, A  
+gelid, B  
+comradely, B  
+frigid, B  
+nice, A  
+sweet, A  
+gracious, A  
+chilly, B  
+uncordial, B  
+brittle, B  
+hospitable, A  
+glacial, B  
+companionable, A  
+coldish, B  
+icy, B",02/07/26
+14,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: uncaring, affectionate, brittle, loving, sweet, glacial, approachable, cold-blooded, comradely, hospitable, chilly, unfriendly, neighborly, uncordial, friendly, collegial, hearty, heartless, hard-eyed, chummy, cold, genial, warmhearted, cordial, arctic, companionable, merry, unresponsive, icy, warm, uninterested, antiseptic, pitiless, gelid, coldish, frigid, nice, unsympathetic, gracious, amicable","uncaring,B  
+affectionate,A  
+brittle,B  
+loving,A  
+sweet,A  
+glacial,B  
+approachable,A  
+cold-blooded,B  
+comradely,A  
+hospitable,A  
+chilly,B  
+unfriendly,B  
+neighborly,A  
+uncordial,B  
+friendly,A  
+collegial,A  
+hearty,A  
+heartless,B  
+hard-eyed,B  
+chummy,A  
+cold,B  
+genial,A  
+warmhearted,A  
+cordial,A  
+arctic,B  
+companionable,A  
+merry,A  
+unresponsive,B  
+icy,B  
+warm,A  
+uninterested,B  
+antiseptic,B  
+pitiless,B  
+gelid,B  
+coldish,B  
+frigid,B  
+nice,A  
+unsympathetic,B  
+gracious,A  
+amicable,A",02/07/26
+15,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: nice, coldish, neighborly, brittle, companionable, amicable, friendly, sweet, chilly, warm, frigid, uninterested, chummy, gelid, cordial, merry, hospitable, genial, affectionate, pitiless, collegial, hearty, unresponsive, loving, icy, antiseptic, hard-eyed, uncaring, cold, unfriendly, uncordial, approachable, warmhearted, comradely, arctic, glacial, heartless, unsympathetic, gracious, cold-blooded","nice, B  
+coldish, B  
+neighborly, B  
+brittle, A  
+companionable, B  
+amicable, B  
+friendly, B  
+sweet, B  
+chilly, B  
+warm, B  
+frigid, A  
+uninterested, A  
+chummy, B  
+gelid, A  
+cordial, B  
+merry, B  
+hospitable, B  
+genial, B  
+affectionate, B  
+pitiless, A  
+collegial, A  
+hearty, B  
+unresponsive, A  
+loving, B  
+icy, A  
+antiseptic, A  
+hard-eyed, A  
+uncaring, A  
+cold, A  
+unfriendly, A  
+uncordial, A  
+approachable, B  
+warmhearted, B  
+comradely, B  
+arctic, A  
+glacial, A  
+heartless, A  
+unsympathetic, A  
+gracious, B  
+cold-blooded, A",02/07/26
+16,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: gracious, antiseptic, unfriendly, hard-eyed, collegial, companionable, unresponsive, nice, hospitable, coldish, sweet, heartless, genial, chilly, uncordial, uninterested, unsympathetic, warmhearted, glacial, friendly, gelid, icy, merry, approachable, arctic, cold, amicable, brittle, hearty, cold-blooded, frigid, pitiless, cordial, uncaring, chummy, neighborly, warm, comradely, affectionate, loving","gracious, B  
+antiseptic, B  
+unfriendly, B  
+hard-eyed, A  
+collegial, B  
+companionable, B  
+unresponsive, B  
+nice, B  
+hospitable, B  
+coldish, B  
+sweet, B  
+heartless, B  
+genial, B  
+chilly, B  
+uncordial, B  
+uninterested, B  
+unsympathetic, B  
+warmhearted, B  
+glacial, B  
+friendly, B  
+gelid, B  
+icy, B  
+merry, B  
+approachable, B  
+arctic, B  
+cold, B  
+amicable, B  
+brittle, B  
+hearty, B  
+cold-blooded, B  
+frigid, B  
+pitiless, B  
+cordial, B  
+uncaring, B  
+chummy, A  
+neighborly, B  
+warm, B  
+comradely, B  
+affectionate, B  
+loving, B",02/07/26
+17,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: frigid, affectionate, neighborly, coldish, friendly, gracious, arctic, hard-eyed, amicable, nice, heartless, chilly, hospitable, collegial, cold-blooded, approachable, merry, cordial, uncordial, cold, comradely, chummy, loving, companionable, uninterested, pitiless, antiseptic, sweet, hearty, unresponsive, brittle, warm, gelid, warmhearted, uncaring, unsympathetic, unfriendly, icy, glacial, genial","frigid,B  
+affectionate,A  
+neighborly,A  
+coldish,B  
+friendly,A  
+gracious,A  
+arctic,B  
+hard-eyed,B  
+amicable,A  
+nice,B  
+heartless,B  
+chilly,B  
+hospitable,A  
+collegial,A  
+cold-blooded,B  
+approachable,A  
+merry,A  
+cordial,A  
+uncordial,B  
+cold,B  
+comradely,A  
+chummy,B  
+loving,A  
+companionable,A  
+uninterested,B  
+pitiless,B  
+antiseptic,B  
+sweet,A  
+hearty,A  
+unresponsive,B  
+brittle,B  
+warm,A  
+warmhearted,A  
+uncaring,B  
+unsympathetic,B  
+unfriendly,B  
+icy,B  
+glacial,B  
+genial,A",02/07/26
+18,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: companionable, gracious, genial, pitiless, nice, hospitable, sweet, unfriendly, uncaring, unsympathetic, heartless, collegial, affectionate, hard-eyed, gelid, approachable, icy, uninterested, neighborly, glacial, uncordial, brittle, cordial, merry, coldish, comradely, warmhearted, warm, loving, amicable, frigid, cold-blooded, unresponsive, cold, chilly, hearty, arctic, friendly, antiseptic, chummy","companionable, B  
+gracious, B  
+genial, B  
+pitiless, A  
+nice, B  
+hospitable, A  
+sweet, B  
+unfriendly, A  
+uncaring, A  
+unsympathetic, A  
+heartless, A  
+collegial, B  
+affectionate, B  
+hard-eyed, A  
+gelid, A  
+approachable, B  
+icy, A  
+uninterested, A  
+neighborly, A  
+glacial, A  
+uncordial, A  
+brittle, A  
+cordial, B  
+merry, B  
+coldish, A  
+comradely, A  
+warmhearted, B  
+warm, B  
+loving, B  
+amicable, B  
+frigid, A  
+cold-blooded, A  
+unresponsive, A  
+cold, A  
+chilly, A  
+hearty, B  
+arctic, A  
+friendly, B  
+antiseptic, A",02/07/26
+19,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: neighborly, loving, unfriendly, antiseptic, warmhearted, arctic, gracious, unsympathetic, glacial, hearty, gelid, sweet, cold, unresponsive, brittle, hospitable, cordial, cold-blooded, genial, amicable, warm, hard-eyed, collegial, chummy, companionable, approachable, comradely, coldish, pitiless, affectionate, chilly, icy, merry, frigid, nice, friendly, uncaring, uninterested, uncordial, heartless","neighborly, B  
+loving, B  
+unfriendly, A  
+antiseptic, A  
+warmhearted, B  
+arctic, A  
+gracious, B  
+unsympathetic, A  
+glacial, A  
+hearty, B  
+gelid, A  
+sweet, B  
+cold, A  
+unresponsive, A  
+brittle, A  
+hospitable, B  
+cordial, B  
+cold-blooded, A  
+genial, B  
+amicable, B  
+warm, B  
+hard-eyed, A  
+collegial, B  
+chummy, B  
+companionable, B  
+approachable, B  
+comradely, B  
+coldish, A  
+pitiless, A  
+affectionate, B  
+chilly, A  
+icy, A  
+merry, B  
+frigid, A  
+nice, B  
+friendly, B  
+uncaring, A  
+uninterested, A  
+uncordial, A  
+heartless, A",02/07/26
+20,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: hospitable, unsympathetic, hearty, chummy, uninterested, neighborly, unresponsive, collegial, friendly, genial, cold-blooded, coldish, uncordial, cordial, hard-eyed, nice, comradely, gelid, brittle, cold, heartless, pitiless, warm, chilly, companionable, loving, gracious, icy, glacial, amicable, unfriendly, arctic, warmhearted, antiseptic, merry, approachable, frigid, affectionate, sweet, uncaring","hospitable, B  
+unsympathetic, B  
+hearty, B  
+chummy, A  
+uninterested, B  
+neighborly, B  
+unresponsive, B  
+collegial, B  
+friendly, B  
+genial, B  
+cold-blooded, A  
+coldish, A  
+uncordial, B  
+cordial, B  
+hard-eyed, A  
+nice, B  
+comradely, A  
+gelid, B  
+brittle, A  
+cold, A  
+heartless, B  
+pitiless, B  
+warm, B  
+chilly, A  
+companionable, B  
+loving, B  
+gracious, B  
+icy, A  
+glacial, A  
+amicable, B  
+unfriendly, B  
+arctic, A  
+warmhearted, B  
+antiseptic, A  
+merry, B  
+approachable, B  
+frigid, A  
+affectionate, B  
+sweet, B  
+uncaring, B",02/07/26
+21,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: cold-blooded, merry, uninterested, gracious, approachable, unfriendly, chummy, comradely, warm, heartless, warmhearted, genial, companionable, uncaring, cold, loving, hard-eyed, hospitable, brittle, chilly, pitiless, hearty, cordial, unresponsive, coldish, antiseptic, uncordial, nice, frigid, gelid, amicable, unsympathetic, glacial, sweet, affectionate, arctic, friendly, neighborly, collegial, icy","cold-blooded, B  
+merry, A  
+uninterested, B  
+gracious, A  
+approachable, A  
+unfriendly, B  
+chummy, A  
+comradely, A  
+warm, A  
+heartless, B  
+warmhearted, A  
+genial, A  
+companionable, A  
+uncaring, B  
+cold, B  
+loving, A  
+hard-eyed, B  
+hospitable, A  
+brittle, B  
+chilly, B  
+pitiless, B  
+hearty, A  
+cordial, A  
+unresponsive, B  
+coldish, B  
+antiseptic, B  
+uncordial, B  
+nice, A  
+frigid, B  
+gelid, B  
+amicable, A  
+unsympathetic, B  
+glacial, B  
+sweet, A  
+affectionate, A  
+arctic, B  
+friendly, A  
+neighborly, A  
+collegial, A  
+icy, B",02/07/26
+22,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: gracious, icy, nice, uninterested, friendly, unsympathetic, cordial, neighborly, unfriendly, gelid, chummy, sweet, hearty, chilly, coldish, antiseptic, hard-eyed, frigid, pitiless, cold, amicable, uncaring, genial, comradely, warm, collegial, arctic, glacial, loving, uncordial, affectionate, hospitable, heartless, brittle, merry, companionable, unresponsive, warmhearted, cold-blooded, approachable","gracious, B  
+icy, B  
+nice, B  
+uninterested, B  
+friendly, B  
+unsympathetic, B  
+cordial, B  
+neighborly, B  
+unfriendly, B  
+gelid, A  
+chummy, B  
+sweet, B  
+hearty, B  
+chilly, A  
+coldish, A  
+antiseptic, A  
+hard-eyed, A  
+frigid, A  
+pitiless, A  
+cold, A  
+amicable, B  
+uncaring, B  
+genial, B  
+comradely, B  
+warm, B  
+collegial, B  
+arctic, A  
+glacial, A  
+loving, B  
+uncordial, A  
+affectionate, B  
+hospitable, B  
+heartless, A  
+brittle, A  
+merry, B  
+companionable, B  
+unresponsive, B  
+warmhearted, B  
+cold-blooded, A  
+approachable, B",02/07/26
+23,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: heartless, icy, collegial, companionable, unresponsive, chilly, gracious, antiseptic, cordial, affectionate, coldish, cold-blooded, unsympathetic, uninterested, hospitable, chummy, uncordial, cold, gelid, amicable, glacial, warm, merry, uncaring, hard-eyed, warmhearted, frigid, sweet, neighborly, genial, comradely, brittle, hearty, friendly, unfriendly, loving, arctic, pitiless, approachable, nice","heartless,B  
+icy,B  
+collegial,A  
+companionable,A  
+unresponsive,B  
+chilly,B  
+gracious,A  
+antiseptic,B  
+cordial,A  
+affectionate,A  
+coldish,B  
+cold-blooded,B  
+unsympathetic,B  
+uninterested,B  
+hospitable,A  
+chummy,B  
+uncordial,B  
+cold,B  
+gelid,B  
+amicable,A  
+glacial,B  
+warm,A  
+merry,A  
+uncaring,B  
+hard-eyed,B  
+warmhearted,A  
+frigid,B  
+sweet,A  
+neighborly,A  
+genial,A  
+comradely,A  
+brittle,B  
+hearty,A  
+friendly,A  
+unfriendly,B  
+loving,A  
+arctic,B  
+pitiless,B  
+approachable,A  
+nice,A",02/07/26
+24,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: chummy, merry, affectionate, friendly, frigid, approachable, pitiless, uninterested, cold, arctic, sweet, brittle, unsympathetic, cold-blooded, genial, collegial, uncordial, comradely, heartless, companionable, coldish, cordial, hearty, glacial, uncaring, loving, neighborly, gracious, unfriendly, warmhearted, chilly, warm, nice, hard-eyed, hospitable, icy, amicable, unresponsive, antiseptic, gelid","chummy, B  
+merry, B  
+affectionate, B  
+friendly, B  
+frigid, A  
+approachable, B  
+pitiless, B  
+uninterested, B  
+cold, A  
+arctic, A  
+sweet, B  
+brittle, A  
+unsympathetic, B  
+cold-blooded, A  
+genial, B  
+collegial, A  
+uncordial, A  
+comradely, A  
+heartless, B  
+companionable, B  
+coldish, A  
+cordial, B  
+hearty, B  
+glacial, A  
+uncaring, B  
+loving, B  
+neighborly, B  
+gracious, B  
+unfriendly, B  
+warmhearted, B  
+chilly, A  
+warm, B  
+nice, B  
+hard-eyed, A  
+hospitable, B  
+icy, A  
+amicable, B  
+unresponsive, B  
+antiseptic, A  
+gelid, A",02/07/26
+25,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: collegial, heartless, cordial, unresponsive, gracious, arctic, approachable, antiseptic, cold-blooded, chilly, coldish, glacial, friendly, uncordial, unfriendly, companionable, comradely, icy, neighborly, genial, warm, brittle, loving, nice, affectionate, frigid, uninterested, hospitable, uncaring, gelid, pitiless, cold, hard-eyed, sweet, warmhearted, hearty, unsympathetic, amicable, chummy, merry","collegial, B  
+heartless, B  
+cordial, A  
+unresponsive, B  
+gracious, A  
+arctic, B  
+approachable, B  
+antiseptic, B  
+cold-blooded, B  
+chilly, B  
+coldish, B  
+glacial, B  
+friendly, B  
+uncordial, A  
+unfriendly, B  
+companionable, B  
+comradely, A  
+icy, B  
+neighborly, B  
+genial, A  
+warm, A  
+brittle, B  
+loving, A  
+nice, B  
+affectionate, A  
+frigid, B  
+unsympathetic, B  
+cold, B  
+hard-eyed, B  
+sweet, A  
+warmhearted, A  
+hearty, A  
+unsympathetic, B  
+amicable, A  
+chummy, B  
+merry, A",02/07/26
+26,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: warm, friendly, cold-blooded, amicable, loving, nice, companionable, pitiless, hard-eyed, brittle, merry, coldish, affectionate, sweet, approachable, gracious, glacial, uncordial, hearty, antiseptic, icy, frigid, arctic, uninterested, warmhearted, genial, neighborly, unsympathetic, collegial, heartless, unresponsive, cold, unfriendly, gelid, uncaring, chummy, cordial, hospitable, chilly, comradely","warm, B  
+friendly, B  
+cold-blooded, A  
+amicable, B  
+loving, B  
+nice, B  
+companionable, B  
+pitiless, B  
+hard-eyed, A  
+brittle, A  
+merry, B  
+coldish, A  
+affectionate, B  
+sweet, B  
+approachable, B  
+gracious, B  
+glacial, A  
+uncordial, A  
+hearty, B  
+antiseptic, A  
+icy, A  
+frigid, A  
+arctic, A  
+uninterested, A  
+warmhearted, B  
+genial, B  
+neighborly, B  
+unsympathetic, A  
+collegial, B  
+heartless, A  
+unresponsive, A  
+cold, A  
+unfriendly, A  
+gelid, A  
+uncaring, A  
+chummy, B  
+cordial, B  
+hospitable, B  
+chilly, A  
+comradely, B",02/07/26
+27,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: friendly, warm, cold, affectionate, arctic, amicable, unfriendly, coldish, gracious, brittle, unresponsive, glacial, chilly, warmhearted, neighborly, cordial, antiseptic, loving, collegial, uninterested, comradely, uncaring, gelid, hospitable, chummy, approachable, merry, genial, hard-eyed, sweet, unsympathetic, frigid, nice, pitiless, heartless, cold-blooded, companionable, icy, uncordial, hearty","friendly, B  
+warm, B  
+cold, A  
+affectionate, B  
+arctic, A  
+amicable, B  
+unfriendly, A  
+coldish, A  
+gracious, B  
+brittle, A  
+unresponsive, A  
+glacial, A  
+chilly, A  
+warmhearted, B  
+neighborly, B  
+cordial, B  
+antiseptic, A  
+loving, B  
+collegial, B  
+uninterested, A  
+comradely, B  
+uncaring, A  
+gelid, A  
+hospitable, B  
+chummy, B  
+approachable, B  
+merry, B  
+genial, B  
+hard-eyed, A  
+sweet, B  
+unsympathetic, A  
+frigid, A  
+nice, B  
+pitiless, A  
+heartless, A  
+cold-blooded, A  
+companionable, B  
+icy, A  
+uncordial, A  
+hearty, B",02/07/26
+28,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: hard-eyed, chilly, cold-blooded, glacial, uncaring, unsympathetic, unresponsive, genial, amicable, chummy, collegial, uncordial, frigid, coldish, warm, brittle, cold, loving, affectionate, heartless, gracious, hearty, icy, gelid, merry, arctic, nice, friendly, hospitable, approachable, comradely, cordial, sweet, pitiless, antiseptic, warmhearted, uninterested, unfriendly, companionable, neighborly","hard-eyed, B  
+chilly, B  
+cold-blooded, B  
+glacial, B  
+uncaring, B  
+unsympathetic, B  
+unresponsive, B  
+genial, A  
+amicable, A  
+chummy, A  
+collegial, A  
+uncordial, A  
+frigid, B  
+coldish, B  
+warm, A  
+brittle, B  
+cold, B  
+loving, A  
+affectionate, A  
+heartless, B  
+gracious, A  
+hearty, A  
+icy, B  
+gelid, B  
+merry, A  
+arctic, B  
+nice, A  
+friendly, A  
+hospitable, A  
+approachable, A  
+comradely, A  
+cordial, A  
+sweet, A  
+pitiless, B  
+antiseptic, B  
+warmhearted, A  
+uninterested, B  
+unfriendly, B  
+companionable, A  
+neighborly, A",02/07/26
+29,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: pitiless, uncaring, uncordial, cold, cordial, hearty, companionable, cold-blooded, loving, chummy, gracious, arctic, merry, nice, coldish, hospitable, brittle, antiseptic, neighborly, genial, unsympathetic, hard-eyed, unresponsive, gelid, warmhearted, unfriendly, amicable, heartless, affectionate, chilly, frigid, approachable, warm, icy, uninterested, comradely, sweet, friendly, glacial, collegial","pitiless,B  
+uncaring,B  
+uncordial,B  
+cold,B  
+cordial,A  
+hearty,A  
+companionable,A  
+cold-blooded,B  
+loving,A  
+chummy,A  
+gracious,A  
+arctic,B  
+merry,A  
+nice,A  
+coldish,B  
+hospitable,A  
+brittle,B  
+antiseptic,B  
+neighborly,A  
+genial,A  
+unsympathetic,B  
+hard-eyed,B  
+unresponsive,B  
+gelid,B  
+warmhearted,A  
+unfriendly,B  
+amicable,A  
+heartless,B  
+affectionate,A  
+chilly,B  
+frigid,B  
+approachable,A  
+warm,A  
+icy,B  
+uninterested,B  
+comradely,A  
+sweet,A  
+friendly,A  
+glacial,B  
+collegial,A",02/07/26
+30,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: collegial, loving, cold-blooded, glacial, chummy, gelid, nice, cordial, approachable, amicable, affectionate, icy, merry, arctic, pitiless, friendly, gracious, heartless, uncaring, uninterested, unsympathetic, chilly, comradely, warm, companionable, coldish, antiseptic, genial, brittle, cold, hospitable, unfriendly, hearty, uncordial, hard-eyed, warmhearted, unresponsive, neighborly, sweet, frigid","collegial, B  
+loving, B  
+cold-blooded, A  
+glacial, A  
+chummy, B  
+gelid, A  
+nice, B  
+cordial, B  
+approachable, B  
+amicable, B  
+affectionate, B  
+icy, A  
+merry, B  
+arctic, A  
+pitiless, A  
+friendly, B  
+gracious, B  
+heartless, A  
+uncaring, A  
+uninterested, A  
+unsympathetic, A  
+chilly, A  
+comradely, B  
+warm, B  
+companionable, B  
+coldish, A  
+antiseptic, A  
+genial, B  
+brittle, A  
+cold, A  
+hospitable, B  
+unfriendly, A  
+hearty, B  
+uncordial, A  
+hard-eyed, A  
+warmhearted, B  
+unresponsive, A  
+neighborly, B  
+sweet, B  
+frigid, A",02/07/26
+31,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: gracious, hearty, uncordial, comradely, cold, genial, loving, antiseptic, frigid, neighborly, heartless, coldish, arctic, companionable, brittle, pitiless, chilly, chummy, gelid, cold-blooded, uninterested, collegial, friendly, warmhearted, nice, hospitable, unfriendly, hard-eyed, unresponsive, glacial, sweet, cordial, approachable, affectionate, amicable, warm, icy, merry, unsympathetic, uncaring","gracious, B  
+hearty, B  
+uncordial, A  
+comradely, A  
+cold, A  
+genial, B  
+loving, B  
+antiseptic, A  
+frigid, A  
+neighborly, B  
+heartless, A  
+coldish, A  
+arctic, A  
+companionable, B  
+brittle, A  
+pitiless, A  
+chilly, A  
+chummy, B  
+gelid, A  
+cold-blooded, A  
+uninterested, A  
+collegial, A  
+friendly, B  
+warmhearted, B  
+nice, B  
+hospitable, B  
+unfriendly, A  
+hard-eyed, A  
+unresponsive, A  
+glacial, A  
+sweet, B  
+cordial, A  
+approachable, B  
+affectionate, B  
+amicable, B  
+warm, B  
+icy, A  
+merry, B  
+unsympathetic, A  
+uncaring, A",02/07/26
+32,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: comradely, loving, uncaring, neighborly, gracious, cordial, hearty, frigid, nice, cold-blooded, icy, gelid, unresponsive, coldish, unfriendly, glacial, warmhearted, brittle, antiseptic, warm, approachable, genial, unsympathetic, pitiless, merry, uninterested, hard-eyed, friendly, hospitable, chilly, chummy, arctic, sweet, affectionate, collegial, uncordial, cold, amicable, companionable, heartless","comradely, A  
+loving, B  
+uncaring, B  
+neighborly, A  
+gracious, B  
+cordial, B  
+hearty, A  
+frigid, B  
+nice, B  
+cold-blooded, B  
+icy, B  
+gelid, B  
+unresponsive, B  
+coldish, B  
+unfriendly, B  
+glacial, B  
+warmhearted, A  
+brittle, B  
+antiseptic, B  
+warm, A  
+approachable, B  
+genial, B  
+unsympathetic, B  
+pitiless, B  
+merry, A  
+uninterested, B  
+hard-eyed, B  
+friendly, B  
+hospitable, A  
+chilly, B  
+chummy, A  
+arctic, B  
+sweet, A  
+affectionate, A  
+collegial, A  
+uncordial, B  
+cold, B  
+amicable, B  
+companionable, A  
+heartless, B",02/07/26
+33,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: uncaring, cordial, uninterested, loving, hospitable, arctic, hard-eyed, antiseptic, chummy, amicable, hearty, icy, unfriendly, unsympathetic, chilly, warmhearted, companionable, frigid, affectionate, unresponsive, cold, gracious, warm, sweet, brittle, neighborly, comradely, coldish, pitiless, approachable, merry, collegial, nice, gelid, heartless, friendly, uncordial, glacial, genial, cold-blooded","uncaring,B  
+cordial,A  
+uninterested,B  
+loving,A  
+hospitable,A  
+arctic,B  
+hard-eyed,B  
+antiseptic,B  
+chummy,B  
+amicable,A  
+hearty,A  
+icy,B  
+unfriendly,B  
+unsympathetic,B  
+chilly,B  
+warmhearted,A  
+companionable,A  
+frigid,B  
+affectionate,A  
+unresponsive,B  
+cold,B  
+gracious,A  
+warm,A  
+sweet,A  
+brittle,B  
+neighborly,A  
+comradely,A  
+coldish,B  
+pitiless,B  
+approachable,A  
+merry,A  
+collegial,A  
+nice,A  
+gelid,B  
+heartless,B  
+friendly,A  
+uncordial,B  
+glacial,B  
+genial,A  
+cold-blooded,B",02/07/26
+34,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: unfriendly, hard-eyed, antiseptic, gracious, uncordial, friendly, frigid, sweet, amicable, coldish, glacial, pitiless, gelid, warm, neighborly, hearty, loving, icy, companionable, genial, brittle, collegial, warmhearted, nice, chummy, approachable, arctic, cold-blooded, hospitable, chilly, cold, merry, cordial, unresponsive, uninterested, heartless, unsympathetic, uncaring, affectionate, comradely","unfriendly, B  
+hard-eyed, B  
+antiseptic, B  
+gracious, B  
+uncordial, B  
+friendly, B  
+frigid, B  
+sweet, B  
+amicable, B  
+coldish, B  
+glacial, B  
+pitiless, B  
+gelid, B  
+warm, B  
+neighborly, B  
+hearty, B  
+loving, B  
+icy, B  
+companionable, B  
+genial, B  
+brittle, B  
+collegial, B  
+warmhearted, B  
+nice, B  
+chummy, B  
+approachable, B  
+arctic, B  
+cold-blooded, B  
+hospitable, B  
+chilly, B  
+cold, B  
+merry, B  
+cordial, B  
+unresponsive, B  
+uninterested, B  
+heartless, B  
+unsympathetic, B  
+uncaring, B  
+affectionate, B  
+comradely, B",02/07/26
+35,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: genial, heartless, coldish, amicable, chummy, gracious, cold-blooded, warm, antiseptic, frigid, arctic, hospitable, unresponsive, brittle, warmhearted, uncaring, nice, companionable, affectionate, gelid, hearty, collegial, cold, unfriendly, unsympathetic, hard-eyed, friendly, approachable, merry, icy, loving, chilly, uninterested, comradely, sweet, cordial, pitiless, neighborly, glacial, uncordial","genial, B  
+heartless, B  
+coldish, A  
+amicable, A  
+chummy, B  
+gracious, A  
+cold-blooded, A  
+warm, B  
+antiseptic, A  
+frigid, A  
+arctic, A  
+hospitable, A  
+unresponsive, A  
+brittle, A  
+warmhearted, B  
+uncaring, A  
+nice, B  
+companionable, A  
+affectionate, B  
+gelid, A  
+hearty, B  
+collegial, A  
+cold, A  
+unfriendly, B  
+unsympathetic, A  
+hard-eyed, B  
+friendly, B  
+approachable, B  
+merry, B  
+icy, A  
+loving, B  
+chilly, A  
+uninterested, A  
+comradely, A  
+sweet, B  
+cordial, A  
+pitiless, A  
+neighborly, B  
+glacial, A  
+uncordial, A",02/07/26
+36,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: pitiless, hearty, coldish, antiseptic, arctic, approachable, uncordial, cordial, companionable, icy, uninterested, unresponsive, genial, glacial, neighborly, cold-blooded, chilly, sweet, heartless, frigid, collegial, affectionate, unsympathetic, hard-eyed, uncaring, loving, comradely, amicable, gracious, nice, friendly, chummy, merry, cold, warmhearted, gelid, brittle, unfriendly, hospitable, warm","pitiless,B  
+hearty,A  
+coldish,B  
+antiseptic,B  
+arctic,B  
+approachable,A  
+uncordial,B  
+cordial,A  
+companionable,A  
+icy,B  
+uninterested,B  
+unresponsive,B  
+genial,A  
+glacial,B  
+neighborly,A  
+cold-blooded,B  
+chilly,B  
+sweet,A  
+heartless,B  
+frigid,B  
+collegial,A  
+affectionate,A  
+unsympathetic,B  
+hard-eyed,B  
+uncaring,B  
+loving,A  
+comradely,A  
+amicable,A  
+gracious,A  
+nice,A  
+friendly,A  
+chummy,A  
+merry,A  
+cold,B  
+warmhearted,A  
+gelid,B  
+brittle,B  
+unfriendly,B  
+hospitable,A  
+warm,A",02/07/26
+37,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: antiseptic, cordial, icy, friendly, cold-blooded, merry, unfriendly, frigid, neighborly, affectionate, unsympathetic, gracious, warmhearted, glacial, unresponsive, approachable, uncordial, cold, pitiless, collegial, sweet, hospitable, hearty, companionable, brittle, chummy, gelid, arctic, uncaring, warm, amicable, nice, uninterested, genial, coldish, heartless, comradely, loving, chilly, hard-eyed","antiseptic, B  
+cordial, A  
+icy, B  
+friendly, A  
+cold-blooded, B  
+merry, A  
+unfriendly, B  
+frigid, B  
+neighborly, A  
+affectionate, A  
+unsympathetic, B  
+gracious, A  
+warmhearted, A  
+glacial, B  
+unresponsive, B  
+approachable, A  
+uncordial, B  
+cold, B  
+pitiless, B  
+collegial, A  
+sweet, A  
+hospitable, A  
+hearty, A  
+companionable, A  
+brittle, B  
+chummy, B  
+gelid, B  
+arctic, B  
+uncaring, B  
+warm, A  
+amicable, A  
+nice, A  
+uninterested, B  
+genial, A  
+coldish, B  
+heartless, B  
+comradely, A  
+loving, A  
+chilly, B  
+hard-eyed, B",02/07/26
+38,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: friendly, warm, hospitable, uncordial, chummy, hard-eyed, frigid, arctic, gelid, antiseptic, loving, merry, warmhearted, nice, unsympathetic, coldish, collegial, genial, sweet, cold-blooded, unresponsive, companionable, brittle, glacial, chilly, gracious, heartless, hearty, pitiless, amicable, icy, uninterested, approachable, uncaring, affectionate, neighborly, cordial, unfriendly, comradely, cold","friendly, B  
+warm, B  
+hospitable, B  
+uncordial, A  
+chummy, A  
+hard-eyed, A  
+frigid, B  
+arctic, B  
+gelid, B  
+antiseptic, B  
+loving, B  
+merry, B  
+warmhearted, B  
+nice, B  
+unsympathetic, A  
+coldish, A  
+collegial, A  
+genial, B  
+sweet, B  
+cold-blooded, A  
+unresponsive, A  
+companionable, A  
+brittle, A  
+glacial, B  
+chilly, B  
+gracious, B  
+heartless, A  
+hearty, B  
+pitiless, A  
+amicable, A  
+icy, B  
+uninterested, A  
+uncaring, A  
+affectionate, B  
+neighborly, B  
+cordial, A  
+unfriendly, A  
+comradely, A  
+cold, A",02/07/26
+39,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: gracious, friendly, icy, cold-blooded, unsympathetic, affectionate, loving, brittle, sweet, warm, unresponsive, uninterested, hospitable, companionable, uncordial, approachable, glacial, frigid, merry, heartless, amicable, genial, neighborly, arctic, antiseptic, unfriendly, chilly, uncaring, chummy, collegial, nice, cold, comradely, coldish, hard-eyed, gelid, warmhearted, pitiless, cordial, hearty","gracious, B  
+friendly, B  
+icy, A  
+cold-blooded, A  
+unsympathetic, A  
+affectionate, B  
+loving, B  
+brittle, A  
+sweet, B  
+warm, B  
+unresponsive, A  
+uninterested, A  
+hospitable, B  
+companionable, B  
+uncordial, A  
+approachable, B  
+glacial, A  
+frigid, A  
+merry, B  
+heartless, A  
+amicable, B  
+genial, B  
+neighborly, B  
+arctic, A  
+antiseptic, A  
+unfriendly, A  
+chilly, A  
+uncaring, A  
+chummy, B  
+collegial, B  
+nice, B  
+cold, A  
+comradely, B  
+coldish, A  
+hard-eyed, A  
+gelid, A  
+warmhearted, B  
+pitiless, A  
+cordial, B  
+hearty, B",02/07/26
+40,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: companionable, cold, hard-eyed, brittle, warm, cold-blooded, comradely, gracious, icy, unsympathetic, approachable, hospitable, glacial, unfriendly, uncaring, nice, coldish, frigid, loving, merry, gelid, pitiless, chummy, sweet, genial, collegial, amicable, chilly, cordial, friendly, unresponsive, affectionate, antiseptic, warmhearted, heartless, uncordial, hearty, neighborly, uninterested, arctic","companionable, B  
+cold, A  
+hard-eyed, A  
+brittle, B  
+warm, B  
+cold-blooded, A  
+comradely, B  
+gracious, B  
+icy, A  
+unsympathetic, A  
+approachable, B  
+hospitable, B  
+glacial, A  
+unfriendly, A  
+uncaring, A  
+nice, B  
+coldish, A  
+frigid, A  
+loving, B  
+merry, B  
+gelid, A  
+pitiless, A  
+chummy, B  
+sweet, B  
+genial, B  
+collegial, B  
+amicable, B  
+chilly, A  
+cordial, B  
+friendly, B  
+unresponsive, A  
+affectionate, B  
+antiseptic, A  
+warmhearted, B  
+heartless, A  
+uncordial, B  
+hearty, B  
+neighborly, B  
+uninterested, A  
+arctic, A",02/07/26
+41,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: cold-blooded, frigid, unresponsive, hospitable, unfriendly, arctic, chummy, loving, approachable, cordial, neighborly, gelid, companionable, uncaring, nice, comradely, warm, icy, sweet, hard-eyed, friendly, collegial, brittle, uninterested, chilly, cold, gracious, heartless, affectionate, genial, merry, unsympathetic, antiseptic, glacial, coldish, hearty, warmhearted, pitiless, amicable, uncordial","cold-blooded, B  
+frigid, B  
+unresponsive, B  
+hospitable, A  
+unfriendly, B  
+arctic, B  
+chummy, A  
+loving, A  
+approachable, A  
+cordial, A  
+neighborly, A  
+gelid, B  
+companionable, A  
+uncaring, B  
+nice, A  
+comradely, A  
+warm, A  
+icy, B  
+sweet, A  
+hard-eyed, B  
+friendly, A  
+collegial, A  
+brittle, B  
+uninterested, B  
+chilly, B  
+cold, B  
+gracious, A  
+heartless, B  
+affectionate, A  
+genial, A  
+merry, A  
+unsympathetic, B  
+antiseptic, B  
+glacial, B  
+coldish, B  
+hearty, A  
+warmhearted, A  
+pitiless, B  
+amicable, A  
+uncordial, B",02/07/26
+42,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: companionable, hospitable, friendly, collegial, unfriendly, merry, sweet, loving, chummy, hard-eyed, cold, nice, affectionate, uninterested, cordial, genial, gelid, unsympathetic, unresponsive, warm, frigid, neighborly, heartless, cold-blooded, coldish, warmhearted, glacial, gracious, icy, hearty, brittle, comradely, uncordial, arctic, amicable, antiseptic, chilly, approachable, uncaring, pitiless","companionable, B  
+hospitable, B  
+friendly, B  
+collegial, B  
+unfriendly, B  
+merry, B  
+sweet, B  
+loving, B  
+chummy, B  
+hard-eyed, A  
+cold, A  
+nice, B  
+affectionate, B  
+uninterested, A  
+cordial, B  
+genial, B  
+gelid, A  
+unsympathetic, A  
+unresponsive, A  
+warm, A  
+frigid, A  
+neighborly, B  
+heartless, A  
+cold-blooded, A  
+coldish, A  
+warmhearted, B  
+glacial, A  
+gracious, B  
+icy, A  
+hearty, B  
+brittle, A  
+comradely, B  
+uncordial, A  
+arctic, A  
+amicable, B  
+antiseptic, A  
+chilly, A  
+approachable, B  
+uncaring, A  
+pitiless, A",02/07/26
+43,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: loving, warmhearted, uninterested, hospitable, hard-eyed, amicable, uncordial, approachable, cold-blooded, cordial, companionable, antiseptic, icy, sweet, pitiless, warm, comradely, nice, glacial, unfriendly, cold, frigid, chummy, collegial, unsympathetic, friendly, hearty, affectionate, genial, arctic, chilly, coldish, brittle, heartless, neighborly, uncaring, unresponsive, gracious, merry, gelid","loving, B  
+warmhearted, B  
+uninterested, A  
+hospitable, B  
+hard-eyed, A  
+amicable, B  
+uncordial, A  
+approachable, B  
+cold-blooded, A  
+cordial, B  
+companionable, B  
+antiseptic, A  
+icy, A  
+sweet, B  
+pitiless, A  
+warm, B  
+comradely, B  
+nice, B  
+glacial, A  
+unfriendly, A  
+cold, A  
+frigid, A  
+chummy, B  
+collegial, B  
+unsympathetic, A  
+friendly, B  
+hearty, B  
+affectionate, B  
+genial, B  
+arctic, A  
+chilly, A  
+coldish, A  
+brittle, A  
+heartless, A  
+neighborly, B  
+uncaring, A  
+unresponsive, A  
+gracious, B  
+merry, B  
+gelid, A",02/07/26
+44,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: hard-eyed, comradely, warmhearted, heartless, nice, unfriendly, gracious, cold-blooded, chilly, cordial, loving, pitiless, genial, coldish, approachable, hearty, companionable, hospitable, uninterested, warm, friendly, arctic, brittle, uncaring, unresponsive, unsympathetic, collegial, icy, gelid, affectionate, uncordial, merry, glacial, neighborly, antiseptic, sweet, frigid, chummy, amicable, cold","hard-eyed, B  
+comradely, A  
+warmhearted, B  
+heartless, B  
+nice, B  
+unfriendly, B  
+gracious, B  
+cold-blooded, B  
+chilly, B  
+cordial, B  
+loving, B  
+pitiless, B  
+genial, B  
+coldish, B  
+approachable, B  
+hearty, B  
+companionable, B  
+hospitable, B  
+uninterested, B  
+warm, B  
+friendly, B  
+arctic, B  
+brittle, B  
+uncaring, B  
+unresponsive, B  
+unsympathetic, B  
+collegial, B  
+icy, B  
+gelid, B  
+affectionate, B  
+uncordial, B  
+merry, B  
+glacial, B  
+neighborly, B  
+antiseptic, B  
+sweet, B  
+frigid, B  
+chummy, B  
+amicable, B  
+cold, B",02/07/26
+45,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: genial, uncordial, nice, cold, coldish, heartless, cordial, chilly, warm, unsympathetic, approachable, antiseptic, uninterested, hospitable, gelid, friendly, frigid, merry, pitiless, comradely, glacial, cold-blooded, warmhearted, loving, uncaring, icy, unresponsive, collegial, amicable, brittle, gracious, companionable, neighborly, hearty, affectionate, arctic, unfriendly, sweet, hard-eyed, chummy","genial, B  
+uncordial, B  
+nice, B  
+cold, A  
+coldish, A  
+heartless, A  
+cordial, A  
+chilly, B  
+warm, B  
+unsympathetic, A  
+approachable, B  
+antiseptic, A  
+uninterested, A  
+hospitable, A  
+gelid, A  
+friendly, B  
+frigid, A  
+merry, B  
+pitiless, A  
+comradely, A  
+glacial, A  
+cold-blooded, A  
+warmhearted, B  
+loving, B  
+uncaring, A  
+icy, A  
+unresponsive, A  
+collegial, A  
+amicable, B  
+brittle, A  
+gracious, B  
+companionable, B  
+neighborly, B  
+hearty, B  
+affectionate, B  
+arctic, A  
+unfriendly, A  
+sweet, B  
+hard-eyed, A  
+chummy, B",02/07/26
+46,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: chummy, approachable, collegial, arctic, chilly, comradely, merry, friendly, hard-eyed, affectionate, unresponsive, cold, nice, uncaring, hearty, glacial, unfriendly, antiseptic, companionable, cordial, frigid, warmhearted, loving, cold-blooded, sweet, gelid, gracious, pitiless, uninterested, warm, genial, unsympathetic, neighborly, coldish, uncordial, hospitable, heartless, brittle, icy, amicable","chummy, B  
+approachable, B  
+collegial, B  
+arctic, A  
+chilly, A  
+comradely, B  
+merry, B  
+friendly, B  
+hard-eyed, A  
+affectionate, B  
+unresponsive, B  
+cold, A  
+nice, B  
+uncaring, B  
+hearty, B  
+glacial, A  
+unfriendly, B  
+antiseptic, B  
+companionable, B  
+cordial, B  
+frigid, A  
+warmhearted, B  
+loving, B  
+cold-blooded, A  
+sweet, B  
+gelid, A  
+gracious, B  
+pitiless, B  
+uninterested, B  
+warm, B  
+genial, B  
+unsympathetic, B  
+neighborly, B  
+coldish, A  
+uncordial, B  
+hospitable, B  
+heartless, B  
+brittle, A  
+icy, A  
+amicable, B",02/07/26
+47,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: friendly, cold-blooded, pitiless, unresponsive, antiseptic, collegial, gelid, unsympathetic, cordial, chilly, glacial, uncordial, merry, hospitable, cold, affectionate, warmhearted, unfriendly, genial, gracious, chummy, icy, neighborly, loving, arctic, hard-eyed, comradely, frigid, uninterested, heartless, sweet, companionable, approachable, warm, hearty, brittle, amicable, coldish, nice, uncaring","friendly, B  
+cold-blooded, B  
+pitiless, B  
+unresponsive, B  
+antiseptic, B  
+collegial, A  
+gelid, B  
+unsympathetic, B  
+cordial, A  
+chilly, B  
+glacial, B  
+uncordial, A  
+merry, B  
+hospitable, A  
+cold, B  
+affectionate, A  
+warmhearted, A  
+unfriendly, B  
+genial, A  
+gracious, A  
+chummy, B  
+icy, B  
+neighborly, A  
+loving, A  
+arctic, B  
+hard-eyed, B  
+comradely, A  
+frigid, B  
+uninterested, B  
+heartless, B  
+sweet, A  
+companionable, A  
+approachable, A  
+warm, A  
+hearty, A  
+brittle, B  
+amicable, A  
+coldish, B  
+nice, A  
+uncaring, B",02/07/26
+48,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: uncaring, sweet, chilly, hard-eyed, hospitable, cordial, pitiless, companionable, gracious, loving, brittle, warm, heartless, glacial, icy, frigid, genial, coldish, cold, amicable, neighborly, comradely, approachable, affectionate, collegial, hearty, friendly, warmhearted, nice, unfriendly, unresponsive, chummy, arctic, unsympathetic, gelid, cold-blooded, uncordial, merry, uninterested, antiseptic","uncaring,B  
+sweet,A  
+chilly,B  
+hard-eyed,B  
+hospitable,A  
+cordial,B  
+pitiless,B  
+companionable,A  
+gracious,B  
+loving,A  
+brittle,B  
+warm,A  
+heartless,B  
+glacial,B  
+icy,B  
+frigid,B  
+genial,B  
+coldish,B  
+cold,B  
+amicable,B  
+neighborly,A  
+comradely,A  
+approachable,B  
+affectionate,A  
+collegial,B  
+hearty,A  
+friendly,B  
+warmhearted,A  
+nice,A  
+unfriendly,B  
+unresponsive,B  
+chummy,A  
+arctic,B  
+unsympathetic,B  
+gelid,B  
+cold-blooded,B  
+uncordial,B  
+merry,A  
+uninterested,B  
+antiseptic,B",02/07/26
+49,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: warm, unfriendly, warmhearted, comradely, cold, collegial, hospitable, uncordial, approachable, affectionate, uncaring, amicable, genial, sweet, uninterested, frigid, antiseptic, hard-eyed, coldish, brittle, cold-blooded, pitiless, friendly, glacial, heartless, gracious, loving, cordial, unresponsive, unsympathetic, merry, chilly, companionable, chummy, nice, icy, neighborly, arctic, gelid, hearty","warm, B  
+unfriendly, A  
+warmhearted, B  
+comradely, A  
+cold, A  
+collegial, B  
+hospitable, B  
+uncordial, A  
+approachable, B  
+affectionate, B  
+uncaring, A  
+amicable, B  
+genial, B  
+sweet, B  
+uninterested, A  
+antiseptic, A  
+hard-eyed, A  
+coldish, A  
+brittle, A  
+cold-blooded, A  
+pitiless, A  
+friendly, B  
+glacial, A  
+heartless, A  
+gracious, B  
+loving, B  
+cordial, A  
+unresponsive, A  
+unsympathetic, A  
+merry, B  
+chilly, A  
+companionable, B  
+chummy, B  
+nice, B  
+icy, A  
+neighborly, B  
+arctic, A  
+gelid, A  
+hearty, B",02/07/26
+50,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: approachable, nice, pitiless, genial, cold, gelid, uncordial, brittle, arctic, unsympathetic, collegial, heartless, loving, uninterested, comradely, neighborly, companionable, cordial, warmhearted, unfriendly, unresponsive, chilly, hospitable, affectionate, hearty, antiseptic, frigid, amicable, coldish, glacial, icy, cold-blooded, uncaring, merry, warm, friendly, gracious, hard-eyed, chummy, sweet","approachable, B  
+nice, B  
+pitiless, B  
+genial, B  
+cold, B  
+gelid, A  
+uncordial, A  
+brittle, A  
+arctic, A  
+unsympathetic, A  
+collegial, B  
+heartless, B  
+loving, B  
+uninterested, B  
+comradely, A  
+neighborly, A  
+companionable, B  
+cordial, A  
+warmhearted, B  
+unfriendly, B  
+unresponsive, B  
+chilly, A  
+hospitable, B  
+affectionate, B  
+hearty, B  
+antiseptic, A  
+frigid, A  
+amicable, B  
+coldish, A  
+glacial, A  
+icy, A  
+cold-blooded, A  
+uncaring, A  
+merry, B  
+warm, B  
+friendly, B  
+gracious, B  
+hard-eyed, A  
+chummy, B  
+sweet, B",02/07/26
