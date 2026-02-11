@@ -175,7 +175,7 @@ Sentence_ID,Text ID,Line,Speaker,Raw,PS,PS_Check,PS_Note,MS,MS_Check,MS_Note,Eng
 ,BCN_H12_037,189,E,yo a este le he hecho de canguro,Yo a este le he hecho de canguro,,,Yo a este le hice de nana,,,I babysat this one,Both
 ,BCN_H12_037,261,I, yo trabajaba de camarero con mi hermana,Yo trabajaba de camarero con mi hermana,,,Yo trabajaba de mesero con mi hermana,,,I was working as a waiter with my sister,Lexical
 ,BCN_H12_037,245,E,¿todos os conocéis?  ¿hacéis vida de pueblo?,¿Todos vosotros os conocéis? ¿Hacéis vida de pueblo?,,,¿Todos ustedes se conocen? ¿Hacen vida de pueblo?,,,Do you all know each other? Do you live a small-town life?,Grammar
-,MONR_H12_016,5,E,¿y qué tal / cómo vas en la escuela?,¿Y qué tal? ¿Cómo vas en la el colegio?,,,¿Y qué tal? ¿Cómo vas en la escuela?,,,How are you? How is school going?,Lexical
+,MONR_H12_016,5,E,¿y qué tal / cómo vas en la escuela?,¿Y qué tal? ¿Cómo vas en el colegio?,,,¿Y qué tal? ¿Cómo vas en la escuela?,,,How are you? How is school going?,Lexical
 ,MONR_H12_016,14,E,¿cómo  celebran ustedes las  / por ejemplo  la cuaresma?,¿Cómo celebráis vosotros la cuaresma?,,,¿Cómo celebran ustedes la cuaresma?,,,How do you (plural) celebrate lent?,Grammar
 ,MONR_H12_016,62,B,ya estás por salir / de la escuela y / este / ¿qué? / ¿qué expectativas tienes tú saliendo? / ¿qué planes tienes o qué esperas? 62 I: yo le / eh // pues no sé / expectativas como que / muy oscuras / da <ruido = “expresión de broma”/> <risas = “I”/> / no pues / eh / yo no / a como yo veo las cosas yo / siento que no / no voy a trabajar / en lo que estudié,Ya estás por salir del colegio ¿Qué planes tienes o qué esperas? - Yo siento que no voy a trabajar de lo que he estudiado,,,Ya estás por salir de la escuela ¿Qué planes tienes o qué esperas? - Yo siento que no voy a trabajar en lo que estudié,,,You're almost done with school. What plans do you have or what are you expecting? - I don't feel like I'll be working in what I studied,Both
 ,MONR_H12_016,63,I,mi papá tiene un negocio / muy distinto a / a lo que / a lo que yo estoy estudiando // y ahorita / tiene oportunidades muy muy / muy grandes / y ocupa gente / ,Mi papá ahora tiene oportunidades muy grandes y necesita gente,,,Mi papá ahorita tiene oportunidades muy grandes y ocupa gente,,,My dad has big opportunities now and he needs people,Lexical
@@ -200,6 +200,7 @@ Sentence_ID,Text ID,Line,Speaker,Raw,PS,PS_Check,PS_Note,MS,MS_Check,MS_Note,Eng
 ,MONR_H13_025,"(332, 333)",B, ¿y dónde trabajas ahorita? 332 I: pues no es un lugar fijo / como músico / pues ¿pues cómo podríamos ponerle así? / es que a veces toco  en hoteles  333 E:  es independiente  333 I: porque a veces toco en hoteles / a veces en antros / a veces en / eventos privados,"¿Y dónde trabajas ahora? - Pues como músico, veces toco  en hoteles , a veces en clubs, y a veces en eventos privados",,,"¿Y dónde trabajas ahorita? - Pues como músico, veces toco  en hoteles , a veces en antros , y a veces en eventos privados",,,"And where do you work now? - Well, as a musician, sometimes I play at hotels, sometimes at clubs, and sometimes at private events",Lexical
 
 ,MONR_H13_025,347,E,¿cuántos focos ah / hay en tu casa?,¿Cuántas bombillas hay en tu casa?,,,¿Cuántos focos hay en tu casa?,,,How many lightbulbs are there in your house?,Lexical
+
 
 
 
