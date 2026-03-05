@@ -1,0 +1,1547 @@
+sen_id,A,B,prompt,response,date
+1,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: aplomado, atrevido, lanzado, inconstante, inseguro, vacilante, impreciso, inestable, tranquilo, indeciso, valiente, enérgico, seguro, decidido, vago, grave, indeterminado, circunspecto, reflexivo, sereno, audaz, borroso, irresoluto, variable, imperturbable, movedizo, resuelto, incierto, confiado, mesurado, dubitativo, mudable, variante, confuso, prudente, perplejo, ponderado, titubeante, cambiante, emprendedor","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
+
+1. Aplomado - A, 
+2. Atrevido - B, 
+3. Lanzado - A, 
+4. Inconstante - B, 
+5. Inseguro - A, 
+6. Vacilante - B, 
+7. Impreciso - A, 
+8. Inestable - B, 
+9. Tranquilo - A, 
+10. Indeciso - B, 
+11. Valiente - A, 
+12. Enérgico - B, 
+13. Seguro - A, 
+14. Decidido - B, 
+15. Vago - A, 
+16. Grave - B, 
+17. Indeterminado - A, 
+18. Circunspecto - B, 
+19. Reflexivo - A, 
+20. Sereno - B, 
+21. Audaz - A, 
+22. Borroso - B, 
+23. Irresoluto - A, 
+24. Variable - B, 
+25. Imperturbable - A, 
+26. Movedizo - B, 
+27. Resuelto - A, 
+28",03/05/26
+2,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: mudable, seguro, resuelto, titubeante, vacilante, lanzado, mesurado, ponderado, tranquilo, borroso, decidido, inconstante, perplejo, cambiante, audaz, inseguro, enérgico, confuso, incierto, variante, movedizo, indeterminado, confiado, impreciso, valiente, indeciso, variable, atrevido, emprendedor, vago, prudente, sereno, inestable, circunspecto, grave, dubitativo, reflexivo, imperturbable, aplomado, irresoluto","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Muable - A, B
+2. Seguro - B
+3. Resuelto - A
+4. Titubeante - B
+5. Vacilante - A
+6. Lanzado - B
+7. Mesurado - A
+8. Ponderado - B
+9. Tranquilo - A
+10. Borroso - B
+11. Decidido - A
+12. Inconstante - B
+13. Perplejo - A
+14. Cambiante - B
+15. Audaz - A
+16. Inseguro - B
+17. Energico - A
+18. Confuso - B
+19. Incierto - A
+20. Variante - B
+21. Movedizo - A
+22. Indeterminado - B
+23. Confiado - A
+24. Impreciso - B
+25. Valiente - A
+26. Indeciso - B
+27. Variable - A
+28. Atrevido - B
+29. Emprendedor - A
+30. Vago - B
+31. Prudente",03/05/26
+3,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: decidido, impreciso, variable, variante, confuso, valiente, mudable, irresoluto, inseguro, inconstante, prudente, seguro, incierto, sereno, cambiante, enérgico, vacilante, confiado, indeterminado, grave, tranquilo, emprendedor, resuelto, dubitativo, perplejo, atrevido, imperturbable, audaz, reflexivo, ponderado, mesurado, lanzado, movedizo, aplomado, borroso, titubeante, vago, inestable, indeciso, circunspecto","Aquí tienes la lista con los escritores correspondientes:
+
+Decidido - A, B
+Impreciso - B
+Variable - A
+Variante - B
+Confuso - B
+Valiente - A
+Mudable - B
+Irresoluto - B
+Inseguro - A
+Inconstante - A
+Pruudente - A
+Seguro - A
+Incierto - B
+Sereno - A
+Cambiante - B
+Enérgico - A
+Vacilante - A
+Confiado - A
+Indeterminado - B
+Grave - A
+Tranquilo - A
+Emprendedor - B
+Resuelto - A
+Dubitativo - B
+Perplejo - B
+Atrevido - B
+Imperturbable - A
+Audaz - A
+Reflexivo - B
+Ponderado - A
+Mesurado - A
+Lanzado - B
+Movedizo - B
+Aplomado - A
+Borroso - B
+Titubeante - A
+Vago - B
+Inestable - A
+Indeciso - A
+Circunspecto - A",03/05/26
+4,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: vago, resuelto, vacilante, variante, dubitativo, confiado, ponderado, movedizo, inseguro, aplomado, reflexivo, lanzado, sereno, titubeante, indeterminado, prudente, atrevido, circunspecto, emprendedor, valiente, impreciso, indeciso, variable, perplejo, borroso, imperturbable, grave, mesurado, tranquilo, seguro, audaz, enérgico, mudable, incierto, inconstante, inestable, decidido, cambiante, confuso, irresoluto","Aquí tienes la lista con los escritores A y B seleccionados para cada adjetivo:
+
+1. vago - A, B
+2. resuelto - B, A
+3. vacilante - A, B
+4. variante - B, A
+5. dubitativo - A, B
+6. confiado - B, A
+7. ponderado - A, B
+8. movedizo - B, A
+9. inseguro - A, B
+10. aplomado - B, A
+11. reflexivo - A, B
+12. lanzado - B, A
+13. sereno - A, B
+14. titubeante - A, B
+15. indeterminado - B, A
+16. prudente - A, B
+17. atrevido - B, A
+18. circunspecto - A, B
+19. emprendedor - B, A
+20. valiente - A, B
+21. impreciso - B, A
+22. indeciso - A, B
+23. variable - B, A
+24. perplejo - A, B
+25. borroso - B",03/05/26
+5,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: vacilante, inseguro, inestable, seguro, mudable, impreciso, inconstante, borroso, imperturbable, indeciso, irresoluto, emprendedor, titubeante, grave, enérgico, mesurado, vago, atrevido, movedizo, incierto, sereno, variable, confiado, valiente, variante, prudente, circunspecto, cambiante, confuso, lanzado, resuelto, audaz, decidido, ponderado, reflexivo, perplejo, dubitativo, tranquilo, indeterminado, aplomado","Aquí tienes la lista con los escritores seleccionados:
+
+1. Vacilante - A, B
+2. Inseguro - A, B
+3. Inestable - A, B
+4. Seguro - A, B
+5. Mudable - B, A
+6. Impreciso - A, B
+7. Inconstante - A, B
+8. Borroso - A, B
+9. Imperturbable - A, B
+10. Indeciso - A, B
+11. Irresoluto - A, B
+12. Emprendedor - B, A
+13. Titubeante - A, B
+14. Grave - A, B
+15. Energico - A, B
+16. Mesurado - A, B
+17. Vago - A, B
+18. Atrevido - B, A
+19. Movedizo - B, A
+20. Incierto - A, B
+21. Sereno - A, B
+22. Variable - A, B
+23. Confidente - B, A
+24. Valiente - A, B
+25. Variante - B, A
+26. Pr",03/05/26
+6,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: enérgico, sereno, aplomado, resuelto, dubitativo, titubeante, indeciso, seguro, variable, cambiante, emprendedor, decidido, tranquilo, circunspecto, valiente, indeterminado, incierto, confiado, perplejo, grave, reflexivo, prudente, variante, impreciso, imperturbable, movedizo, vacilante, irresoluto, ponderado, mudable, vago, confuso, audaz, inseguro, inconstante, borroso, inestable, mesurado, lanzado, atrevido","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
+
+1. Enérgico - A, B
+2. Sereno - A, B
+3. Aplomado - A
+4. Resuelto - B
+5. Dubitativo - A
+6. Titubeante - A
+7. Indeciso - A
+8. Seguro - B
+9. Variable - B
+10. Cambiante - B
+11. Emprendedor - A
+12. Decidido - B
+13. Tranquilo - B
+14. Circunspecto - B
+15. Valiente - A
+16. Indeterminado - A
+17. Incierto - A
+18. Confiado - B
+19. Perplejo - A
+20. Grave - A
+21. Reflexivo - B
+22. Prudente - B
+23. Variante - B
+24. Impreciso - A
+25. Imperturbable - B
+26. Movedizo - A
+27. Vacilante - A
+28. Irresoluto - A
+29. Ponderado - B
+30. Mudable - A",03/05/26
+7,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: grave, reflexivo, dubitativo, tranquilo, mudable, decidido, impreciso, circunspecto, confiado, imperturbable, inconstante, borroso, inseguro, confuso, enérgico, prudente, perplejo, lanzado, seguro, indeciso, ponderado, sereno, movedizo, variante, aplomado, indeterminado, variable, irresoluto, audaz, emprendedor, titubeante, vago, valiente, incierto, mesurado, resuelto, atrevido, vacilante, cambiante, inestable","grave - A, B
+reflexivo - A
+dubitativo - B
+tranquilo - A
+mudable - B
+decidido - A
+impreciso - B
+circunspecto - A
+confiado - B
+imperturbable - A
+inconstante - B
+borroso - B
+inseguro - B
+confuso - B
+enérgico - A
+prudente - A
+perplejo - B
+lanzado - B
+seguro - A
+indeciso - B
+ponderado - A
+sereno - A
+movedizo - B
+variante - B
+aplomado - A
+indeterminado - B
+variable - B
+irresoluto - B
+audaz - A
+emprendedor - B
+titubeante - B
+vago - B
+valiente - A
+incierto - B
+mesurado - A
+resuelto - A
+atrevido - A
+vacilante - B
+cambiante - B
+inestable - B",03/05/26
+8,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: vacilante, perplejo, variante, inseguro, seguro, incierto, aplomado, tranquilo, decidido, movedizo, titubeante, circunspecto, atrevido, impreciso, inconstante, dubitativo, grave, enérgico, confiado, variable, cambiante, resuelto, indeciso, borroso, emprendedor, valiente, inestable, audaz, sereno, irresoluto, imperturbable, mesurado, prudente, vago, lanzado, ponderado, mudable, confuso, indeterminado, reflexivo","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. vacilante - A, B
+2. perplejo - A, B
+3. variante - B
+4. inseguro - A
+5. seguro - B
+6. incierto - A
+7. aplomado - B
+8. tranquilo - A
+9. decidido - B
+10. movedizo - A
+11. titubeante - A
+12. circunspecto - B
+13. atrevido - A
+14. impreciso - B
+15. inconstante - A
+16. dubitativo - A
+17. grave - B
+18. enérgico - B
+19. confiado - A
+20. variable - A
+21. cambiante - A
+22. resuelto - B
+23. indeciso - A
+24. borroso - B
+25. emprendedor - A
+26. valiente - A
+27. inestable - A
+28. audaz - B
+29. sereno - B
+30. irresoluto - A
+31. imperturbable -",03/05/26
+9,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sereno, inconstante, variante, indeterminado, movedizo, inestable, tranquilo, atrevido, prudente, inseguro, incierto, grave, confuso, lanzado, seguro, decidido, ponderado, emprendedor, irresoluto, aplomado, impreciso, resuelto, imperturbable, dubitativo, enérgico, vago, perplejo, cambiante, valiente, indeciso, vacilante, circunspecto, audaz, borroso, confiado, variable, reflexivo, mesurado, titubeante, mudable","Aquí te dejo la lista con los escritores asignados a cada adjetivo:
+
+1. sereno - A, B
+2. inconstante - B, A
+3. variante - A, B
+4. indeterminado - B, A
+5. movedizo - A, B
+6. inestable - B, A
+7. tranquilo - A, B
+8. atrevido - B, A
+9. prudente - A, B
+10. inseguro - B, A
+11. incierto - A, B
+12. grave - A, B
+13. confuso - B, A
+14. lanzado - A, B
+15. seguro - A, B
+16. decidido - A, B
+17. ponderado - A, B
+18. emprendedor - B, A
+19. irresoluto - A, B
+20. aplomado - A, B
+21. impreciso - B, A
+22. resuelto - A, B
+23. imperturbable - A, B
+24. dubitativo - B, A
+25. enérgico - A,",03/05/26
+10,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: inestable, confuso, grave, vacilante, variable, impreciso, enérgico, indeciso, decidido, borroso, reflexivo, resuelto, valiente, ponderado, titubeante, mesurado, inconstante, vago, incierto, prudente, perplejo, irresoluto, seguro, inseguro, sereno, tranquilo, confiado, variante, aplomado, movedizo, imperturbable, mudable, atrevido, indeterminado, dubitativo, cambiante, circunspecto, emprendedor, lanzado, audaz","inestable - A, B
+confuso - A
+grave - B
+vacilante - A
+variable - B
+impreciso - A
+enérgico - B
+indeciso - A
+decidido - B
+borroso - A
+reflexivo - B
+resuelto - B
+valiente - B
+ponderado - B
+titubeante - A
+mesurado - B
+inconstante - A
+vago - A
+incierto - B
+prudente - B
+perplejo - A
+irresoluto - A
+seguro - B
+inseguro - A
+sereno - B
+tranquilo - B
+confiado - B
+variante - B
+aplamado - B
+movedizo - A
+imperturbable - B
+mudable - A
+atrevido - B
+indeterminado - A
+dubitativo - A
+cambiante - A
+circunspecto - B
+emprendedor - B
+lanzado - B
+audaz - B",03/05/26
+11,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: reflexivo, titubeante, cambiante, inseguro, emprendedor, sereno, irresoluto, mesurado, perplejo, resuelto, indeterminado, atrevido, ponderado, confuso, prudente, seguro, variable, tranquilo, inestable, dubitativo, mudable, impreciso, indeciso, grave, valiente, circunspecto, vacilante, decidido, inconstante, enérgico, lanzado, imperturbable, confiado, variante, vago, incierto, borroso, movedizo, audaz, aplomado","Aquí te dejo la lista con los escritores asociados a cada adjetivo:
+
+1. Reflexivo - A, B
+2. Titubeante - A, B
+3. Cambiante - A, B
+4. Inseguro - A, B
+5. Emprendedor - B, A
+6. Sereno - A, B
+7. Irresoluto - A, B
+8. Mesurado - A, B
+9. Perplejo - A, B
+10. Resuelto - B, A
+11. Indeterminado - A, B
+12. Atrevido - B, A
+13. Ponderado - A, B
+14. Confuso - A, B
+15. Prudente - A, B
+16. Seguro - B, A
+17. Variable - A, B
+18. Tranquilo - A, B
+19. Inestable - A, B
+20. Dubitativo - A, B
+21. Mudable - A, B
+22. Impreciso - A, B
+23. Indeciso - A, B
+24. Grave - A, B
+25. Valiente -",03/05/26
+12,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: variante, indeciso, irresoluto, emprendedor, inconstante, tranquilo, sereno, resuelto, confiado, inestable, decidido, grave, lanzado, indeterminado, prudente, inseguro, audaz, reflexivo, confuso, vago, circunspecto, cambiante, mudable, borroso, seguro, mesurado, ponderado, titubeante, perplejo, atrevido, variable, movedizo, aplomado, enérgico, impreciso, incierto, valiente, vacilante, dubitativo, imperturbable","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+
+1. variante - A, B
+2. indeciso - A
+3. irresoluto - A
+4. emprendedor - A
+5. inconstante - A
+6. tranquilo - B
+7. sereno - B
+8. resuelto - B
+9. confiado - B
+10. inestable - A
+11. decidido - B
+12. grave - B
+13. lanzado - B
+14. indeterminado - A
+15. prudente - B
+16. inseguro - A
+17. audaz - B
+18. reflexivo - B
+19. confuso - A
+20. vago - A
+21. circunspecto - B
+22. cambiante - A
+23. mudable - A
+24. borroso - A
+25. seguro - B
+26. mesurado - B
+27. ponderado - B
+28. titubeante - A
+29. perplejo - A
+30. atrevido - B
+31. variable - A
+32. movedizo - A
+33.",03/05/26
+13,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: impreciso, emprendedor, mudable, circunspecto, lanzado, audaz, aplomado, prudente, irresoluto, atrevido, dubitativo, vacilante, reflexivo, titubeante, inconstante, valiente, ponderado, incierto, resuelto, borroso, vago, indeciso, inseguro, decidido, confiado, imperturbable, seguro, mesurado, movedizo, cambiante, variable, confuso, perplejo, sereno, enérgico, indeterminado, variante, tranquilo, grave, inestable","Aquí te dejo la lista con el escritor asociado a cada adjetivo:
+
+1. impreciso - A, B
+2. emprendedor - B
+3. mudable - B
+4. circunspecto - A
+5. lanzado - B
+6. audaz - B
+7. aplomado - A
+8. prudente - A
+9. irresoluto - B
+10. atrevido - B
+11. dubitativo - A
+12. vacilante - B
+13. reflexivo - A
+14. titubeante - B
+15. inconstante - B
+16. valiente - A
+17. ponderado - A
+18. incierto - B
+19. resuelto - A
+20. borroso - B
+21. vago - B
+22. indeciso - B
+23. inseguro - B
+24. decidido - A
+25. confiado - A
+26. imperturbable - A
+27. seguro - A
+28. mesurado - A
+29. movedizo - B
+30. cambiante - B
+31. variable - B
+32",03/05/26
+14,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: aplomado, vacilante, circunspecto, lanzado, imperturbable, seguro, borroso, decidido, inseguro, confiado, confuso, mudable, irresoluto, cambiante, incierto, atrevido, titubeante, audaz, indeterminado, mesurado, dubitativo, tranquilo, impreciso, enérgico, valiente, sereno, variable, indeciso, inestable, reflexivo, emprendedor, variante, movedizo, inconstante, ponderado, resuelto, grave, prudente, vago, perplejo","Aquí tienes la lista con los escritores A y B:
+
+1. Aplomado - A, B
+2. Vacilante - A, B
+3. Circunspecto - B, A
+4. Lanzado - A, B
+5. Imperturbable - B, A
+6. Seguro - A, B
+7. Borroso - B, A
+8. Decidido - A, B
+9. Inseguro - A, B
+10. Confiado - A, B
+11. Confuso - A, B
+12. Mudable - B, A
+13. Irresoluto - A, B
+14. Cambiante - B, A
+15. Incierto - A, B
+16. Atrevido - A, B
+17. Titubeante - A, B
+18. Audaz - B, A
+19. Indeterminado - B, A
+20. Mesurado - B, A
+21. Dubitativo - A, B
+22. Tranquilo - A, B
+23. Impreciso - B, A
+24. Enérgico - A, B
+25. Val",03/05/26
+15,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: imperturbable, lanzado, aplomado, borroso, emprendedor, reflexivo, confiado, indeciso, cambiante, mesurado, atrevido, variante, inseguro, ponderado, mudable, enérgico, inconstante, prudente, movedizo, grave, dubitativo, sereno, titubeante, variable, vago, resuelto, valiente, irresoluto, perplejo, incierto, indeterminado, seguro, impreciso, confuso, inestable, vacilante, audaz, circunspecto, decidido, tranquilo","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+
+1. Imperturbable - A, B
+2. Lanzado - B
+3. Aplomado - A
+4. Borroso - B
+5. Emprendedor - B
+6. Reflexivo - A
+7. Confiado - B
+8. Indeciso - A
+9. Cambiante - B
+10. Mesurado - A
+11. Atrevido - B
+12. Variante - B
+13. Inseguro - A
+14. Ponderado - A
+15. Mudable - B
+16. Enérgico - A
+17. Inconstante - B
+18. Prudente - A
+19. Movedizo - B
+20. Grave - A
+21. Dubitativo - A
+22. Sereno - A
+23. Titubeante - A
+24. Variable - B
+25. Vago - B
+26. Resuelto - A
+27. Valiente - B
+28. Irresoluto - A
+29. Perplejo - A
+30. Incierto - B
+31.",03/05/26
+16,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: indeciso, mudable, vago, valiente, confiado, circunspecto, aplomado, inseguro, perplejo, emprendedor, dubitativo, audaz, decidido, cambiante, confuso, titubeante, inestable, irresoluto, tranquilo, borroso, mesurado, sereno, lanzado, imperturbable, ponderado, variable, incierto, seguro, inconstante, movedizo, atrevido, indeterminado, resuelto, prudente, vacilante, reflexivo, variante, impreciso, enérgico, grave","1. indeciso - A, B
+2. mudable - A, B
+3. vago - A, B
+4. valiente - B, A
+5. confiado - A, B
+6. circunspecto - B, A
+7. aplomado - B, A
+8. inseguro - A, B
+9. perplejo - A, B
+10. emprendedor - A, B
+11. dubitativo - A, B
+12. audaz - B, A
+13. decidido - A, B
+14. cambiante - A, B
+15. confuso - A, B
+16. titubeante - A, B
+17. inestable - A, B
+18. irresoluto - A, B
+19. tranquilo - B, A
+20. borroso - A, B
+21. mesurado - B, A
+22. sereno - B, A
+23. lanzado - A, B
+24. imperturbable - B, A
+25. ponderado - B, A
+26. variable - A, B
+27. incierto - A,",03/05/26
+17,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sereno, lanzado, dubitativo, mudable, titubeante, indeterminado, irresoluto, prudente, variable, perplejo, inconstante, aplomado, inestable, seguro, mesurado, circunspecto, resuelto, cambiante, impreciso, indeciso, reflexivo, audaz, grave, decidido, emprendedor, tranquilo, imperturbable, atrevido, confiado, variante, borroso, enérgico, confuso, valiente, inseguro, vacilante, vago, ponderado, incierto, movedizo","Aquí te presento la lista con los escritores correspondientes:
+
+1. Sereno - A, B
+2. Lanzado - B
+3. Dubitativo - A, B
+4. Mudable - B
+5. Titubeante - A
+6. Indeterminado - B
+7. Irresoluto - A, B
+8. Prudente - A, B
+9. Variable - B
+10. Perplejo - A
+11. Inconstante - B
+12. Aplomado - B
+13. Inestable - B
+14. Seguro - A
+15. Mesurado - A, B
+16. Circunspecto - A, B
+17. Resuelto - B
+18. Cambiante - B
+19. Impreciso - A
+20. Indeciso - A, B
+21. Reflexivo - A
+22. Audaz - B
+23. Grave - A
+24. Decidido - B
+25. Emprendedor - B
+26. Tranquilo - A, B
+27. Imperturbable - B
+28. Atrevido - B
+29. Confiado - B",03/05/26
+18,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: aplomado, sereno, variable, confiado, audaz, cambiante, enérgico, impreciso, indeterminado, ponderado, grave, mudable, inestable, movedizo, reflexivo, titubeante, variante, valiente, tranquilo, emprendedor, confuso, inseguro, vago, perplejo, imperturbable, prudente, indeciso, vacilante, mesurado, inconstante, atrevido, seguro, borroso, decidido, resuelto, dubitativo, incierto, irresoluto, circunspecto, lanzado","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. aplomado - A, B
+2. sereno - A, B
+3. variable - A, B
+4. confiado - A, B
+5. audaz - A, B
+6. cambiante - A, B
+7. enérgico - A, B
+8. impreciso - A, B
+9. indeterminado - A, B
+10. ponderado - A, B
+11. grave - A, B
+12. mudable - A, B
+13. inestable - A, B
+14. movedizo - A, B
+15. reflexivo - A, B
+16. titubeante - A, B
+17. variante - A, B
+18. valiente - A, B
+19. tranquilo - A, B
+20. emprendedor - A, B
+21. confuso - A, B
+22. inseguro - A, B
+23. vago - A, B
+24. perplejo - A, B
+25. imperturbable - A, B
+26. prudent",03/05/26
+19,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: resuelto, incierto, irresoluto, dubitativo, vacilante, cambiante, decidido, vago, sereno, indeciso, tranquilo, variable, inseguro, confiado, titubeante, enérgico, ponderado, seguro, indeterminado, mudable, atrevido, valiente, reflexivo, confuso, variante, audaz, aplomado, impreciso, borroso, movedizo, inestable, grave, mesurado, prudente, perplejo, inconstante, lanzado, circunspecto, emprendedor, imperturbable","Aquí te dejo la lista con los escritores A y B:
+
+1. resuelto - A, B
+2. incierto - A, B
+3. irresoluto - A, B
+4. dubitativo - A, B
+5. vacilante - A, B
+6. cambiante - A, B
+7. decidido - A, B
+8. vago - A, B
+9. sereno - A, B
+10. indeciso - A, B
+11. tranquilo - A, B
+12. variable - A, B
+13. inseguro - A, B
+14. confiado - A, B
+15. titubeante - A, B
+16. enérgico - A, B
+17. ponderado - A, B
+18. seguro - A, B
+19. indeterminado - A, B
+20. mudable - A, B
+21. atrevido - A, B
+22. valiente - A, B
+23. reflexivo - A, B
+24. confuso - A, B
+25. variante - A, B
+26. audaz - A",03/05/26
+20,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: resuelto, seguro, variable, circunspecto, mudable, enérgico, impreciso, decidido, emprendedor, aplomado, cambiante, sereno, mesurado, prudente, audaz, confiado, vago, borroso, indeterminado, tranquilo, valiente, inestable, dubitativo, inconstante, perplejo, confuso, reflexivo, atrevido, incierto, lanzado, grave, irresoluto, variante, titubeante, vacilante, movedizo, inseguro, imperturbable, ponderado, indeciso","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+
+1. resuelto - A, B
+2. seguro - A, B
+3. variable - B, A
+4. circunspecto - B, A
+5. mudable - A, B
+6. enérgico - A, B
+7. impreciso - B, A
+8. decidido - A, B
+9. emprendedor - A, B
+10. aplomado - B, A
+11. cambiante - A, B
+12. sereno - B, A
+13. mesurado - B, A
+14. prudente - B, A
+15. audaz - A, B
+16. confiado - A, B
+17. vago - B, A
+18. borroso - B, A
+19. indeterminado - A, B
+20. tranquilo - B, A
+21. valiente - A, B
+22. inestable - A, B
+23. dubitativo - B, A
+24. inconstante - A, B
+25. perplejo - B, A",03/05/26
+21,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: audaz, titubeante, prudente, reflexivo, dubitativo, resuelto, decidido, seguro, mesurado, ponderado, imperturbable, indeterminado, sereno, variante, indeciso, mudable, confiado, perplejo, incierto, aplomado, valiente, inestable, grave, borroso, enérgico, inseguro, movedizo, emprendedor, impreciso, vacilante, confuso, circunspecto, lanzado, variable, atrevido, inconstante, tranquilo, irresoluto, cambiante, vago","Aquí tienes la lista con el escritor A y B para cada adjetivo:
+
+1. audaz - A, B
+2. titubeante - B, A
+3. prudente - A, B
+4. reflexivo - B, A
+5. dubitativo - B, A
+6. resuelto - A, B
+7. decidido - A, B
+8. seguro - A, B
+9. mesurado - A, B
+10. ponderado - A, B
+11. imperturbable - A, B
+12. indeterminado - B, A
+13. sereno - A, B
+14. variante - B, A
+15. indeciso - B, A
+16. mudable - B, A
+17. confiado - A, B
+18. perplejo - B, A
+19. incierto - B, A
+20. aplomado - A, B
+21. valiente - A, B
+22. inestable - B, A
+23. grave - A, B
+24. borroso - B, A
+25. enérgico - A, B
+",03/05/26
+22,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: tranquilo, reflexivo, confiado, inseguro, circunspecto, valiente, atrevido, ponderado, mudable, indeciso, resuelto, incierto, variante, dubitativo, vago, inestable, movedizo, decidido, variable, impreciso, titubeante, prudente, lanzado, emprendedor, cambiante, irresoluto, vacilante, enérgico, sereno, inconstante, perplejo, confuso, imperturbable, borroso, seguro, audaz, grave, aplomado, indeterminado, mesurado","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
+
+1. tranquilo - A, B
+2. reflexivo - A, B
+3. confiado - A, B
+4. inseguro - A, B
+5. circunspecto - B
+6. valiente - A, B
+7. atrevido - A, B
+8. ponderado - B
+9. mudable - A
+10. indeciso - A, B
+11. resuelto - A, B
+12. incierto - A, B
+13. variante - B
+14. dubitativo - A
+15. vago - A
+16. inestable - A
+17. movedizo - A
+18. decidido - A, B
+19. variable - A, B
+20. impreciso - A, B
+21. titubeante - A, B
+22. prudente - B
+23. lanzado - A
+24. emprendedor - A
+25. cambiante - A
+26. irresoluto - A, B
+27. vacilante - A, B
+28. enérg",03/05/26
+23,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: movedizo, indeciso, aplomado, impreciso, resuelto, emprendedor, indeterminado, prudente, valiente, decidido, tranquilo, reflexivo, cambiante, mudable, ponderado, inseguro, inconstante, perplejo, variante, dubitativo, confuso, incierto, variable, atrevido, titubeante, seguro, circunspecto, enérgico, grave, confiado, irresoluto, audaz, vacilante, lanzado, sereno, vago, mesurado, inestable, borroso, imperturbable","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+
+1. movedizo - A, B
+2. indeciso - A, B
+3. aplomado - A
+4. impreciso - B
+5. resuelto - A
+6. emprendedor - B
+7. indeterminado - B
+8. prudente - A
+9. valiente - A
+10. decidido - A
+11. tranquilo - A
+12. reflexivo - A
+13. cambiante - B
+14. mudable - B
+15. ponderado - A
+16. inseguro - B
+17. inconstante - B
+18. perplejo - A
+19. variante - B
+20. dubitativo - A
+21. confuso - B
+22. incierto - B
+23. variable - B
+24. atrevido - A
+25. titubeante - A
+26. seguro - A
+27. circunspecto - A
+28. enérgico - A
+29. grave - B
+30. confiado - A
+31. irresoluto - B
+32. audaz",03/05/26
+24,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: titubeante, imperturbable, circunspecto, inestable, emprendedor, audaz, decidido, valiente, inconstante, ponderado, resuelto, movedizo, confuso, borroso, enérgico, mesurado, variante, vago, confiado, mudable, cambiante, aplomado, indeciso, variable, irresoluto, atrevido, incierto, tranquilo, inseguro, vacilante, seguro, indeterminado, sereno, grave, dubitativo, lanzado, reflexivo, perplejo, impreciso, prudente","Aquí te presento la lista con el escritor asociado a cada adjetivo:
+
+1. Titubeante - A, B
+2. Imperturbable - B
+3. Circunspecto - B
+4. Inestable - A, B
+5. Emprendedor - A
+6. Audaz - A
+7. Decidido - B
+8. Valiente - A
+9. Inconstante - A, B
+10. Ponderado - B
+11. Resuelto - B
+12. Movedizo - A
+13. Confuso - A
+14. Borroso - A
+15. Energico - B
+16. Mesurado - B
+17. Variante - B
+18. Vago - A
+19. Confiado - A
+20. Mudable - A
+21. Cambiante - A, B
+22. Aplomado - B
+23. Indeciso - A
+24. Variable - A, B
+25. Irresoluto - A
+26. Atrevido - A
+27. Incierto - A
+28. Tranquilo - B
+29. Inseguro - A",03/05/26
+25,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sereno, grave, dubitativo, mesurado, ponderado, emprendedor, inconstante, variable, audaz, circunspecto, variante, vago, resuelto, lanzado, titubeante, perplejo, confiado, inseguro, movedizo, prudente, confuso, tranquilo, atrevido, reflexivo, seguro, aplomado, incierto, impreciso, borroso, decidido, enérgico, indeterminado, indeciso, imperturbable, irresoluto, mudable, cambiante, vacilante, inestable, valiente","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Sereno - A, B
+2. Grave - A
+3. Dubitativo - B
+4. Mesurado - A
+5. Ponderado - A
+6. Emprendedor - B
+7. Inconstante - B
+8. Variable - B
+9. Audaz - B
+10. Circunspecto - A
+11. Variante - B
+12. Vago - B
+13. Resuelto - A
+14. Lanzado - B
+15. Titubeante - B
+16. Perplejo - B
+17. Confiado - B
+18. Inseguro - B
+19. Movedizo - B
+20. Prudente - A
+21. Confuso - B
+22. Tranquilo - A
+23. Atrevido - B
+24. Reflexivo - A
+25. Seguro - A
+26. Aplomado - A
+27. Incierto - B
+28. Impreciso - B
+29. Borroso - B
+30. Decidido - A
+31. Enérgico",03/05/26
+26,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: lanzado, confiado, variable, dubitativo, vacilante, titubeante, tranquilo, irresoluto, inseguro, variante, ponderado, resuelto, vago, imperturbable, sereno, audaz, indeterminado, grave, mesurado, atrevido, decidido, seguro, inestable, reflexivo, borroso, enérgico, valiente, indeciso, aplomado, inconstante, emprendedor, impreciso, mudable, incierto, circunspecto, cambiante, perplejo, movedizo, confuso, prudente","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+
+1. lanzado - A, B
+2. confiado - A, B
+3. variable - A, B
+4. dubitativo - A, B
+5. vacilante - A, B
+6. titubeante - A, B
+7. tranquilo - A, B
+8. irresoluto - A, B
+9. inseguro - A, B
+10. variante - A, B
+11. ponderado - A, B
+12. resuelto - A, B
+13. vago - A, B
+14. imperturbable - A, B
+15. sereno - A, B
+16. audaz - B, A
+17. indeterminado - A, B
+18. grave - A, B
+19. mesurado - A, B
+20. atrevido - B, A
+21. decidido - B, A
+22. seguro - B, A
+23. inestable - A, B
+24. reflexivo - A, B
+25. borroso - A, B
+26. enérg",03/05/26
+27,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: mudable, emprendedor, movedizo, imperturbable, lanzado, resuelto, variable, prudente, indeterminado, inconstante, inseguro, variante, vago, impreciso, confiado, aplomado, audaz, perplejo, decidido, dubitativo, titubeante, cambiante, borroso, confuso, tranquilo, reflexivo, irresoluto, atrevido, sereno, grave, circunspecto, inestable, valiente, enérgico, vacilante, indeciso, seguro, mesurado, ponderado, incierto","Aquí te presento la lista con el escritor correspondiente a cada adjetivo:
+
+1. mudable - A, B
+2. emprendedor - A, B
+3. movedizo - A, B
+4. imperturbable - A, B
+5. lanzado - A, B
+6. resuelto - A, B
+7. variable - A, B
+8. prudente - A, B
+9. indeterminado - A, B
+10. inconstante - A, B
+11. inseguro - A, B
+12. variante - A, B
+13. vago - A, B
+14. impreciso - A, B
+15. confiado - A, B
+16. aplomado - A, B
+17. audaz - A, B
+18. perplejo - A, B
+19. decidido - A, B
+20. dubitativo - A, B
+21. titubeante - A, B
+22. cambiante - A, B
+23. borroso - A, B
+24. confuso - A, B
+25. tranquilo - A, B
+",03/05/26
+28,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: mesurado, atrevido, valiente, vacilante, inestable, enérgico, indeciso, confiado, borroso, impreciso, variable, prudente, reflexivo, incierto, mudable, circunspecto, seguro, movedizo, dubitativo, emprendedor, ponderado, audaz, indeterminado, inseguro, decidido, irresoluto, tranquilo, titubeante, grave, lanzado, resuelto, aplomado, sereno, perplejo, variante, confuso, imperturbable, cambiante, inconstante, vago","Aquí te presento la lista de adjetivos con el escritor correspondiente:
+
+1. Mesurado - A, B
+2. Atrevido - A, B
+3. Valiente - A, B
+4. Vacilante - A, B
+5. Inestable - A, B
+6. Enérgico - A, B
+7. Indeciso - A, B
+8. Confiado - A, B
+9. Borroso - A, B
+10. Impreciso - A, B
+11. Variable - A, B
+12. Prudente - A, B
+13. Reflexivo - A, B
+14. Incierto - A, B
+15. Mudable - A, B
+16. Circunspecto - A, B
+17. Seguro - A, B
+18. Movedizo - A, B
+19. Dubitativo - A, B
+20. Emprendedor - A, B
+21. Ponderado - A, B
+22. Audaz - A, B
+23. Indeterminado - A, B
+24. Inseguro - A, B
+25. Decidido",03/05/26
+29,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: inconstante, inestable, movedizo, titubeante, impreciso, variante, mesurado, sereno, lanzado, circunspecto, atrevido, ponderado, cambiante, emprendedor, indeterminado, seguro, confuso, prudente, vacilante, tranquilo, decidido, vago, aplomado, mudable, reflexivo, incierto, imperturbable, inseguro, resuelto, audaz, variable, confiado, irresoluto, borroso, perplejo, valiente, grave, dubitativo, enérgico, indeciso","Aquí tienes la lista con los escritores:
+
+1. inconstante - A, B
+2. inestable - A, B
+3. movedizo - B
+4. titubeante - A
+5. impreciso - B
+6. variante - B
+7. mesurado - A
+8. sereno - A
+9. lanzado - B
+10. circunspecto - A
+11. atrevido - B
+12. ponderado - A
+13. cambiante - B
+14. emprendedor - B
+15. indeterminado - B
+16. seguro - A
+17. confuso - A
+18. prudente - A
+19. vacilante - A
+20. tranquilo - A
+21. decidido - A
+22. vago - B
+23. aplomado - A
+24. mudable - B
+25. reflexivo - A
+26. incierto - A
+27. imperturbable - A
+28. inseguro - B
+29. resuelto - A
+30. audaz - B
+31. variable - B
+32. confiado - A
+33. irres",03/05/26
+30,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: enérgico, emprendedor, inestable, inconstante, mesurado, mudable, valiente, decidido, circunspecto, imperturbable, aplomado, variante, ponderado, movedizo, sereno, incierto, confiado, irresoluto, variable, vacilante, grave, resuelto, impreciso, lanzado, indeciso, seguro, inseguro, atrevido, borroso, vago, perplejo, dubitativo, indeterminado, audaz, reflexivo, tranquilo, cambiante, confuso, titubeante, prudente","Aquí te dejo la lista con el escritor correspondiente a cada adjetivo:
+
+1. Enérgico - A, B
+2. Emprendedor - A, B
+3. Inestable - A, B
+4. Inconstante - A, B
+5. Mesurado - B, A
+6. Mudable - A, B
+7. Valiente - A, B
+8. Decidido - A, B
+9. Circunspecto - B, A
+10. Imperturbable - B, A
+11. Aplomado - B, A
+12. Variante - B, A
+13. Ponderado - B, A
+14. Movedizo - A, B
+15. Sereno - B, A
+16. Incierto - B, A
+17. Confiado - A, B
+18. Irresoluto - B, A
+19. Variable - A, B
+20. Vacilante - A, B
+21. Grave - B, A
+22. Resuelto - A, B
+23. Impreciso - B, A
+24. Lanzado - A, B
+25",03/05/26
+31,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: mudable, incierto, inestable, titubeante, resuelto, perplejo, grave, ponderado, variable, dubitativo, variante, irresoluto, atrevido, vacilante, confuso, enérgico, imperturbable, cambiante, aplomado, prudente, movedizo, circunspecto, confiado, valiente, decidido, inseguro, reflexivo, sereno, tranquilo, inconstante, indeterminado, seguro, audaz, indeciso, emprendedor, mesurado, vago, borroso, impreciso, lanzado","Aquí te dejo la lista con los escritores asignados a cada adjetivo:
+
+1. Mudable - A, B
+2. Incierto - A, B
+3. Inestable - A, B
+4. Titubeante - A, B
+5. Resuelto - B, A
+6. Perplejo - A, B
+7. Grave - A, B
+8. Ponderado - A, B
+9. Variable - A, B
+10. Dubitativo - B, A
+11. Variante - B, A
+12. Irresoluto - A, B
+13. Atrevido - B, A
+14. Vacilante - A, B
+15. Confuso - A, B
+16. Enérgico - B, A
+17. Imperturbable - A, B
+18. Cambiante - A, B
+19. Aplomado - B, A
+20. Prudente - A, B
+21. Movedizo - B, A
+22. Circunspecto - A, B
+23. Confiado - B, A
+24. Valiente - B, A
+25",03/05/26
+32,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: variante, reflexivo, perplejo, indeterminado, titubeante, dubitativo, emprendedor, imperturbable, inconstante, ponderado, inestable, seguro, decidido, inseguro, audaz, vago, indeciso, cambiante, tranquilo, resuelto, variable, grave, incierto, circunspecto, confiado, prudente, confuso, enérgico, aplomado, borroso, mudable, vacilante, sereno, irresoluto, lanzado, valiente, atrevido, impreciso, mesurado, movedizo","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. variante - A, B
+2. reflexivo - B
+3. perplejo - B
+4. indeterminado - A
+5. titubeante - B
+6. dubitativo - B
+7. emprendedor - A
+8. imperturbable - B
+9. inconstante - A
+10. ponderado - B
+11. inestable - A
+12. seguro - B
+13. decidido - B
+14. inseguro - A
+15. audaz - A
+16. vago - B
+17. indeciso - B
+18. cambiante - A
+19. tranquilo - B
+20. resuelto - B
+21. variable - A
+22. grave - B
+23. incierto - B
+24. circunspecto - B
+25. confiado - B
+26. prudente - B
+27. confuso - B
+28. enérgico - A
+29. aplomado - B
+30. borroso - B
+31. mudable - A
+32. vac",03/05/26
+33,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: aplomado, confuso, resuelto, mudable, inestable, tranquilo, audaz, cambiante, irresoluto, circunspecto, prudente, vacilante, atrevido, inseguro, variable, impreciso, imperturbable, mesurado, grave, titubeante, vago, indeterminado, lanzado, ponderado, enérgico, inconstante, valiente, borroso, decidido, perplejo, indeciso, sereno, variante, dubitativo, movedizo, confiado, incierto, reflexivo, seguro, emprendedor","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
+
+1. Aplomado - A
+2. Confuso - B
+3. Resuelto - A
+4. Mudable - B
+5. Inestable - B
+6. Tranquilo - A
+7. Audaz - B
+8. Cambiante - B
+9. Irresoluto - A
+10. Circunspecto - A
+11. Prudente - A
+12. Vacilante - B
+13. Atrevido - B
+14. Inseguro - B
+15. Variable - B
+16. Impreciso - B
+17. Imperturbable - A
+18. Mesurado - A
+19. Grave - A
+20. Titubeante - B
+21. Vago - B
+22. Indeterminado - B
+23. Lanzado - B
+24. Ponderado - A
+25. Enérgico - A
+26. Inconstante - B
+27. Valiente - A
+28. Borroso - B
+29. Decidido - A
+30. Perplejo - B
+31.",03/05/26
+34,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: variante, variable, tranquilo, sereno, circunspecto, mesurado, mudable, imperturbable, indeterminado, dubitativo, incierto, emprendedor, lanzado, movedizo, perplejo, vacilante, inestable, confuso, aplomado, enérgico, indeciso, audaz, seguro, inconstante, inseguro, resuelto, vago, titubeante, impreciso, prudente, borroso, irresoluto, valiente, reflexivo, grave, decidido, ponderado, cambiante, confiado, atrevido","Aquí tienes la lista con el escritor correspondiente para cada adjetivo:
+
+1. variante - A, B
+2. variable - A, B
+3. tranquilo - A, B
+4. sereno - A, B
+5. circunspecto - A, B
+6. mesurado - A, B
+7. mudable - A, B
+8. imperturbable - A, B
+9. indeterminado - A, B
+10. dubitativo - B
+11. incierto - B
+12. emprendedor - A
+13. lanzado - B
+14. movedizo - A
+15. perplejo - B
+16. vacilante - A, B
+17. inestable - A, B
+18. confuso - B
+19. aplomado - B
+20. enérgico - B
+21. indeciso - A, B
+22. audaz - B
+23. seguro - B
+24. inconstante - A, B
+25. inseguro - A
+26. resuelto - B
+27. vago - A
+28. titubeante - B",03/05/26
+35,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: incierto, mesurado, seguro, indeterminado, lanzado, valiente, impreciso, enérgico, titubeante, prudente, vacilante, confuso, circunspecto, variable, cambiante, borroso, inconstante, resuelto, tranquilo, dubitativo, inseguro, reflexivo, sereno, ponderado, audaz, decidido, perplejo, irresoluto, vago, imperturbable, variante, grave, movedizo, atrevido, inestable, emprendedor, indeciso, aplomado, confiado, mudable","Aquí te dejo la lista con el escritor asociado a cada adjetivo:
+
+1. incierto - A, B
+2. mesurado - A
+3. seguro - B
+4. indeterminado - A, B
+5. lanzado - B
+6. valiente - A, B
+7. impreciso - A, B
+8. enérgico - A, B
+9. titubeante - A, B
+10. prudente - A, B
+11. vacilante - A, B
+12. confuso - A, B
+13. circunspecto - A
+14. variable - A, B
+15. cambiante - A, B
+16. borroso - A, B
+17. inconstante - A, B
+18. resuelto - A, B
+19. tranquilo - A, B
+20. dubitativo - A, B
+21. inseguro - A, B
+22. reflexivo - A, B
+23. sereno - A, B
+24. ponderado - A, B
+25. audaz - A, B
+26. decidido - A,",03/05/26
+36,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: imperturbable, indeterminado, vago, confuso, circunspecto, lanzado, perplejo, inestable, atrevido, mudable, reflexivo, vacilante, mesurado, resuelto, impreciso, incierto, aplomado, titubeante, seguro, cambiante, ponderado, emprendedor, indeciso, movedizo, variable, grave, tranquilo, sereno, prudente, audaz, enérgico, confiado, borroso, dubitativo, inconstante, valiente, irresoluto, decidido, inseguro, variante","Aquí tienes la lista con los escritores correspondientes:
+
+1. imperturbable - A, B
+2. indeterminado - A, B
+3. vago - A, B
+4. confuso - A, B
+5. circunspecto - B, A
+6. lanzado - A, B
+7. perplejo - A, B
+8. inestable - A, B
+9. atrevido - A, B
+10. mudable - A, B
+11. reflexivo - B, A
+12. vacilante - A, B
+13. mesurado - B, A
+14. resuelto - B, A
+15. impreciso - A, B
+16. incierto - A, B
+17. aplomado - B, A
+18. titubeante - A, B
+19. seguro - B, A
+20. cambiante - A, B
+21. ponderado - B, A
+22. emprendedor - A, B
+23. indeciso - A, B
+24. movedizo - A, B
+25. variable - A, B
+26. grave -",03/05/26
+37,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: mesurado, inseguro, sereno, perplejo, decidido, vago, inestable, inconstante, indeciso, cambiante, imperturbable, lanzado, borroso, variante, indeterminado, impreciso, prudente, movedizo, atrevido, enérgico, valiente, emprendedor, confiado, confuso, incierto, dubitativo, ponderado, aplomado, irresoluto, tranquilo, circunspecto, grave, resuelto, reflexivo, audaz, seguro, variable, titubeante, vacilante, mudable","Aquí te presento la lista de adjetivos con los escritores correspondientes:
+
+1. Mesurado - A, B
+2. Inseguro - A, B
+3. Sereno - A, B
+4. Perplejo - A, B
+5. Decidido - A, B
+6. Vago - B
+7. Inestable - A, B
+8. Inconstante - A, B
+9. Indeciso - A, B
+10. Cambiante - A, B
+11. Imperturbable - A, B
+12. Lanzado - B
+13. Borroso - B
+14. Variante - B
+15. Indeterminado - A, B
+16. Impreciso - A, B
+17. Prudente - A, B
+18. Movedizo - B
+19. Atrevido - B
+20. Enérgico - B
+21. Valiente - B
+22. Emprendedor - B
+23. Confiado - B
+24. Confuso - A, B
+25. Incierto - A, B
+26. Dubitativo - A, B
+27. P",03/05/26
+38,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: emprendedor, lanzado, indeterminado, atrevido, mudable, valiente, inseguro, inestable, cambiante, resuelto, mesurado, variable, vacilante, ponderado, confiado, variante, reflexivo, titubeante, circunspecto, dubitativo, grave, audaz, impreciso, vago, borroso, sereno, perplejo, confuso, enérgico, seguro, imperturbable, movedizo, aplomado, indeciso, inconstante, irresoluto, decidido, incierto, tranquilo, prudente","Aquí tienes la lista con el escritor correspondiente a cada adjetivo:
+
+1. emprendedor - A, B
+2. lanzado - B
+3. indeterminado - B
+4. atrevido - A
+5. mudable - A
+6. valiente - A
+7. inseguro - B
+8. inestable - A
+9. cambiante - A
+10. resuelto - A
+11. mesurado - B
+12. variable - A
+13. vacilante - A
+14. ponderado - B
+15. confiado - A
+16. variante - B
+17. reflexivo - B
+18. titubeante - A
+19. circunspecto - B
+20. dubitativo - B
+21. grave - B
+22. audaz - A
+23. impreciso - B
+24. vago - B
+25. borroso - B
+26. sereno - B
+27. perplejo - A
+28. confuso - B
+29. enérgico - A
+30. seguro - A
+31. imperturbable - B
+32. movedizo",03/05/26
+39,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: movedizo, vago, inseguro, mesurado, inconstante, resuelto, indeterminado, sereno, emprendedor, prudente, variante, aplomado, cambiante, titubeante, incierto, dubitativo, grave, vacilante, confiado, tranquilo, decidido, mudable, enérgico, indeciso, irresoluto, seguro, ponderado, imperturbable, inestable, reflexivo, variable, valiente, atrevido, confuso, circunspecto, perplejo, lanzado, impreciso, borroso, audaz","Movedizo - A, B
+Vago - B
+Inseguro - A
+Mesurado - A
+Inconstante - B
+Resuelto - A
+Indeterminado - B
+Sereno - A
+Emprendedor - B
+Pruudente - A
+Variante - B
+Aplomado - A
+Cambiante - B
+Titubeante - A
+Incierto - B
+Dubitativo - A
+Grave - B
+Vacilante - A
+Confiado - B
+Tranquilo - A
+Decidido - B
+Mudable - B
+Enérgico - A
+Indeciso - B
+Irresoluto - A
+Seguro - B
+Ponderado - A
+Imperturbable - B
+Inestable - B
+Reflexivo - A
+Variable - B
+Valiente - A
+Atrevido - B
+Confuso - A
+Circunspecto - A
+Perplejo - B
+Lanzado - B
+Impreciso - B
+Borroso - B
+Audaz - B",03/05/26
+40,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: valiente, inconstante, mudable, variante, grave, lanzado, irresoluto, perplejo, dubitativo, cambiante, circunspecto, confuso, audaz, reflexivo, prudente, emprendedor, confiado, sereno, decidido, titubeante, seguro, inseguro, impreciso, mesurado, ponderado, tranquilo, indeterminado, movedizo, inestable, atrevido, vago, indeciso, enérgico, borroso, vacilante, variable, incierto, aplomado, resuelto, imperturbable","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Valiente - A, B
+2. Inconstante - A, B
+3. Mudable - A, B
+4. Variante - A, B
+5. Grave - A, B
+6. Lanzado - A, B
+7. Irresoluto - A, B
+8. Perplejo - A, B
+9. Dubitativo - A, B
+10. Cambiante - A, B
+11. Circunspecto - B, A
+12. Confuso - A, B
+13. Audaz - A, B
+14. Reflexivo - B, A
+15. Prudente - B, A
+16. Emprendedor - A, B
+17. Confiado - A, B
+18. Sereno - B, A
+19. Decidido - A, B
+20. Titubeante - A, B
+21. Seguro - A, B
+22. Inseguro - A, B
+23. Impreciso - B, A
+24. Mesurado - B, A
+25. Ponderado -",03/05/26
+41,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: borroso, inseguro, tranquilo, circunspecto, grave, confuso, prudente, vago, variante, cambiante, imperturbable, indeciso, mudable, inestable, variable, perplejo, mesurado, seguro, indeterminado, titubeante, ponderado, sereno, decidido, emprendedor, audaz, aplomado, inconstante, enérgico, valiente, incierto, atrevido, lanzado, dubitativo, impreciso, irresoluto, confiado, vacilante, movedizo, reflexivo, resuelto","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Borroso - A, B
+2. Inseguro - A, B
+3. Tranquilo - B, A
+4. Circunspecto - A, B
+5. Grave - A, B
+6. Confuso - B, A
+7. Prudente - A, B
+8. Vago - B, A
+9. Variante - B, A
+10. Cambiante - B, A
+11. Imperturbable - A, B
+12. Indeciso - A, B
+13. Mudable - B, A
+14. Inestable - B, A
+15. Variable - B, A
+16. Perplejo - A, B
+17. Mesurado - A, B
+18. Seguro - B, A
+19. Indeterminado - A, B
+20. Titubeante - A, B
+21. Ponderado - A, B
+22. Sereno - B, A
+23. Decidido - A, B
+24. Emprendedor - B, A
+25. Audaz - B",03/05/26
+42,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: dubitativo, audaz, grave, atrevido, enérgico, indeciso, titubeante, sereno, incierto, resuelto, perplejo, impreciso, vago, indeterminado, cambiante, emprendedor, borroso, seguro, aplomado, imperturbable, inseguro, confuso, prudente, variante, mesurado, ponderado, vacilante, movedizo, confiado, inconstante, tranquilo, valiente, inestable, circunspecto, mudable, lanzado, irresoluto, reflexivo, variable, decidido","Aquí tienes la lista de adjetivos con los escritores correspondientes:
+
+1. dubitativo - A, B
+2. audaz - A, B
+3. grave - A, B
+4. atrevido - A, B
+5. enérgico - B
+6. indeciso - A
+7. titubeante - A
+8. sereno - B
+9. incierto - A, B
+10. resuelto - B
+11. perplejo - A
+12. impreciso - A, B
+13. vago - A, B
+14. indeterminado - A, B
+15. cambiante - A, B
+16. emprendedor - B
+17. borroso - A, B
+18. seguro - B
+19. aplomado - B
+20. imperturbable - B
+21. inseguro - A
+22. confuso - A
+23. prudente - B
+24. variante - A, B
+25. mesurado - B
+26. ponderado - B
+27. vacilante - A
+28. movedizo - A
+29. confiado -",03/05/26
+43,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: vago, atrevido, decidido, indeciso, confuso, perplejo, movedizo, mesurado, incierto, mudable, cambiante, emprendedor, inestable, borroso, aplomado, grave, lanzado, dubitativo, inconstante, enérgico, audaz, imperturbable, reflexivo, seguro, impreciso, irresoluto, titubeante, inseguro, variable, variante, prudente, tranquilo, ponderado, sereno, circunspecto, confiado, valiente, indeterminado, vacilante, resuelto","Aquí te presento la lista con los escritores asociados a cada adjetivo:
+
+1. vago - A, B
+2. atrevido - B
+3. decidido - A
+4. indeciso - A, B
+5. confuso - B
+6. perplejo - B
+7. movedizo - A
+8. mesurado - A
+9. incierto - B
+10. mudable - B
+11. cambiante - B
+12. emprendedor - B
+13. inestable - B
+14. borroso - A
+15. aplomado - A
+16. grave - A
+17. lanzado - A
+18. dubitativo - A
+19. inconstante - B
+20. enérgico - A
+21. audaz - B
+22. imperturbable - A
+23. reflexivo - A
+24. seguro - A
+25. impreciso - B
+26. irresoluto - A
+27. titubeante - A
+28. inseguro - A
+29. variable - B
+30. variante - B
+31. prudente - A
+",03/05/26
+44,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: reflexivo, ponderado, circunspecto, atrevido, enérgico, lanzado, tranquilo, irresoluto, seguro, vacilante, movedizo, cambiante, variante, borroso, inconstante, audaz, variable, decidido, valiente, aplomado, prudente, perplejo, mudable, incierto, vago, imperturbable, indeterminado, dubitativo, indeciso, titubeante, inseguro, inestable, confuso, sereno, emprendedor, grave, mesurado, resuelto, confiado, impreciso","Aquí te presento la lista de adjetivos con el escritor correspondiente:
+
+1. reflexivo - A, B
+2. ponderado - A, B
+3. circunspecto - A, B
+4. atrevido - A, B
+5. enérgico - A, B
+6. lanzado - A, B
+7. tranquilo - A, B
+8. irresoluto - A, B
+9. seguro - A, B
+10. vacilante - A, B
+11. movedizo - A, B
+12. cambiante - A, B
+13. variante - A, B
+14. borroso - A, B
+15. inconstante - A, B
+16. audaz - A, B
+17. variable - A, B
+18. decidido - A, B
+19. valiente - A, B
+20. aplomado - A, B
+21. prudente - A, B
+22. perplejo - A, B
+23. mudable - A, B
+24. incierto - A, B
+25. vago - A, B
+26. imp",03/05/26
+45,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: movedizo, inseguro, borroso, circunspecto, dubitativo, emprendedor, mudable, indeterminado, mesurado, confiado, titubeante, vago, inconstante, audaz, valiente, irresoluto, reflexivo, ponderado, aplomado, confuso, impreciso, incierto, resuelto, seguro, tranquilo, atrevido, variable, cambiante, perplejo, prudente, decidido, grave, indeciso, sereno, variante, imperturbable, inestable, enérgico, lanzado, vacilante","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
+
+1. Movedizo - A, B
+2. Inseguro - A, B
+3. Borroso - B, A
+4. Circunspecto - A, B
+5. Dubitativo - B, A
+6. Emprendedor - B, A
+7. Mudable - A, B
+8. Indeterminado - B, A
+9. Mesurado - A, B
+10. Confidente - B, A
+11. Titubeante - A, B
+12. Vago - B, A
+13. Inconstante - A, B
+14. Audaz - A, B
+15. Valiente - B, A
+16. Irresoluto - B, A
+17. Reflexivo - A, B
+18. Ponderado - A, B
+19. Aplomado - B, A
+20. Confuso - B, A
+21. Impreciso - B, A
+22. Incierto - A, B
+23. Resuelto - A, B
+24. Seguro - A, B
+25. Tranqu",03/05/26
+46,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: variante, inestable, variable, prudente, titubeante, vacilante, circunspecto, ponderado, borroso, sereno, confuso, movedizo, impreciso, decidido, lanzado, inconstante, resuelto, imperturbable, seguro, dubitativo, enérgico, mesurado, confiado, audaz, vago, reflexivo, indeterminado, inseguro, emprendedor, aplomado, irresoluto, grave, incierto, perplejo, atrevido, mudable, cambiante, valiente, indeciso, tranquilo","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. variante - A, B
+2. inestable - A, B
+3. variable - A, B
+4. prudente - A
+5. titubeante - B
+6. vacilante - A, B
+7. circunspecto - A, B
+8. ponderado - B
+9. borroso - A, B
+10. sereno - A, B
+11. confuso - A, B
+12. movedizo - A
+13. impreciso - B
+14. decidido - A, B
+15. lanzado - B
+16. inconstante - A, B
+17. resuelto - A, B
+18. imperturbable - B
+19. seguro - A, B
+20. dubitativo - B
+21. enérgico - B
+22. mesurado - B
+23. confiado - A, B
+24. audaz - B
+25. vago - A, B
+26. reflexivo - B
+27. indeterminado - A, B
+28. inseguro",03/05/26
+47,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: grave, cambiante, dubitativo, impreciso, movedizo, borroso, inseguro, sereno, variable, mudable, reflexivo, emprendedor, enérgico, vago, aplomado, irresoluto, incierto, confuso, lanzado, resuelto, indeciso, tranquilo, decidido, confiado, prudente, circunspecto, valiente, audaz, atrevido, ponderado, inestable, perplejo, titubeante, mesurado, seguro, inconstante, vacilante, variante, imperturbable, indeterminado","grave - A, B
+cambiante - B, A
+dubitativo - A, B
+impresivo - B, A
+movedizo - B, A
+borroso - A, B
+inseguro - B, A
+sereno - A, B
+variable - B, A
+mudable - B, A
+reflexivo - A, B
+emprendedor - B, A
+enérgico - A, B
+vago - B, A
+aplomado - A, B
+irresoluto - B, A
+incierto - B, A
+confuso - A, B
+lanzado - B, A
+resuelto - A, B
+indeciso - B, A
+tranquilo - A, B
+decidido - A, B
+confiado - B, A
+prudente - A, B
+circunspecto - A, B
+valiente - A, B
+audaz - B, A
+atrevido - B, A
+ponderado - A, B
+inestable - B, A
+perplejo - B, A
+titubeante - B, A
+mesurado -",03/05/26
+48,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: irresoluto, perplejo, mudable, ponderado, decidido, imperturbable, indeciso, dubitativo, sereno, grave, incierto, vacilante, atrevido, impreciso, borroso, lanzado, seguro, movedizo, audaz, valiente, reflexivo, inestable, inseguro, enérgico, resuelto, vago, variable, cambiante, inconstante, confiado, indeterminado, circunspecto, prudente, tranquilo, titubeante, mesurado, confuso, variante, aplomado, emprendedor","Aquí te dejo la lista con los escritores asociados a cada adjetivo:
+
+1. irresoluto - A, B
+2. perplejo - B
+3. mudable - A
+4. ponderado - B
+5. decidido - A
+6. imperturbable - B
+7. indeciso - A
+8. dubitativo - B
+9. sereno - B
+10. grave - B
+11. incierto - A
+12. vacilante - A
+13. atrevido - B
+14. impreciso - A
+15. borroso - B
+16. lanzado - A
+17. seguro - B
+18. movedizo - A
+19. audaz - B
+20. valiente - A
+21. reflexivo - B
+22. inestable - A
+23. inseguro - B
+24. enérgico - B
+25. resuelto - A
+26. vago - B
+27. variable - A
+28. cambiante - B
+29. inconstante - A
+30. confiado - B
+31. indeterminado - A
+32. circ",03/05/26
+49,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: variante, reflexivo, borroso, resuelto, indeterminado, decidido, vago, variable, vacilante, irresoluto, enérgico, tranquilo, grave, lanzado, valiente, confuso, inconstante, titubeante, seguro, inseguro, incierto, atrevido, mesurado, circunspecto, sereno, audaz, imperturbable, confiado, movedizo, dubitativo, emprendedor, impreciso, aplomado, perplejo, inestable, cambiante, indeciso, prudente, mudable, ponderado","Aquí te dejo la lista con los escritores correspondientes:
+
+1. variante - A, B
+2. reflexivo - B
+3. borroso - A
+4. resuelto - B
+5. indeterminado - A
+6. decidido - B
+7. vago - A
+8. variable - B
+9. vacilante - A
+10. irresoluto - B
+11. enérgico - B
+12. tranquilo - A
+13. grave - B
+14. lanzado - A
+15. valiente - B
+16. confuso - A
+17. inconstante - B
+18. titubeante - A
+19. seguro - B
+20. inseguro - A
+21. incierto - B
+22. atrevido - A
+23. mesurado - B
+24. circunspecto - A
+25. sereno - B
+26. audaz - A
+27. imperturbable - B
+28. confiado - A
+29. movedizo - B
+30. dubitativo - A
+31. emprendedor - B
+32. impreciso - A",03/05/26
+50,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: perplejo, variante, impreciso, indeterminado, indeciso, inestable, vacilante, ponderado, decidido, confuso, irresoluto, dubitativo, vago, imperturbable, sereno, inconstante, mesurado, tranquilo, lanzado, grave, audaz, movedizo, seguro, borroso, enérgico, reflexivo, resuelto, valiente, aplomado, inseguro, circunspecto, incierto, atrevido, mudable, confiado, cambiante, variable, emprendedor, prudente, titubeante","Aquí tienes la lista con el escritor seleccionado para cada adjetivo:
+
+1. Perplejo - A, B
+2. Variante - A, B
+3. Impreciso - A, B
+4. Indeterminado - A, B
+5. Indeciso - A, B
+6. Inestable - A, B
+7. Vacilante - A, B
+8. Ponderado - A, B
+9. Decidido - A, B
+10. Confuso - A, B
+11. Irresoluto - A, B
+12. Dubitativo - A, B
+13. Vago - A, B
+14. Imperturbable - A, B
+15. Sereno - A, B
+16. Inconstante - A, B
+17. Mesurado - A, B
+18. Tranquilo - A, B
+19. Lanzado - A, B
+20. Grave - A, B
+21. Audaz - A, B
+22. Movedizo - A, B
+23. Seguro - A, B
+24. Borroso - A, B
+25. Energi -",03/05/26

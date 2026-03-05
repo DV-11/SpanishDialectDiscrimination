@@ -1,0 +1,1527 @@
+sen_id,A,B,prompt,response,date
+1,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: forthcoming, silent, unsocial, introverted, reserved, cool, sociable, dry, gregarious, animated, cheerful, vivacious, remote, jolly, detached, asocial, standoffish, clinical, extroverted, timid, extraverted, lively, outgoing, distant, clubby, professional, withdrawn, aloof, communicative, clubbable, shy, convivial, offish, antisocial, talkative, social, jovial, unsociable, boon, spirited","Here is the list with a writer assigned to each adjective:
+
+1. forthcoming - A, B
+2. silent - A, B
+3. unsocial - A, B
+4. introverted - A, B
+5. reserved - A, B
+6. cool - A, B
+7. sociable - B, A
+8. dry - A, B
+9. gregarious - B, A
+10. animated - B, A
+11. cheerful - A, B
+12. vivacious - A, B
+13. remote - A, B
+14. jolly - B, A
+15. detached - A, B
+16. asocial - B, A
+17. standoffish - B, A
+18. clinical - A, B
+19. extroverted - B, A
+20. timid - A, B
+21. extraverted - B, A
+22. lively - A, B
+23. outgoing - B, A
+24. distant - A, B
+25. clubby - A, B
+26. professional - A, B
+27. withdrawn - A, B
+28. aloof - A, B
+29. communicative -",03/05/26
+2,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: withdrawn, extroverted, jolly, aloof, silent, animated, communicative, offish, reserved, standoffish, talkative, sociable, lively, shy, antisocial, asocial, spirited, professional, unsociable, jovial, social, gregarious, dry, outgoing, distant, detached, vivacious, boon, clubbable, unsocial, extraverted, timid, introverted, clinical, cheerful, forthcoming, cool, remote, convivial, clubby","Here is the list with the chosen writers:
+
+1. withdrawn - A, B
+2. extroverted - B, 
+3. jolly - A, 
+4. aloof - B, 
+5. silent - A, 
+6. animated - B, 
+7. communicative - A, 
+8. offish - B, 
+9. reserved - A, 
+10. standoffish - B, 
+11. talkative - A, 
+12. sociable - A, 
+13. lively - B, 
+14. shy - A, 
+15. antisocial - B, 
+16. asocial - B, 
+17. spirited - B, 
+18. professional - A, 
+19. unsociable - B, 
+20. jovial - A, 
+21. social - A, 
+22. gregarious - A, 
+23. dry - B, 
+24. outgoing - B, 
+25. distant - B, 
+26. detached - B, 
+27. vivacious - B, 
+28. boon - (no match) 
+29. clubbable - B, 
+30. unsocial - B, 
+31. extraverted - B, 
+32. timid - A,",03/05/26
+3,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: boon, sociable, cool, forthcoming, dry, reserved, standoffish, withdrawn, antisocial, vivacious, silent, animated, unsociable, cheerful, clinical, unsocial, social, spirited, remote, jolly, distant, aloof, jovial, talkative, gregarious, extraverted, lively, extroverted, offish, clubbable, introverted, professional, detached, timid, convivial, outgoing, clubby, communicative, shy, asocial","1. boon - A, B
+2. sociable - B, A
+3. cool - A, B
+4. forthcoming - B, A
+5. dry - A, B
+6. reserved - A, B
+7. standoffish - B, A
+8. withdrawn - A, B
+9. antisocial - B, A
+10. vivacious - A, B
+11. silent - A, B
+12. animated - A, B
+13. unsociable - A, B
+14. cheerful - A, B
+15. clinical - A, B
+16. unsocial - A, B
+17. social - B, A
+18. spirited - A, B
+19. remote - A, B
+20. jolly - B, A
+21. distant - A, B
+22. aloof - B, A
+23. jovial - B, A
+24. talkative - B, A
+25. gregarious - B, A
+26. extraverted - B, A
+27. lively - B, A
+28. extroverted - B, A
+29. offish - B, A
+30. clubbable - B",03/05/26
+4,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: animated, standoffish, forthcoming, shy, withdrawn, cheerful, antisocial, clinical, reserved, asocial, convivial, silent, jolly, outgoing, clubby, extroverted, detached, professional, social, jovial, sociable, distant, unsociable, clubbable, dry, remote, boon, cool, spirited, gregarious, introverted, unsocial, talkative, vivacious, lively, extraverted, aloof, timid, communicative, offish","1. animated - A, B
+2. standoffish - A, B
+3. forthcoming - B, A
+4. shy - A, B
+5. withdrawn - A, B
+6. cheerful - B, A
+7. antisocial - A, B
+8. clinical - B, A
+9. reserved - A, B
+10. asocial - A, B
+11. convivial - B, A
+12. silent - A, B
+13. jolly - B, A
+14. outgoing - B, A
+15. clubby - B, A
+16. extroverted - B, A
+17. detached - A, B
+18. professional - B, A
+19. social - B, A
+20. jovial - B, A
+21. sociable - B, A
+22. distant - A, B
+23. unsociable - A, B
+24. clubbable - B, A
+25. dry - B, A
+26. remote - A, B
+27. boon - A, B
+28. cool - B, A
+29. spirited - B, A
+30. gregarious - B, A
+31",03/05/26
+5,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: cool, detached, clubby, vivacious, communicative, clubbable, withdrawn, extroverted, sociable, unsociable, reserved, convivial, clinical, cheerful, remote, lively, animated, distant, standoffish, social, dry, professional, asocial, aloof, offish, boon, talkative, spirited, shy, gregarious, forthcoming, timid, outgoing, silent, extraverted, unsocial, introverted, jolly, antisocial, jovial","Here's the list with the chosen writer for each adjective:
+
+1. cool - A, B
+2. detached - A, B
+3. clubby - A, B
+4. vivacious - B, A
+5. communicative - B, A
+6. clubbable - A, B
+7. withdrawn - A, B
+8. extroverted - B, A
+9. sociable - B, A
+10. unsociable - A, B
+11. reserved - A, B
+12. convivial - A, B
+13. clinical - A, B
+14. cheerful - A, B
+15. remote - A, B
+16. lively - B, A
+17. animated - B, A
+18. distant - A, B
+19. standoffish - B, A
+20. social - B, A
+21. dry - A, B
+22. professional - A, B
+23. asocial - B, A
+24. aloof - A, B
+25. offish - B, A
+26. boon - A, B
+27. talkative - B, A
+28. spirited - B, A
+29. shy - A",03/05/26
+6,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: extraverted, outgoing, forthcoming, aloof, cheerful, clinical, antisocial, gregarious, clubbable, withdrawn, social, extroverted, spirited, remote, boon, standoffish, detached, unsocial, jolly, professional, cool, reserved, distant, animated, jovial, unsociable, convivial, sociable, clubby, timid, lively, shy, asocial, offish, communicative, talkative, vivacious, silent, introverted, dry","1. extraverted - A, B
+2. outgoing - A, B
+3. forthcoming - A, B
+4. aloof - B, A
+5. cheerful - A, B
+6. clinical - B, A
+7. antisocial - A, B
+8. gregarious - B, A
+9. clubbable - B, A
+10. withdrawn - A, B
+11. social - B, A
+12. extroverted - A, B
+13. spirited - A, B
+14. remote - B, A
+15. boon - A, B
+16. standoffish - A, B
+17. detached - B, A
+18. unsocial - A, B
+19. jolly - A, B
+20. professional - B, A
+21. cool - A, B
+22. reserved - B, A
+23. distant - B, A
+24. animated - A, B
+25. jovial - A, B
+26. unsociable - A, B
+27. convivial - B, A
+28. sociable - B, A
+29. clubby - B, A
+30. timid - A,",03/05/26
+7,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: cheerful, standoffish, extraverted, aloof, reserved, clubby, timid, jolly, outgoing, detached, boon, asocial, social, sociable, lively, offish, shy, unsociable, talkative, withdrawn, clubbable, unsocial, spirited, jovial, clinical, silent, vivacious, professional, cool, distant, introverted, forthcoming, animated, convivial, dry, antisocial, remote, extroverted, gregarious, communicative","1. cheerful - A, B
+2. standoffish - A, B
+3. extraverted - B, A
+4. aloof - A, B
+5. reserved - A, B
+6. clubby - A, B
+7. timid - B, A
+8. jolly - A, B
+9. outgoing - B, A
+10. detached - A, B
+11. boon - (This is not an adjective, it seems to be a noun)
+12. asocial - A, B
+13. social - B, A
+14. sociable - A, B
+15. lively - A, B
+16. offish - A, B
+17. shy - B, A
+18. unsociable - A, B
+19. talkative - B, A
+20. withdrawn - A, B
+21. clubbable - A, B
+22. unsocial - A, B
+23. spirited - A, B
+24. jovial - A, B
+25. clinical - A, B
+26. silent - A, B
+27. vivacious - A, B
+28. professional - A, B
+29. cool - A,",03/05/26
+8,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: clubby, animated, forthcoming, clinical, aloof, asocial, introverted, offish, sociable, antisocial, communicative, reserved, dry, gregarious, vivacious, timid, boon, convivial, social, cool, unsocial, shy, standoffish, professional, spirited, detached, jovial, silent, jolly, withdrawn, distant, clubbable, cheerful, unsociable, talkative, lively, extraverted, extroverted, remote, outgoing","clubby - A, B 
+animated - A, B 
+forthcoming - A, B 
+clinical - A, B 
+aloof - A, B 
+asocial - A, B 
+introverted - A, B 
+offish - A, B 
+sociable - A, B 
+antisocial - A, B 
+communicative - A, B 
+reserved - A, B 
+dry - A, B 
+gregarious - A, B 
+vivacious - A, B 
+timid - A, B 
+boon - A, B 
+convivial - A, B 
+social - A, B 
+cool - A, B 
+unsocial - A, B 
+shy - A, B 
+standoffish - A, B 
+professional - A, B 
+spirited - A, B 
+detached - A, B 
+jovial - A, B 
+silent - A, B 
+jolly - A, B 
+withdrawn - A, B 
+distant - A, B 
+clubbable - A, B 
+cheerful - A, B 
+unsociable - A, B 
+talkative - A, B 
+lively - A, B 
+extraverted - B",03/05/26
+9,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: social, extraverted, timid, animated, clubby, unsociable, dry, clubbable, lively, asocial, detached, silent, outgoing, extroverted, boon, standoffish, offish, cheerful, gregarious, communicative, jovial, introverted, professional, antisocial, aloof, unsocial, shy, cool, convivial, spirited, withdrawn, clinical, vivacious, forthcoming, reserved, talkative, remote, sociable, jolly, distant","1. social - A, B
+2. extraverted - A, B
+3. timid - A, B
+4. animated - A, B
+5. clubby - A, B
+6. unsociable - A, B
+7. dry - A, B
+8. clubbable - A, B
+9. lively - A, B
+10. asocial - A, B
+11. detached - A, B
+12. silent - A, B
+13. outgoing - A, B
+14. extroverted - A, B
+15. boon - A, B
+16. standoffish - A, B
+17. offish - A, B
+18. cheerful - A, B
+19. gregarious - A, B
+20. communicative - A, B
+21. jovial - A, B
+22. introverted - B, 
+23. professional - A, B
+24. antisocial - A, B
+25. aloof - A, B
+26. unsocial - A, B
+27. shy - A, B
+28. cool - A, B
+29. convivial - A, B
+30. spirited - A",03/05/26
+10,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: offish, timid, talkative, cheerful, unsociable, communicative, clubbable, silent, unsocial, clubby, antisocial, clinical, distant, sociable, forthcoming, introverted, extroverted, extraverted, animated, remote, shy, lively, reserved, cool, spirited, gregarious, convivial, outgoing, detached, aloof, boon, standoffish, professional, jolly, dry, vivacious, social, asocial, jovial, withdrawn","offish, A; timid, B; talkative, A; cheerful, B; unsociable, A; communicative, B; clubbable, A; silent, B; unsocial, A; clubby, B; antisocial, A; clinical, B; distant, A; sociable, B; forthcoming, A; introverted, B; extroverted, A; extraverted, B; animated, A; remote, B; shy, A; lively, B; reserved, A; cool, B; spirited, A; gregarious, B; convivial, A; outgoing, B; detached, A; aloof, B; boon, A; standoffish, B; professional, A; jolly, B; dry, A; vivacious, B; social, A; asocial, B; jovial, A; withdrawn, B",03/05/26
+11,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: detached, jovial, silent, offish, timid, remote, jolly, social, communicative, forthcoming, clubbable, shy, outgoing, lively, convivial, boon, unsocial, cool, asocial, withdrawn, clubby, gregarious, dry, cheerful, spirited, aloof, animated, standoffish, distant, extroverted, antisocial, vivacious, introverted, reserved, unsociable, sociable, professional, talkative, clinical, extraverted","1. detached - A, B
+2. jovial - A, B
+3. silent - A, B
+4. offish - A, B
+5. timid - A, B
+6. remote - A, B
+7. jolly - A, B
+8. social - A, B
+9. communicative - A, B
+10. forthcoming - A, B
+11. clubbable - A, B
+12. shy - A, B
+13. outgoing - B, A
+14. lively - A, B
+15. convivial - A, B
+16. boon - A, B
+17. unsocial - A, B
+18. cool - A, B
+19. asocial - B, A
+20. withdrawn - A, B
+21. clubby - A, B
+22. gregarious - B, A
+23. dry - A, B
+24. cheerful - A, B
+25. spirited - A, B
+26. aloof - A, B
+27. animated - A, B
+28. standoffish - A, B
+29. distant - A, B
+30. extroverted - B, A
+31",03/05/26
+12,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: asocial, clubby, offish, animated, antisocial, vivacious, lively, forthcoming, withdrawn, remote, distant, boon, clinical, introverted, cheerful, aloof, sociable, reserved, convivial, professional, standoffish, detached, shy, jolly, clubbable, unsocial, jovial, unsociable, extroverted, extraverted, cool, silent, timid, gregarious, spirited, outgoing, talkative, dry, communicative, social","asocial - A, B
+clubby - A
+offish - B
+animated - A
+antisocial - B
+vivacious - A
+lively - B
+forthcoming - A
+withdrawn - B
+remote - A
+distant - B
+boon - A
+clinical - B
+introverted - A
+cheerful - B
+aloof - A
+sociable - B
+reserved - A
+convivial - B
+professional - A
+standoffish - B
+detached - A
+shy - B
+jolly - A
+clubbable - B
+unsocial - A
+jovial - B
+unsociable - A
+extroverted - B
+extraverted - A
+cool - B
+silent - A
+timid - B
+gregarious - A
+spirited - B
+outgoing - A
+talkative - B
+dry - A
+communicative - B
+social - A",03/05/26
+13,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: detached, reserved, distant, dry, social, spirited, cool, silent, clubbable, asocial, forthcoming, convivial, sociable, animated, timid, boon, remote, withdrawn, clinical, clubby, unsocial, jolly, aloof, vivacious, standoffish, introverted, extroverted, extraverted, cheerful, shy, communicative, lively, jovial, talkative, offish, professional, gregarious, antisocial, outgoing, unsociable","1. detached - A, B
+2. reserved - A, B
+3. distant - A, B
+4. dry - A, B
+5. social - B, A
+6. spirited - B, A
+7. cool - B, A
+8. silent - A, B
+9. clubbable - A, B
+10. asocial - A, B
+11. forthcoming - B, A
+12. convivial - A, B
+13. sociable - B, A
+14. animated - B, A
+15. timid - A, B
+16. boon - A, B
+17. remote - A, B
+18. withdrawn - A, B
+19. clinical - A, B
+20. clubby - A, B
+21. unsocial - A, B
+22. jolly - B, A
+23. aloof - A, B
+24. vivacious - B, A
+25. standoffish - A, B
+26. introverted - A, B
+27. extroverted - B, A
+28. extraverted - B, A
+29. cheerful - B, A
+30. shy - A, B
+31",03/05/26
+14,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: extroverted, professional, shy, dry, extraverted, timid, asocial, spirited, remote, offish, unsociable, clinical, sociable, cheerful, convivial, animated, lively, antisocial, unsocial, clubbable, aloof, standoffish, social, clubby, withdrawn, jovial, distant, outgoing, gregarious, boon, jolly, silent, vivacious, reserved, forthcoming, cool, introverted, detached, communicative, talkative","1. extroverted - A, B 
+2. professional - A, B 
+3. shy - A, B 
+4. dry - A, B 
+5. extraverted - A, B 
+6. timid - A, B 
+7. asocial - B, A 
+8. spirited - A, B 
+9. remote - A, B 
+10. offish - B, A 
+11. unsociable - B, A 
+12. clinical - A, B 
+13. sociable - A, B 
+14. cheerful - A, B 
+15. convivial - A, B 
+16. animated - A, B 
+17. lively - A, B 
+18. antisocial - B, A 
+19. unsocial - B, A 
+20. clubbable - A, B 
+21. aloof - B, A 
+22. standoffish - B, A 
+23. social - A, B 
+24. clubby - A, B 
+25. withdrawn - A, B 
+26. jovial - A, B 
+27. distant - A, B 
+28. outgoing - B, A 
+29. gregarious - A, B 
+30. boon - A",03/05/26
+15,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: offish, cool, clinical, reserved, timid, outgoing, unsociable, convivial, animated, remote, detached, social, talkative, sociable, silent, professional, forthcoming, withdrawn, communicative, cheerful, spirited, gregarious, jovial, aloof, standoffish, extraverted, boon, asocial, clubby, jolly, extroverted, unsocial, shy, antisocial, dry, clubbable, introverted, vivacious, distant, lively","offish - A, B
+cool - A, B
+clinical - A, B
+reserved - A, B
+timid - A, B
+outgoing - A, B
+unsociable - A, B
+convivial - A, B
+animated - A, B
+remote - A, B
+detached - A, B
+social - A, B
+talkative - A, B
+sociable - A, B
+silent - A, B
+professional - A, B
+forthcoming - A, B
+withdrawn - A, B
+communicative - A, B
+cheerful - A, B
+spirited - A, B
+gregarious - A, B
+jovial - A, B
+aloof - A, B
+standoffish - A, B
+extraverted - A, B
+boon - A, B
+asocial - A, B
+clubby - A, B
+jolly - A, B
+extroverted - A, B
+unsocial - A, B
+shy - A, B
+antisocial - A, B
+dry - A, B
+clubbable - A, B
+introverted - B,",03/05/26
+16,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: forthcoming, outgoing, shy, jovial, talkative, aloof, detached, cheerful, professional, withdrawn, introverted, spirited, social, unsocial, convivial, offish, clubby, extraverted, standoffish, unsociable, silent, boon, antisocial, distant, extroverted, gregarious, dry, lively, clubbable, jolly, vivacious, sociable, remote, cool, reserved, animated, asocial, clinical, communicative, timid","1. forthcoming, A
+2. outgoing, B
+3. shy, A
+4. jovial, B
+5. talkative, B
+6. aloof, A
+7. detached, A
+8. cheerful, B
+9. professional, B
+10. withdrawn, A
+11. introverted, A
+12. spirited, B
+13. social, B
+14. unsocial, A
+15. convivial, B
+16. offish, A
+17. clubby, B
+18. extraverted, B
+19. standoffish, A
+20. unsociable, A
+21. silent, A
+22. boon, 
+23. antisocial, A
+24. distant, A
+25. extroverted, B
+26. gregarious, B
+27. dry, A
+28. lively, B
+29. clubbable, B
+30. jolly, B
+31. vivacious, B
+32. sociable, B
+33. remote, A
+34. cool, A
+35. reserved, A
+36. animated, B
+37. asocial, A
+38. clinical, A
+39. communicative, B",03/05/26
+17,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: lively, reserved, detached, jovial, distant, vivacious, unsocial, jolly, shy, forthcoming, social, animated, antisocial, clubbable, cool, clubby, sociable, communicative, extroverted, dry, silent, introverted, standoffish, timid, clinical, asocial, outgoing, offish, withdrawn, unsociable, aloof, professional, gregarious, talkative, convivial, boon, remote, extraverted, cheerful, spirited","Here's the list with the chosen writers:
+
+1. lively - A, B
+2. reserved - A, B
+3. detached - A, B
+4. jovial - A, B
+5. distant - A, B
+6. vivacious - B, A
+7. unsocial - B, A
+8. jolly - A, B
+9. shy - A, B
+10. forthcoming - B, A
+11. social - A, B
+12. animated - B, A
+13. antisocial - A, B
+14. clubbable - A, B
+15. cool - B, A
+16. clubby - A, B
+17. sociable - B, A
+18. communicative - B, A
+19. extroverted - B, A
+20. dry - A, B
+21. silent - A, B
+22. introverted - B, A
+23. standoffish - A, B
+24. timid - A, B
+25. clinical - A, B
+26. asocial - A, B
+27. outgoing - B, A
+28. offish - A, B
+29. withdrawn - B, A
+",03/05/26
+18,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: professional, communicative, shy, aloof, standoffish, offish, jovial, distant, extraverted, outgoing, extroverted, unsociable, asocial, talkative, animated, introverted, cool, forthcoming, detached, dry, boon, convivial, remote, social, unsocial, withdrawn, clinical, antisocial, jolly, reserved, silent, gregarious, sociable, lively, clubbable, cheerful, timid, spirited, vivacious, clubby","1. professional - A, B
+2. communicative - A, B
+3. shy - A, B
+4. aloof - A, B
+5. standoffish - B
+6. offish - B
+7. jovial - A
+8. distant - A, B
+9. extraverted - B
+10. outgoing - B
+11. extroverted - B
+12. unsociable - A
+13. asocial - A
+14. talkative - A, B
+15. animated - A, B
+16. introverted - A
+17. cool - B
+18. forthcoming - A, B
+19. detached - A, B
+20. dry - B
+21. boon - (Note: 'boon' is not typically used as an adjective in Spanish; it is a noun. However, if referring to a 'good omen' or 'favorable situation', it could be translated as 'beneficio' or'ventaja', but these aren't on the list. It could be 'a gift' or 'a blessing' in English, which could be translated to Spanish as 'un regalo' or 'una bendición')
+22. convivial - A",03/05/26
+19,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: unsociable, lively, aloof, remote, jolly, distant, gregarious, introverted, animated, extroverted, forthcoming, boon, cheerful, clubby, standoffish, clinical, professional, antisocial, talkative, jovial, spirited, reserved, cool, convivial, outgoing, asocial, extraverted, dry, offish, sociable, timid, unsocial, vivacious, silent, social, communicative, withdrawn, clubbable, detached, shy","1. unsociable - A, B
+2. lively - A, B
+3. aloof - A, B
+4. remote - A, B
+5. jolly - A, B
+6. distant - A, B
+7. gregarious - A, B
+8. introverted - A, B
+9. animated - A, B
+10. extroverted - A, B
+11. forthcoming - A, B
+12. boon - 
+13. cheerful - A, B
+14. clubby - A, B
+15. standoffish - A, B
+16. clinical - A, B
+17. professional - A, B
+18. antisocial - A, B
+19. talkative - A, B
+20. jovial - A, B
+21. spirited - A, B
+22. reserved - A, B
+23. cool - A, B
+24. convivial - A, B
+25. outgoing - A, B
+26. asocial - A, B
+27. extraverted - A, B
+28. dry - A, B
+29. offish - A, B
+30. sociable - A, B",03/05/26
+20,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: lively, cool, social, clubby, forthcoming, jovial, antisocial, introverted, vivacious, standoffish, timid, shy, extroverted, offish, boon, asocial, animated, remote, spirited, reserved, clubbable, outgoing, professional, talkative, unsociable, clinical, dry, silent, cheerful, sociable, detached, aloof, unsocial, jolly, gregarious, extraverted, distant, withdrawn, convivial, communicative","Here's the list with writers A and B:
+
+1. lively - A, B
+2. cool - B
+3. social - A
+4. clubby - B
+5. forthcoming - A
+6. jovial - B
+7. antisocial - A
+8. introverted - B
+9. vivacious - A
+10. standoffish - B
+11. timid - A
+12. shy - B
+13. extroverted - A
+14. offish - B
+15. boon - (no writer, as it's a noun)
+16. asocial - A
+17. animated - B
+18. remote - A
+19. spirited - B
+20. reserved - A
+21. clubbable - B
+22. outgoing - A
+23. professional - B
+24. talkative - A
+25. unsociable - B
+26. clinical - A
+27. dry - B
+28. silent - A
+29. cheerful - B
+30. sociable - A
+31. detached - B
+32. aloof - A
+33. unsocial - B
+34. jolly - B
+35. gregarious - A
+36. extraverted -",03/05/26
+21,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: social, boon, jolly, distant, timid, cool, forthcoming, animated, clubby, unsociable, extraverted, shy, aloof, extroverted, asocial, clubbable, unsocial, cheerful, vivacious, professional, outgoing, convivial, lively, gregarious, silent, reserved, standoffish, jovial, sociable, detached, communicative, talkative, clinical, dry, withdrawn, offish, introverted, spirited, antisocial, remote","1. social - A, B 
+2. boon - A, B 
+3. jolly - A, B 
+4. distant - A, B 
+5. timid - A, B 
+6. cool - A, B 
+7. forthcoming - A, B 
+8. animated - A, B 
+9. clubby - A, B 
+10. unsociable - A, B 
+11. extraverted - A, B 
+12. shy - A, B 
+13. aloof - A, B 
+14. extroverted - A, B 
+15. asocial - A, B 
+16. clubbable - A, B 
+17. unsocial - A, B 
+18. cheerful - A, B 
+19. vivacious - A, B 
+20. professional - A, B 
+21. outgoing - A, B 
+22. convivial - A, B 
+23. lively - A, B 
+24. gregarious - A, B 
+25. silent - A, B 
+26. reserved - A, B 
+27. standoffish - A, B 
+28. jovial - A, B 
+29. sociable - A, B 
+30. detached - A",03/05/26
+22,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: social, gregarious, lively, unsociable, shy, boon, sociable, clubby, forthcoming, jolly, communicative, standoffish, reserved, unsocial, distant, withdrawn, dry, extroverted, offish, professional, remote, antisocial, introverted, vivacious, cool, outgoing, talkative, clubbable, silent, aloof, cheerful, spirited, jovial, timid, asocial, convivial, clinical, detached, animated, extraverted","1. social - A, B
+2. gregarious - A, B
+3. lively - A, B
+4. unsociable - A, B
+5. shy - A, B
+6. boon - A, B
+7. sociable - A, B
+8. clubby - A, B
+9. forthcoming - A, B
+10. jolly - A, B
+11. communicative - A, B
+12. standoffish - A, B
+13. reserved - A, B
+14. unsocial - A, B
+15. distant - A, B
+16. withdrawn - A, B
+17. dry - A, B
+18. extroverted - A, B
+19. offish - A, B
+20. professional - A, B
+21. remote - A, B
+22. antisocial - A, B
+23. introverted - A, B
+24. vivacious - A, B
+25. cool - A, B
+26. outgoing - A, B
+27. talkative - A, B
+28. clubbable - A, B
+29. silent - A, B
+30. aloof - A",03/05/26
+23,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: antisocial, professional, animated, outgoing, reserved, lively, cheerful, jolly, remote, cool, distant, jovial, forthcoming, boon, standoffish, extroverted, social, timid, communicative, clubbable, unsociable, convivial, vivacious, clinical, shy, introverted, talkative, aloof, unsocial, withdrawn, spirited, sociable, extraverted, asocial, clubby, gregarious, detached, dry, offish, silent","1. antisocial - A, B
+2. professional - A, B
+3. animated - A, B
+4. outgoing - A, B
+5. reserved - B, A
+6. lively - A, B
+7. cheerful - A, B
+8. jolly - A, B
+9. remote - A, B
+10. cool - A, B
+11. distant - A, B
+12. jovial - A, B
+13. forthcoming - B, A
+14. boon - No match found
+15. standoffish - A, B
+16. extroverted - A, B
+17. social - B, A
+18. timid - B, A
+19. communicative - B, A
+20. clubbable - A, B
+21. unsociable - A, B
+22. convivial - B, A
+23. vivacious - A, B
+24. clinical - A, B
+25. shy - B, A
+26. introverted - A, B
+27. talkative - B, A
+28. aloof - A, B
+29. unsocial - A, B
+30. withdrawn - A, B
+",03/05/26
+24,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: unsocial, forthcoming, withdrawn, professional, asocial, clubbable, communicative, dry, social, shy, clinical, spirited, aloof, extraverted, silent, jolly, timid, clubby, standoffish, sociable, outgoing, reserved, vivacious, offish, distant, lively, talkative, convivial, gregarious, unsociable, extroverted, remote, detached, boon, cheerful, introverted, antisocial, cool, animated, jovial","1. unsocial - A, B
+2. forthcoming - A
+3. withdrawn - B
+4. professional - A, B
+5. asocial - A
+6. clubbable - B
+7. communicative - A
+8. dry - A, B
+9. social - A, B
+10. shy - B
+11. clinical - A, B
+12. spirited - A
+13. aloof - B
+14. extraverted - B
+15. silent - B
+16. jolly - A
+17. timid - B
+18. clubby - A
+19. standoffish - B
+20. sociable - A, B
+21. outgoing - B
+22. reserved - B
+23. vivacious - A
+24. offish - B
+25. distant - A, B
+26. lively - A
+27. talkative - A
+28. convivial - A
+29. gregarious - A
+30. unsociable - A, B
+31. extroverted - B
+32. remote - B
+33. detached - B
+34. boon - A
+35. cheerful - A
+36. introverted - B
+37.",03/05/26
+25,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: lively, social, offish, unsociable, extraverted, shy, extroverted, detached, withdrawn, spirited, cool, sociable, vivacious, gregarious, asocial, talkative, distant, jolly, timid, antisocial, jovial, unsocial, outgoing, professional, dry, convivial, introverted, clubbable, clubby, boon, clinical, aloof, forthcoming, remote, standoffish, animated, silent, communicative, reserved, cheerful","lively, A 
+social, A 
+offish, B 
+unsociable, B 
+extraverted, A 
+shy, B 
+extroverted, A 
+detached, B 
+withdrawn, B 
+spirited, A 
+cool, B 
+sociable, A 
+vivacious, A 
+gregarious, A 
+asocial, B 
+talkative, A 
+distant, B 
+jolly, A 
+timid, B 
+antisocial, B 
+jovial, A 
+unsocial, B 
+outgoing, A 
+professional, B 
+dry, B 
+convivial, A 
+introverted, B 
+clubbable, A 
+clubby, A 
+boon, A 
+clinical, B 
+aloof, B 
+forthcoming, A 
+remote, B 
+standoffish, B 
+animated, A 
+silent, B 
+communicative, A 
+reserved, B 
+cheerful, A",03/05/26
+26,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: convivial, remote, jolly, jovial, silent, extroverted, vivacious, introverted, lively, social, asocial, extraverted, detached, clubby, aloof, unsocial, boon, antisocial, unsociable, shy, offish, standoffish, withdrawn, cool, sociable, communicative, reserved, cheerful, clinical, talkative, outgoing, professional, spirited, gregarious, clubbable, distant, dry, forthcoming, timid, animated","convivial, A; 
+remote, B; 
+jolly, A; 
+jovial, A; 
+silent, B; 
+extroverted, B; 
+vivacious, A; 
+introverted, B; 
+lively, A; 
+social, A; 
+asocial, B; 
+extraverted, B; 
+detached, B; 
+clubby, A; 
+aloof, B; 
+unsocial, B; 
+boon, A; 
+antisocial, B; 
+unsociable, B; 
+shy, A; 
+offish, B; 
+standoffish, B; 
+withdrawn, B; 
+cool, B; 
+sociable, A; 
+communicative, A; 
+reserved, B; 
+cheerful, A; 
+clinical, B; 
+talkative, A; 
+outgoing, A; 
+professional, B; 
+spirited, A; 
+gregarious, A; 
+clubbable, A; 
+distant, B; 
+dry, B; 
+forthcoming, A; 
+timid, A; 
+animated, A",03/05/26
+27,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: jovial, outgoing, extraverted, vivacious, dry, social, detached, sociable, shy, gregarious, clinical, unsocial, offish, asocial, jolly, silent, clubbable, extroverted, reserved, unsociable, boon, standoffish, forthcoming, cheerful, distant, communicative, animated, remote, convivial, spirited, antisocial, introverted, talkative, aloof, clubby, timid, cool, lively, professional, withdrawn","jovial, A, 
+outgoing, B, 
+extraverted, B, 
+vivacious, B, 
+dry, A, 
+social, B, 
+detached, A, 
+sociable, B, 
+shy, A, 
+gregarious, B, 
+clinical, A, 
+unsocial, A, 
+offish, A, 
+asocial, A, 
+jolly, A, 
+silent, A, 
+clubbable, A, 
+extroverted, B, 
+reserved, A, 
+unsociable, A, 
+boon, A, 
+standoffish, A, 
+forthcoming, B, 
+cheerful, B, 
+distant, A, 
+communicative, B, 
+animated, B, 
+remote, A, 
+convivial, B, 
+spirited, B, 
+antisocial, A, 
+introverted, A, 
+talkative, B, 
+aloof, A, 
+clubby, A, 
+timid, A, 
+cool, A, 
+lively, B, 
+professional, A, 
+withdrawn, A,",03/05/26
+28,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: detached, jolly, spirited, clubby, outgoing, cool, clubbable, shy, withdrawn, vivacious, unsocial, gregarious, clinical, distant, introverted, convivial, professional, forthcoming, extroverted, communicative, social, standoffish, jovial, animated, offish, dry, cheerful, extraverted, sociable, talkative, unsociable, aloof, boon, reserved, silent, antisocial, remote, timid, lively, asocial","Here's the list with a writer assigned to each adjective:
+
+1. detached - A, B
+2. jolly - B, A
+3. spirited - A, B
+4. clubby - B, A
+5. outgoing - A, B
+6. cool - B, A
+7. clubbable - B, A
+8. shy - A, B
+9. withdrawn - A, B
+10. vivacious - A, B
+11. unsocial - A, B
+12. gregarious - B, A
+13. clinical - A, B
+14. distant - A, B
+15. introverted - B, A
+16. convivial - B, A
+17. professional - A, B
+18. forthcoming - A, B
+19. extroverted - B, A
+20. communicative - B, A
+21. social - B, A
+22. standoffish - A, B
+23. jovial - B, A
+24. animated - A, B
+25. offish - A, B
+26. dry - A, B
+27. cheerful - B, A
+28. extraverted - B, A
+29. soci",03/05/26
+29,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: forthcoming, withdrawn, boon, communicative, antisocial, timid, convivial, gregarious, distant, unsociable, outgoing, talkative, extroverted, spirited, cool, jolly, standoffish, lively, jovial, detached, professional, clubby, extraverted, sociable, shy, introverted, clinical, clubbable, cheerful, dry, asocial, remote, animated, reserved, silent, unsocial, offish, vivacious, social, aloof","forthcoming, A; withdrawn, B
+boon, A; antisocial, B
+communicative, A; timid, B
+convivial, A; antisocial, B
+gregarious, A; antisocial, B
+distant, A; antisocial, B
+unsociable, A; antisocial, B
+outgoing, A; antisocial, B
+talkative, A; antisocial, B
+extroverted, A; antisocial, B
+spirited, A; antisocial, B
+cool, A; antisocial, B
+jolly, A; antisocial, B
+standoffish, A; antisocial, B
+lively, A; antisocial, B
+jovial, A; antisocial, B
+detached, A; antisocial, B
+professional, A; antisocial, B
+clubby, A; antisocial, B
+extraverted, A; antisocial, B
+sociable, A; antisocial, B
+shy, B; introverted, A
+introverted, B; shy, A
+clinical, A; antisocial, B
+clubbable, A; antisocial, B
+cheerful, A",03/05/26
+30,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: clubby, extraverted, reserved, aloof, professional, animated, talkative, detached, convivial, standoffish, antisocial, offish, extroverted, dry, silent, jovial, introverted, forthcoming, social, gregarious, vivacious, communicative, timid, boon, asocial, clubbable, outgoing, spirited, remote, cool, distant, clinical, unsociable, lively, withdrawn, sociable, cheerful, unsocial, shy, jolly","clubby, A, B 
+extraverted, A, B 
+reserved, B, A 
+aloof, A, B 
+professional, B, A 
+animated, A, B 
+talkative, A, B 
+detached, B, A 
+convivial, A, B 
+standoffish, A, B 
+antisocial, A, B 
+offish, A, B 
+extroverted, B, A 
+dry, A, B 
+silent, B, A 
+jovial, A, B 
+introverted, B, A 
+forthcoming, A, B 
+social, B, A 
+gregarious, A, B 
+vivacious, A, B 
+communicative, A, B 
+timid, B, A 
+boon, A 
+asocial, A, B 
+clubbable, A, B 
+outgoing, B, A 
+spirited, A, B 
+remote, B, A 
+cool, A, B 
+distant, A, B 
+clinical, B, A 
+unsociable, A, B 
+lively, A, B 
+withdrawn, B, A 
+sociable, B, A 
+cheerful, A, B",03/05/26
+31,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: boon, cool, withdrawn, outgoing, introverted, vivacious, forthcoming, social, communicative, animated, talkative, asocial, lively, professional, clubby, sociable, antisocial, silent, unsocial, offish, clubbable, clinical, spirited, cheerful, jovial, shy, timid, jolly, standoffish, aloof, convivial, remote, distant, dry, extroverted, reserved, detached, gregarious, extraverted, unsociable","boon, A; cool, B; withdrawn, A; outgoing, B; introverted, A; vivacious, B; forthcoming, A; social, B; communicative, A; animated, B; talkative, A; asocial, B; lively, A; professional, B; clubby, A; sociable, B; antisocial, A; silent, B; unsocial, A; offish, B; clubbable, A; clinical, B; spirited, A; cheerful, B; jovial, A; shy, B; timid, A; jolly, B; standoffish, A; aloof, B; convivial, A; remote, B; distant, A; dry, B; extroverted, A; reserved, B; detached, A; gregarious, B; extraverted, A; unsociable, B",03/05/26
+32,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: remote, spirited, jovial, dry, antisocial, withdrawn, distant, clubbable, communicative, extroverted, introverted, clinical, extraverted, reserved, social, outgoing, unsocial, shy, professional, talkative, offish, standoffish, jolly, cheerful, vivacious, animated, sociable, asocial, boon, aloof, gregarious, lively, forthcoming, cool, detached, convivial, clubby, timid, silent, unsociable","Here is the list of adjectives with the chosen writers:
+
+1. remote - A, B
+2. spirited - A, B
+3. jovial - A, B
+4. dry - B, 
+5. antisocial - A, B
+6. withdrawn - A, B
+7. distant - A, B
+8. clubbable - B, 
+9. communicative - B, 
+10. extroverted - B, 
+11. introverted - A, 
+12. clinical - B, 
+13. extraverted - B, 
+14. reserved - A, 
+15. social - B, 
+16. outgoing - B, 
+17. unsocial - A, B
+18. shy - A, 
+19. professional - B, 
+20. talkative - B, 
+21. offish - A, 
+22. standoffish - A, 
+23. jolly - A, 
+24. cheerful - A, 
+25. vivacious - A, 
+26. animated - A, 
+27. sociable - B, 
+28. asocial - A, B
+29. boon - A, 
+30. aloof - A, 
+31. gregarious - B,",03/05/26
+33,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: aloof, gregarious, unsocial, sociable, clubby, talkative, jolly, cheerful, spirited, remote, clubbable, forthcoming, convivial, antisocial, withdrawn, shy, vivacious, detached, social, reserved, timid, clinical, introverted, extroverted, extraverted, jovial, dry, asocial, lively, standoffish, boon, unsociable, outgoing, offish, distant, professional, animated, communicative, cool, silent","Here's the list of adjectives with the chosen writer:
+
+1. aloof - A, 
+2. gregarious - B, 
+3. unsocial - A, 
+4. sociable - B, 
+5. clubby - A, 
+6. talkative - B, 
+7. jolly - A, 
+8. cheerful - B, 
+9. spirited - A, 
+10. remote - A, 
+11. clubbable - A, 
+12. forthcoming - B, 
+13. convivial - B, 
+14. antisocial - A, 
+15. withdrawn - A, 
+16. shy - A, 
+17. vivacious - B, 
+18. detached - A, 
+19. social - B, 
+20. reserved - A, 
+21. timid - A, 
+22. clinical - B, 
+23. introverted - A, 
+24. extroverted - B, 
+25. extraverted - B, 
+26. jovial - A, 
+27. dry - B, 
+28. asocial - A, 
+29. lively - B, 
+30. standoffish - A, 
+31. boon - 
+32. unsociable - A, 
+",03/05/26
+34,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: asocial, silent, spirited, extroverted, forthcoming, communicative, extraverted, clubby, introverted, dry, remote, cheerful, talkative, clinical, vivacious, clubbable, boon, lively, gregarious, unsociable, reserved, standoffish, timid, animated, distant, outgoing, shy, offish, antisocial, convivial, jovial, aloof, sociable, jolly, withdrawn, social, detached, professional, unsocial, cool","1. asocial - A, B
+2. silent - A, B
+3. spirited - B
+4. extroverted - B
+5. forthcoming - A, B
+6. communicative - A, B
+7. extraverted - B
+8. clubby - B
+9. introverted - A, B
+10. dry - A, B
+11. remote - A, B
+12. cheerful - B
+13. talkative - A, B
+14. clinical - B
+15. vivacious - B
+16. clubbable - B
+17. boon - 
+18. lively - B
+19. gregarious - B
+20. unsociable - A, B
+21. reserved - A, B
+22. standoffish - A, B
+23. timid - A, B
+24. animated - B
+25. distant - A, B
+26. outgoing - B
+27. shy - A, B
+28. offish - A, B
+29. antisocial - A, B
+30. convivial - B
+31. jovial - B
+32. aloof - A, B
+33. sociable - A, B
+34",03/05/26
+35,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: sociable, vivacious, cheerful, timid, gregarious, communicative, unsociable, withdrawn, unsocial, social, boon, shy, jovial, forthcoming, clubby, antisocial, clinical, outgoing, talkative, remote, silent, clubbable, distant, detached, animated, extroverted, dry, spirited, convivial, cool, reserved, offish, professional, standoffish, introverted, lively, asocial, aloof, jolly, extraverted","1. sociable - A, B
+2. vivacious - A, B
+3. cheerful - A, B
+4. timid - A, B
+5. gregarious - B, A
+6. communicative - A, B
+7. unsociable - B, A
+8. withdrawn - A, B
+9. unsocial - A, B
+10. social - A, B
+11. boon - A, B
+12. shy - A, B
+13. jovial - A, B
+14. forthcoming - A, B
+15. clubby - B, A
+16. antisocial - B, A
+17. clinical - A, B
+18. outgoing - B, A
+19. talkative - B, A
+20. remote - A, B
+21. silent - A, B
+22. clubbable - B, A
+23. distant - A, B
+24. detached - A, B
+25. animated - A, B
+26. extroverted - B, A
+27. dry - A, B
+28. spirited - A, B
+29. convivial - B, A
+30. cool - A, B
+",03/05/26
+36,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: withdrawn, jolly, extroverted, communicative, shy, convivial, dry, introverted, clinical, clubby, spirited, remote, silent, unsocial, antisocial, unsociable, extraverted, boon, outgoing, cheerful, asocial, vivacious, aloof, distant, timid, offish, detached, talkative, clubbable, gregarious, animated, lively, reserved, cool, sociable, professional, standoffish, forthcoming, jovial, social","1. withdrawn - A, B
+2. jolly - A, B
+3. extroverted - B, A
+4. communicative - A, B
+5. shy - A, B
+6. convivial - A, B
+7. dry - A, B
+8. introverted - A, B
+9. clinical - A, B
+10. clubby - A, B
+11. spirited - A, B
+12. remote - A, B
+13. silent - A, B
+14. unsocial - A, B
+15. antisocial - A, B
+16. unsociable - A, B
+17. extraverted - B, A
+18. boon - A, B
+19. outgoing - B, A
+20. cheerful - A, B
+21. asocial - A, B
+22. vivacious - A, B
+23. aloof - A, B
+24. distant - A, B
+25. timid - A, B
+26. offish - A, B
+27. detached - A, B
+28. talkative - B, A
+29. clubbable - A, B
+30. gregarious",03/05/26
+37,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: cheerful, asocial, offish, cool, extroverted, clubby, talkative, unsocial, sociable, dry, lively, social, antisocial, jolly, extraverted, clubbable, detached, aloof, distant, vivacious, reserved, professional, outgoing, forthcoming, convivial, boon, silent, unsociable, gregarious, introverted, timid, clinical, animated, withdrawn, jovial, shy, spirited, standoffish, remote, communicative","1. cheerful - A, B
+2. asocial - A, B
+3. offish - A, B
+4. cool - A, B
+5. extroverted - B, A
+6. clubby - A, B
+7. talkative - B, A
+8. unsocial - A, B
+9. sociable - B, A
+10. dry - A, B
+11. lively - A, B
+12. social - B, A
+13. antisocial - A, B
+14. jolly - A, B
+15. extraverted - B, A
+16. clubbable - A, B
+17. detached - A, B
+18. aloof - A, B
+19. distant - A, B
+20. vivacious - A, B
+21. reserved - A, B
+22. professional - A, B
+23. outgoing - B, A
+24. forthcoming - B, A
+25. convivial - A, B
+26. boon - (no equivalent in this list, this could be 'bueno' but 'bueno' is an adverb)
+27. silent - A, B
+28.",03/05/26
+38,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: jovial, clubbable, cool, clubby, convivial, silent, standoffish, clinical, introverted, social, asocial, cheerful, extroverted, reserved, professional, dry, distant, unsociable, unsocial, jolly, antisocial, timid, withdrawn, vivacious, lively, gregarious, talkative, forthcoming, remote, outgoing, animated, extraverted, communicative, spirited, shy, sociable, detached, boon, offish, aloof","Here are the adjectives with the chosen writers:
+
+1. jovial - A, B
+2. clubbable - A, B
+3. cool - B, A
+4. clubby - A, B
+5. convivial - A, B
+6. silent - B, A
+7. standoffish - B, A
+8. clinical - B, A
+9. introverted - A, B
+10. social - B, A
+11. asocial - A, B
+12. cheerful - B, A
+13. extroverted - A, B
+14. reserved - B, A
+15. professional - B, A
+16. dry - B, A
+17. distant - B, A
+18. unsociable - A, B
+19. unsocial - A, B
+20. jolly - B, A
+21. antisocial - A, B
+22. timid - A, B
+23. withdrawn - A, B
+24. vivacious - B, A
+25. lively - B, A
+26. gregarious - B, A
+27. talkative - B, A
+28. forthcoming - B, A
+29. remote -",03/05/26
+39,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: gregarious, lively, antisocial, clubby, silent, sociable, social, boon, distant, cheerful, communicative, unsociable, vivacious, jovial, offish, asocial, standoffish, detached, withdrawn, clinical, spirited, dry, introverted, cool, extraverted, clubbable, professional, outgoing, forthcoming, jolly, remote, extroverted, timid, animated, convivial, unsocial, talkative, shy, aloof, reserved","1. gregarious - A, B
+2. lively - A, B
+3. antisocial - B, A
+4. clubby - A, B
+5. silent - A, B
+6. sociable - B, A
+7. social - A, B
+8. boon - 
+9. distant - B, A
+10. cheerful - A, B
+11. communicative - A, B
+12. unsociable - B, A
+13. vivacious - A, B
+14. jovial - A, B
+15. offish - A, B
+16. asocial - B, A
+17. standoffish - B, A
+18. detached - A, B
+19. withdrawn - B, A
+20. clinical - A, B
+21. spirited - A, B
+22. dry - A, B
+23. introverted - B, A
+24. cool - B, A
+25. extraverted - A, B
+26. clubbable - A, B
+27. professional - A, B
+28. outgoing - B, A
+29. forthcoming - A, B
+30. jolly - A, B
+31",03/05/26
+40,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: reserved, introverted, offish, spirited, shy, extroverted, antisocial, social, communicative, jovial, animated, silent, unsocial, cheerful, jolly, forthcoming, cool, clubbable, outgoing, extraverted, remote, convivial, timid, detached, sociable, withdrawn, professional, clinical, talkative, dry, lively, asocial, unsociable, clubby, distant, aloof, gregarious, vivacious, boon, standoffish","1. reserved - A, B
+2. introverted - A, B
+3. offish - A
+4. spirited - B
+5. shy - A
+6. extroverted - B
+7. antisocial - A
+8. social - B
+9. communicative - B
+10. jovial - B
+11. animated - B
+12. silent - A
+13. unsocial - A
+14. cheerful - B
+15. jolly - B
+16. forthcoming - B
+17. cool - B
+18. clubbable - B
+19. outgoing - B
+20. extraverted - B
+21. remote - A
+22. convivial - B
+23. timid - A
+24. detached - A
+25. sociable - B
+26. withdrawn - A
+27. professional - B
+28. clinical - B
+29. talkative - B
+30. dry - B
+31. lively - B
+32. asocial - A
+33. unsociable - A
+34. clubby - B
+35. distant - A
+36. aloof - A
+37. gregarious - B
+38. vivacious - B
+39",03/05/26
+41,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: reserved, introverted, asocial, cool, gregarious, communicative, offish, antisocial, clinical, clubby, cheerful, outgoing, dry, unsocial, forthcoming, professional, boon, extroverted, convivial, aloof, extraverted, standoffish, silent, distant, withdrawn, social, jovial, clubbable, animated, lively, talkative, sociable, shy, jolly, vivacious, detached, unsociable, spirited, timid, remote","1. reserved - A, B
+2. introverted - A, B
+3. asocial - A, B
+4. cool - A, B
+5. gregarious - B, A
+6. communicative - B, A
+7. offish - A, B
+8. antisocial - A, B
+9. clinical - A, B
+10. clubby - B, A
+11. cheerful - A, B
+12. outgoing - B, A
+13. dry - A, B
+14. unsocial - A, B
+15. forthcoming - B, A
+16. professional - A, B
+17. boon - (no match)
+18. extroverted - B, A
+19. convivial - B, A
+20. aloof - A, B
+21. standoffish - A, B
+22. silent - A, B
+23. distant - A, B
+24. withdrawn - A, B
+25. social - B, A
+26. jovial - A, B
+27. clubbable - B, A
+28. animated - B, A
+29. lively - A, B
+30. talkative - B, A",03/05/26
+42,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: jolly, clubby, aloof, clubbable, boon, sociable, professional, detached, lively, distant, cool, jovial, communicative, convivial, forthcoming, extraverted, spirited, dry, remote, talkative, gregarious, cheerful, outgoing, unsocial, vivacious, extroverted, shy, introverted, clinical, offish, animated, antisocial, standoffish, asocial, social, reserved, timid, withdrawn, silent, unsociable","Here is the list with a writer chosen for each adjective:
+
+1. jolly - A, B
+2. clubby - A, B
+3. aloof - A, B
+4. clubbable - A, B
+5. boon - A
+6. sociable - B
+7. professional - B
+8. detached - A, B
+9. lively - A, B
+10. distant - A, B
+11. cool - A
+12. jovial - A, B
+13. communicative - B
+14. convivial - A, B
+15. forthcoming - B
+16. extraverted - A, B
+17. spirited - A, B
+18. dry - A, B
+19. remote - A, B
+20. talkative - B
+21. gregarious - B
+22. cheerful - A, B
+23. outgoing - A, B
+24. unsocial - A, B
+25. vivacious - A, B
+26. extroverted - A, B
+27. shy - A, B
+28. introverted - A, B
+29. clinical - B
+30. offish - A, B
+31. animated",03/05/26
+43,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: animated, forthcoming, sociable, gregarious, aloof, extraverted, convivial, timid, cool, jolly, professional, communicative, unsociable, vivacious, clinical, unsocial, standoffish, lively, outgoing, reserved, boon, social, talkative, antisocial, asocial, extroverted, jovial, detached, clubby, remote, silent, withdrawn, introverted, clubbable, spirited, shy, distant, cheerful, offish, dry","Here's the list with a writer assigned to each adjective:
+
+1. animated - A, B
+2. forthcoming - A, B
+3. sociable - A, B
+4. gregarious - B, 
+5. aloof - A, B
+6. extraverted - B, 
+7. convivial - A, 
+8. timid - B, 
+9. cool - B, 
+10. jolly - A, 
+11. professional - B, 
+12. communicative - A, B
+13. unsociable - A, B
+14. vivacious - A, B
+15. clinical - A, B
+16. unsocial - A, B
+17. standoffish - A, B
+18. lively - A, B
+19. outgoing - B, 
+20. reserved - A, 
+21. boon - (Boon is not typically an adjective, it's a noun or an archaic adjective. However, I'll proceed with the given list) 
+22. social - A, B
+23. talkative - A, B
+24. antisocial - B, 
+25. asocial - B, 
+26. extroverted - B, 
+27. jov",03/05/26
+44,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: silent, standoffish, convivial, reserved, antisocial, withdrawn, outgoing, clubby, social, offish, professional, gregarious, clinical, timid, detached, clubbable, remote, lively, extraverted, cool, aloof, jolly, animated, cheerful, sociable, unsocial, shy, introverted, spirited, distant, communicative, unsociable, talkative, dry, jovial, vivacious, extroverted, forthcoming, boon, asocial","Here's the list with the chosen writers:
+
+1. silent - A, B
+2. standoffish - A, B
+3. convivial - B, A
+4. reserved - A, B
+5. antisocial - A, B
+6. withdrawn - A, B
+7. outgoing - B, A
+8. clubby - B, A
+9. social - B, A
+10. offish - A, B
+11. professional - B, A
+12. gregarious - B, A
+13. clinical - B, A
+14. timid - A, B
+15. detached - A, B
+16. clubbable - B, A
+17. remote - A, B
+18. lively - B, A
+19. extraverted - B, A
+20. cool - B, A
+21. aloof - A, B
+22. jolly - B, A
+23. animated - B, A
+24. cheerful - B, A
+25. sociable - B, A
+26. unsocial - A, B
+27. shy - A, B
+28. introverted - A, B
+29. spirited - B, A
+",03/05/26
+45,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: standoffish, aloof, vivacious, unsociable, asocial, convivial, lively, talkative, gregarious, sociable, remote, forthcoming, withdrawn, introverted, professional, jolly, communicative, timid, jovial, boon, spirited, extroverted, silent, cool, clinical, distant, shy, offish, animated, social, reserved, cheerful, unsocial, extraverted, detached, clubby, outgoing, dry, clubbable, antisocial","1. standoffish - A, B
+2. aloof - A, B
+3. vivacious - A, B
+4. unsociable - A, B
+5. asocial - A, B
+6. convivial - B, A
+7. lively - A, B
+8. talkative - B, A
+9. gregarious - B, A
+10. sociable - B, A
+11. remote - A, B
+12. forthcoming - A, B
+13. withdrawn - A, B
+14. introverted - A, B
+15. professional - A, B
+16. jolly - A, B
+17. communicative - A, B
+18. timid - A, B
+19. jovial - A, B
+20. boon - A, B
+21. spirited - A, B
+22. extroverted - B, A
+23. silent - A, B
+24. cool - A, B
+25. clinical - A, B
+26. distant - A, B
+27. shy - A, B
+28. offish - A, B
+29. animated - A, B
+30. social - B,",03/05/26
+46,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: professional, extroverted, clubby, remote, silent, aloof, dry, talkative, convivial, timid, clinical, unsociable, forthcoming, cheerful, social, reserved, vivacious, jovial, boon, gregarious, introverted, communicative, spirited, detached, cool, shy, unsocial, sociable, outgoing, animated, antisocial, extraverted, clubbable, offish, distant, standoffish, jolly, asocial, withdrawn, lively","1. professional - A, B
+2. extroverted - A, B
+3. clubby - A, B
+4. remote - A, B
+5. silent - A, B
+6. aloof - A, B
+7. dry - A, B
+8. talkative - A, B
+9. convivial - A, B
+10. timid - A, B
+11. clinical - A, B
+12. unsociable - A, B
+13. forthcoming - A, B
+14. cheerful - A, B
+15. social - A, B
+16. reserved - A, B
+17. vivacious - A, B
+18. jovial - A, B
+19. boon - A, B
+20. gregarious - A, B
+21. introverted - A, B
+22. communicative - A, B
+23. spirited - A, B
+24. detached - A, B
+25. cool - A, B
+26. shy - A, B
+27. unsocial - A, B
+28. sociable - A, B
+29. outgoing - A, B
+30. animated - A, B
+",03/05/26
+47,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: jovial, asocial, cool, unsociable, clubby, lively, clinical, outgoing, convivial, remote, boon, withdrawn, aloof, dry, animated, reserved, cheerful, clubbable, extraverted, silent, talkative, detached, timid, forthcoming, professional, jolly, distant, vivacious, communicative, spirited, offish, introverted, extroverted, sociable, antisocial, unsocial, standoffish, shy, social, gregarious","jovial, A; asocial, B; cool, A; unsociable, B; clubby, A; lively, A; clinical, B; outgoing, A; convivial, A; remote, B; boon, A; withdrawn, B; aloof, B; dry, B; animated, A; reserved, B; cheerful, A; clubbable, A; extraverted, B; silent, B; talkative, B; detached, B; timid, B; forthcoming, A; professional, B; jolly, A; distant, B; vivacious, A; communicative, A; spirited, A; offish, B; introverted, B; extroverted, B; sociable, A; antisocial, B; unsocial, B; standoffish, B; shy, B; social, A; gregarious, A",03/05/26
+48,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: animated, outgoing, communicative, forthcoming, vivacious, lively, standoffish, withdrawn, extraverted, distant, spirited, sociable, jolly, antisocial, talkative, professional, remote, clubby, jovial, aloof, convivial, silent, unsociable, extroverted, gregarious, cheerful, boon, social, timid, shy, introverted, clubbable, offish, reserved, detached, cool, dry, asocial, unsocial, clinical","1. animated - A, B
+2. outgoing - A, B
+3. communicative - A, B
+4. forthcoming - A, B
+5. vivacious - A, B
+6. lively - A, B
+7. standoffish - A, B
+8. withdrawn - A, B
+9. extraverted - A, B
+10. distant - A, B
+11. spirited - A, B
+12. sociable - A, B
+13. jolly - A, B
+14. antisocial - A, B
+15. talkative - A, B
+16. professional - A, B
+17. remote - A, B
+18. clubby - A, B
+19. jovial - A, B
+20. aloof - A, B
+21. convivial - A, B
+22. silent - A, B
+23. unsociable - A, B
+24. extroverted - A, B
+25. gregarious - A, B
+26. cheerful - A, B
+27. boon - A, B
+28. social - A, B
+29. timid - A, B
+30. shy - A",03/05/26
+49,PS,MS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Peninsular Spanish and writer B uses Mexican Spanish. Put a comma after each writer. The adjectivess are: extraverted, jovial, cool, withdrawn, clubby, distant, offish, antisocial, clinical, communicative, aloof, spirited, shy, social, introverted, unsocial, unsociable, asocial, reserved, standoffish, animated, boon, extroverted, timid, talkative, vivacious, forthcoming, cheerful, remote, gregarious, clubbable, jolly, lively, professional, detached, sociable, dry, silent, outgoing, convivial","Here is the list with the chosen writers:
+
+1. extraverted - A, B
+2. jovial - A, B
+3. cool - B, A
+4. withdrawn - A, B
+5. clubby - A, B
+6. distant - A, B
+7. offish - A, B
+8. antisocial - B, A
+9. clinical - A, B
+10. communicative - B, A
+11. aloof - A, B
+12. spirited - A, B
+13. shy - A, B
+14. social - B, A
+15. introverted - A, B
+16. unsocial - A, B
+17. unsociable - A, B
+18. asocial - A, B
+19. reserved - A, B
+20. standoffish - A, B
+21. animated - B, A
+22. boon - A, B
+23. extroverted - B, A
+24. timid - A, B
+25. talkative - B, A
+26. vivacious - B, A
+27. forthcoming - B, A
+28. cheerful - A, B
+29. remote - A",03/05/26
+50,MS,PS,"Here is a list of adjectives. For each adjective, choose a writer - A o B - and write it next to the adjective without further explanation. Writer A uses Mexican Spanish and writer B uses Peninsular Spanish. Put a comma after each writer. The adjectivess are: sociable, introverted, shy, spirited, withdrawn, reserved, cool, vivacious, convivial, standoffish, clinical, boon, dry, silent, extraverted, extroverted, remote, forthcoming, offish, antisocial, gregarious, professional, timid, cheerful, animated, jolly, aloof, social, distant, unsociable, outgoing, communicative, talkative, jovial, lively, clubby, unsocial, asocial, detached, clubbable","1. sociable - A, B
+2. introverted - B, A
+3. shy - A, B
+4. spirited - B, A
+5. withdrawn - A, B
+6. reserved - B, A
+7. cool - B, A
+8. vivacious - A, B
+9. convivial - B, A
+10. standoffish - A, B
+11. clinical - B, A
+12. boon - A, B
+13. dry - B, A
+14. silent - A, B
+15. extraverted - B, A
+16. extroverted - A, B
+17. remote - A, B
+18. forthcoming - B, A
+19. offish - A, B
+20. antisocial - A, B
+21. gregarious - B, A
+22. professional - B, A
+23. timid - A, B
+24. cheerful - A, B
+25. animated - B, A
+26. jolly - A, B
+27. aloof - A, B
+28. social - B, A
+29. distant - A, B
+30. unsociable - A, B",03/05/26
