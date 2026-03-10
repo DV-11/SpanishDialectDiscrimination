@@ -1,1521 +1,1939 @@
 sen_id,A,B,prompt,response,date
-1,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: conversador, comunicativo, introverso, corto, introvertido, cerrado, sencillo, ardiente, misántropo, adusto, huraño, sociable, tratable, retraído, cauteloso, efusivo, abierto, tímido, cohibido, locuaz, cauto, expansivo, expresivo, vehemente, extravertido, esquivo, pasional, guardado, solitario, discreto, elocuente, extrovertido, acelerado, intenso, reservado, caluroso, huidizo, insociable, apasionado, vergonzoso","Aquí tienes la lista de adjetivos con los escritores A y B:
-
-1. conversador - A, B
-2. comunicativo - A, B
-3. introverso - A, B
-4. corto - A, B
-5. introvertido - A, B
-6. cerrado - A, B
-7. sencillo - A, B
-8. ardiente - A, B
-9. misántropo - A, B
-10. adusto - A, B
-11. huraño - A, B
-12. sociable - A, B
-13. tratable - A, B
-14. retraído - A, B
-15. cauteloso - A, B
-16. efusivo - A, B
-17. abierto - A, B
-18. tímido - A, B
-19. cohibido - A, B
-20. locuaz - A, B
-21. cauto - A, B
-22. expansivo - A, B
-23. expresivo - A, B
-24. vehemente - A, B
-25. extravertido - A, B
-26",03/05/26
-2,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: huraño, guardado, sociable, expansivo, cauteloso, cohibido, caluroso, discreto, tratable, cauto, vergonzoso, acelerado, solitario, esquivo, corto, reservado, insociable, conversador, extrovertido, intenso, elocuente, abierto, efusivo, introvertido, locuaz, comunicativo, cerrado, tímido, expresivo, pasional, ardiente, misántropo, vehemente, introverso, adusto, retraído, huidizo, extravertido, sencillo, apasionado","Aquí te presento la lista de adjetivos con el escritor correspondiente:
-
-1. huraño - A, B
-2. guardado - A, B
-3. sociable - B, A
-4. expansivo - B, A
-5. cauteloso - A, B
-6. cohibido - A, B
-7. caluroso - B, A
-8. discreto - A, B
-9. tratable - A, B
-10. cauto - A, B
-11. vergonzoso - A, B
-12. acelerado - B, A
-13. solitario - A, B
-14. esquivo - A, B
-15. corto - B, A
-16. reservado - A, B
-17. insociable - A, B
-18. conversador - B, A
-19. extrovertido - B, A
-20. intenso - A, B
-21. elocuente - B, A
-22. abierto - A, B
-23. efusivo - A, B
-24. introvertido - A, B
-25. locuaz - B, A",03/05/26
-3,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: vergonzoso, caluroso, esquivo, elocuente, reservado, acelerado, introvertido, adusto, huidizo, huraño, expansivo, expresivo, efusivo, discreto, introverso, extravertido, insociable, abierto, intenso, vehemente, comunicativo, solitario, tímido, locuaz, sociable, corto, pasional, cohibido, cerrado, misántropo, conversador, apasionado, ardiente, guardado, cauteloso, retraído, cauto, tratable, sencillo, extrovertido","Aquí tienes la lista con el escritor correspondiente para cada adjetivo:
-
-1. vergonzoso - A, B
-2. caluroso - B, A
-3. esquivo - A, B
-4. elocuente - A, B
-5. reservado - A, B
-6. acelerado - B, A
-7. introvertido - A, B
-8. adusto - A, B
-9. huidizo - B, A
-10. huraño - A, B
-11. expansivo - B, A
-12. expresivo - A, B
-13. efusivo - B, A
-14. discreto - A, B
-15. introverso - A, B
-16. extravertido - B, A
-17. insociable - A, B
-18. abierto - B, A
-19. intenso - A, B
-20. vehemente - B, A
-21. comunicativo - A, B
-22. solitario - A, B
-23. tímido - A, B
-24. locuaz - B, A
-25. sociable - B, A
-26",03/05/26
-4,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: ardiente, cauteloso, elocuente, pasional, discreto, corto, adusto, solitario, huidizo, guardado, abierto, extrovertido, vergonzoso, vehemente, sociable, locuaz, caluroso, conversador, misántropo, insociable, reservado, acelerado, expansivo, sencillo, intenso, apasionado, introverso, retraído, comunicativo, efusivo, cohibido, expresivo, cerrado, huraño, tratable, tímido, esquivo, introvertido, extravertido, cauto","Aquí te dejo la lista con los escritores:
+1,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: ardiente, caluroso, vehemente, tratable, reservado, cerrado, elocuente, introvertido, retraído, sencillo, solitario, acelerado, tímido, conversador, expresivo, misántropo, cohibido, apasionado, locuaz, sociable, adusto, huraño, comunicativo, corto, pasional, insociable, extrovertido, efusivo, vergonzoso, guardado, cauteloso, discreto, intenso, extravertido, introverso, esquivo, huidizo, abierto, expansivo, cauto","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
 
 1. Ardiente - A, B
-2. Cauteloso - A, B
-3. Elocuente - A, B
-4. Pasional - A, B
-5. Discreto - A, B
-6. Corto - A, B
-7. Adusto - A, B
-8. Solitario - A, B
-9. Huidizo - A, B
-10. Guardado - A, B
-11. Abierto - A, B
-12. Extrovertido - A, B
-13. Vergonzoso - A, B
-14. Vehemente - A, B
-15. Sociable - A, B
-16. Locuaz - A, B
-17. Caluroso - A, B
-18. Conversador - A, B
-19. Misántropo - A, B
-20. Insociable - A, B
-21. Reservado - A, B
-22. Acelerado - A, B
-23. Expansivo - A, B
-24. Sencillo - A, B
-25. Intenso - A,",03/05/26
-5,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: tímido, caluroso, intenso, apasionado, cauto, expansivo, elocuente, insociable, comunicativo, corto, extravertido, expresivo, sencillo, introverso, vergonzoso, cohibido, extrovertido, reservado, cauteloso, acelerado, conversador, esquivo, vehemente, cerrado, misántropo, ardiente, sociable, locuaz, introvertido, huidizo, guardado, retraído, pasional, efusivo, discreto, abierto, solitario, adusto, huraño, tratable","Aquí tienes la lista con los escritores correspondientes:
-
-1. tímido - A, B
-2. caluroso - B, A
-3. intenso - A, B
-4. apasionado - A, B
-5. cauto - A, B
-6. expansivo - B, A
-7. elocuente - A, B
-8. insociable - A, B
-9. comunicativo - B, A
-10. corto - A, B
-11. extravertido - B, A
-12. expresivo - A, B
-13. sencillo - A, B
-14. introverso - B, A
-15. vergonzoso - A, B
-16. cohibido - A, B
-17. extrovertido - B, A
-18. reservado - A, B
-19. cauteloso - A, B
-20. acelerado - B, A
-21. conversador - B, A
-22. esquivo - A, B
-23. vehemente - A, B
-24. cerrado - A, B
-25. misántropo - A, B
-26. ardiente",03/05/26
-6,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: huraño, expresivo, abierto, elocuente, cauto, caluroso, corto, vergonzoso, esquivo, locuaz, apasionado, misántropo, expansivo, sociable, sencillo, reservado, conversador, comunicativo, extravertido, vehemente, ardiente, pasional, tímido, huidizo, discreto, tratable, cauteloso, extrovertido, intenso, efusivo, insociable, cohibido, introvertido, adusto, acelerado, guardado, solitario, introverso, cerrado, retraído","Aquí te dejo la lista con los escritores A y B:
-
-1. huraño - Carlos Fuentes, Miguel Ángel González
-2. expresivo - Carlos Fuentes, Antonio Machado
-3. abierto - Carlos Fuentes, Miguel Ángel González
-4. elocuente - Carlos Fuentes, Antonio Machado
-5. cauto - Carlos Fuentes, Antonio Machado
-6. caluroso - Carlos Fuentes, Antonio Machado
-7. corto - Carlos Fuentes, Miguel Ángel González
-8. vergonzoso - Carlos Fuentes, Antonio Machado
-9. esquivo - Carlos Fuentes, Antonio Machado
-10. locuaz - Carlos Fuentes, Miguel Ángel González
-11. apasionado - Carlos Fuentes, Antonio Machado
-12. misántropo - Carlos Fuentes, Miguel Ángel González
-13. expansivo - Carlos Fuentes, Antonio Machado
-14. sociable - Carlos Fuentes, Miguel Ángel González
-15. sencillo - Carlos Fuentes, Antonio Machado
-16. reservado - Carlos Fuentes, Miguel Ángel González
-17. convers",03/05/26
-7,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: conversador, expansivo, comunicativo, retraído, esquivo, acelerado, expresivo, tratable, sociable, corto, cohibido, vergonzoso, introverso, apasionado, abierto, extrovertido, caluroso, pasional, tímido, extravertido, huidizo, discreto, vehemente, cerrado, sencillo, ardiente, adusto, efusivo, elocuente, guardado, locuaz, insociable, reservado, intenso, solitario, huraño, cauto, misántropo, introvertido, cauteloso","Aquí te presento la lista de adjetivos con el escritor correspondiente:
-
-1. conversador - A, B
-2. expansivo - B
-3. comunicativo - B
-4. retraído - A
-5. esquivo - A
-6. acelerado - B
-7. expresivo - B
-8. tratable - A
-9. sociable - B
-10. corto - A
-11. cohibido - A
-12. vergonzoso - A
-13. introverso - A
-14. apasionado - B
-15. abierto - B
-16. extrovertido - B
-17. caluroso - B
-18. pasional - B
-19. tímido - A
-20. extravertido - B
-21. huidizo - A
-22. discreto - B
-23. vehemente - B
-24. cerrado - A
-25. sencillo - B
-26. ardiente - B
-27. adusto - A
-28. efusivo - B
-29. elocuente - A
-30. guardado - A
-31. locuaz - B
-32. ins",03/05/26
-8,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: abierto, reservado, discreto, ardiente, tratable, intenso, extravertido, insociable, cauto, retraído, apasionado, elocuente, comunicativo, introvertido, expansivo, corto, introverso, huraño, sencillo, misántropo, huidizo, caluroso, extrovertido, cerrado, adusto, cauteloso, esquivo, locuaz, solitario, cohibido, guardado, tímido, acelerado, conversador, vergonzoso, expresivo, pasional, vehemente, sociable, efusivo","Aquí tienes la lista con los escritores A y B:
-
-abierto - A, B
-reservado - A, B
-discreto - A, B
-ardiente - B
-tratable - A
-intenso - B
-extravertido - A
-insociable - B
-cauto - A, B
-retraído - A
-apasionado - B
-elocuente - B
-comunicativo - B
-introvertido - A
-expansivo - B
-corto - B
-introverso - A
-huraño - B
-sencillo - B
-misántropo - B
-huidizo - B
-caluroso - B
-extrovertido - A
-cerrado - A
-adusto - B
-cauteloso - A, B
-esquivo - B
-locuaz - B
-solitario - B
-cohibido - A
-guardado - A
-tímido - A
-acelerado - B
-conversador - B
-vergonzoso - B
-expresivo - B
-pasional - B
-vehemente - B
-sociable - B
-efusivo -",03/05/26
-9,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cerrado, intenso, caluroso, vergonzoso, acelerado, huraño, vehemente, apasionado, adusto, cohibido, solitario, expansivo, cauteloso, tratable, cauto, introverso, pasional, introvertido, esquivo, tímido, abierto, insociable, discreto, huidizo, retraído, ardiente, misántropo, corto, conversador, sociable, expresivo, elocuente, sencillo, reservado, extravertido, locuaz, efusivo, guardado, extrovertido, comunicativo","Aquí te dejo la lista con los escritores seleccionados:
-
-cerrado - A, B
-intenso - B
-caluroso - A
-vergonzoso - B
-acelerado - A
-huraño - B
-vehemente - A
-apasionado - B
-adusto - A
-cohibido - B
-solitario - A
-expansivo - B
-cauteloso - A
-tratable - B
-cauto - A
-introverso - B
-pasional - A
-introvertido - B
-esquivo - A
-tímido - B
-abierto - B
-insociable - A
-discreto - B
-huidizo - A
-retraído - B
-ardiente - A
-misántropo - B
-corto - A
-conversador - B
-sociable - B
-expresivo - A
-elocuente - B
-sencillo - A
-reservado - B
-extravertido - B
-locuaz - B
-efusivo - B
-guardado - A
-extrovertido - B
-comunicativo - B",03/05/26
-10,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: pasional, vergonzoso, cohibido, misántropo, sociable, sencillo, huidizo, locuaz, conversador, introvertido, reservado, corto, caluroso, guardado, esquivo, ardiente, adusto, abierto, retraído, intenso, apasionado, huraño, elocuente, tímido, discreto, expresivo, cauto, insociable, extravertido, solitario, extrovertido, cerrado, comunicativo, efusivo, vehemente, introverso, cauteloso, expansivo, acelerado, tratable","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. Pasional - A, B
-2. Vergonzoso - A
-3. Cohibido - A
-4. Misántropo - A
-5. Sociable - B
-6. Sencillo - A
-7. Huidizo - A
-8. Locuaz - B
-9. Conversador - B
-10. Introvertido - B
-11. Reservado - B
-12. Corto - A
-13. Caluroso - B
-14. Guardado - A
-15. Esquivo - A
-16. Ardiente - B
-17. Adusto - B
-18. Abierto - B
-19. Retraído - A
-20. Intenso - B
-21. Apasionado - B
+2. Caluroso - B
+3. Vehemente - A, B
+4. Tratable - B
+5. Reservado - A
+6. Cerrado - A
+7. Elocuente - A
+8. Introvertido - A
+9. Retraído - A
+10. Sencillo - B
+11. Solitario - A
+12. Acelerado - B
+13. Tímido - A
+14. Conversador - B
+15. Expresivo - B
+16. Misántropo - A
+17. Cohibido - A
+18. Apasionado - B
+19. Locuaz - B
+20. Sociable - B
+21. Adusto - A
 22. Huraño - A
-23. Elocuente - B
-24. Tímido - B
-25. Discreto - B
-26. Expresivo - B
-27. Cauteloso - B
-28. Insociable - A
-29. Extravertido - B
-30. Solitario - A
-31",03/05/26
-11,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: extrovertido, huraño, expansivo, tratable, pasional, introverso, apasionado, esquivo, efusivo, intenso, cauteloso, elocuente, reservado, introvertido, solitario, insociable, guardado, vehemente, tímido, corto, vergonzoso, cauto, cerrado, sencillo, acelerado, extravertido, retraído, expresivo, cohibido, ardiente, locuaz, misántropo, discreto, caluroso, huidizo, sociable, conversador, abierto, adusto, comunicativo","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+23. Comunicativo - B
+24. Corto - A
+25. Pasional - B
+26. Insociable - A
+27. Extrovertido - B
+28. Efusivo - B
+29. Vergonzoso - A
+30. Guardado - A
+31. Cauteloso - A
+32. Discreto - A
+33. Intenso - A
+34. Extravertido - B
+35. Introverso - A
+36. Esquivo - A
+37. Huidizo - A
+38. Abierto - B
+39. Expansivo - B
+40. Cauteloso - A",03/10/26
+2,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: acelerado, cauteloso, introverso, vergonzoso, cohibido, extrovertido, tratable, intenso, huidizo, locuaz, efusivo, ardiente, abierto, sencillo, comunicativo, vehemente, corto, pasional, caluroso, expansivo, adusto, apasionado, extravertido, elocuente, conversador, cauto, esquivo, huraño, misántropo, guardado, tímido, introvertido, retraído, insociable, sociable, discreto, reservado, cerrado, solitario, expresivo","Acelerado, A; cauteloso, B; introverso, A; vergonzoso, B; cohibido, A; extrovertido, B; tratable, A; intenso, B; huidizo, A; locuaz, B; efusivo, B; ardiente, A; abierto, B; sencillo, A; comunicativo, B; vehemente, A; corto, B; pasional, A; caluroso, B; expansivo, A; adusto, B; apasionado, A; extravertido, B; elocuente, A; conversador, B; cauto, A; esquivo, B; huraño, A; misántropo, B; guardado, A; tímido, A; introvertido, A; retraído, A; insociable, B; sociable, B; discreto, A; reservado, B; cerrado, A; solitario, A; expresivo, B.",03/10/26
+3,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: abierto, caluroso, cauteloso, elocuente, extrovertido, corto, acelerado, solitario, sencillo, extravertido, adusto, reservado, vergonzoso, expresivo, apasionado, esquivo, misántropo, comunicativo, cohibido, pasional, cauto, introverso, intenso, retraído, locuaz, ardiente, efusivo, tratable, guardado, vehemente, insociable, cerrado, conversador, tímido, introvertido, expansivo, huidizo, discreto, huraño, sociable","Aquí te presento la lista con el escritor correspondiente a cada adjetivo:
 
-1. extrovertido - A, B
-2. huraño - A
-3. expansivo - B
-4. tratable - A
-5. pasional - B
-6. introverso - A
-7. apasionado - B
-8. esquivo - A
-9. efusivo - B
-10. intenso - A
-11. cauteloso - B
-12. elocuente - A
-13. reservado - B
-14. introvertido - A
-15. solitario - B
-16. insociable - A
-17. guardado - B
-18. vehemente - A
-19. tímido - B
-20. corto - A
-21. vergonzoso - B
-22. cauto - A
-23. cerrado - B
-24. sencillo - A
-25. acelerado - B
-26. extravertido - A
-27. retraído - B
-28. expresivo - A
-29. cohibido - B
-30. ardiente - A
-31. locuaz - B",03/05/26
-12,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, guardado, expansivo, extrovertido, adusto, huidizo, solitario, pasional, introvertido, sociable, cerrado, cohibido, discreto, cauto, introverso, efusivo, abierto, intenso, tímido, comunicativo, extravertido, acelerado, huraño, tratable, vehemente, esquivo, apasionado, reservado, sencillo, misántropo, ardiente, vergonzoso, insociable, corto, retraído, elocuente, caluroso, conversador, locuaz, expresivo","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
-
-1. cauteloso - A, B
-2. guardado - A, B
-3. expansivo - A, B
-4. extrovertido - A, B
-5. adusto - B, A
-6. huidizo - A, B
-7. solitario - A, B
-8. pasional - A, B
-9. introvertido - A, B
-10. sociable - A, B
-11. cerrado - A, B
-12. cohibido - A, B
-13. discreto - A, B
-14. cauto - A, B
-15. introverso - A, B
-16. efusivo - B, A
-17. abierto - A, B
-18. intenso - A, B
-19. tímido - A, B
-20. comunicativo - A, B
-21. extravertido - A, B
-22. acelerado - B, A
-23. huraño - A, B
-24. tratable - A, B
-25. vehemente - A, B
-",03/05/26
-13,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: corto, acelerado, tratable, cohibido, vehemente, expresivo, esquivo, extravertido, extrovertido, introverso, huidizo, insociable, reservado, adusto, sociable, misántropo, locuaz, caluroso, cauto, cauteloso, cerrado, discreto, guardado, pasional, conversador, comunicativo, vergonzoso, abierto, tímido, expansivo, ardiente, elocuente, huraño, intenso, introvertido, efusivo, apasionado, solitario, retraído, sencillo","Aquí te dejo la lista con el escritor correspondiente a cada adjetivo:
-
-1. corto - A, B
-2. acelerado - A
-3. tratable - B
-4. cohibido - A
-5. vehemente - B
-6. expresivo - A
-7. esquivo - B
-8. extravertido - B
-9. extrovertido - B
-10. introverso - A
-11. huidizo - B
-12. insociable - A
-13. reservado - A
-14. adusto - A
-15. sociable - B
-16. misántropo - A
-17. locuaz - B
-18. caluroso - B
-19. cauto - A
-20. cauteloso - B
-21. cerrado - A
-22. discreto - A
-23. guardado - A
-24. pasional - B
-25. conversador - B
-26. comunicativo - B
-27. vergonzoso - B
-28. abierto - B
-29. tímido - A
-30. expansivo - B
-31. ardiente - B
-32. elocu",03/05/26
-14,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: adusto, corto, huidizo, retraído, cauto, sociable, vergonzoso, introvertido, solitario, extrovertido, abierto, expresivo, tímido, insociable, expansivo, esquivo, apasionado, cerrado, acelerado, comunicativo, huraño, extravertido, pasional, tratable, intenso, misántropo, vehemente, ardiente, discreto, sencillo, caluroso, efusivo, elocuente, guardado, cohibido, cauteloso, locuaz, conversador, introverso, reservado","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. adusto - A, B
-2. corto - A, B
-3. huidizo - A, B
-4. retraído - A, B
-5. cauto - A, B
-6. sociable - A, B
-7. vergonzoso - A, B
-8. introvertido - A, B
-9. solitario - A, B
-10. extrovertido - A, B
-11. abierto - A, B
-12. expresivo - A, B
-13. tímido - A, B
-14. insociable - A, B
-15. expansivo - A, B
+1. abierto - A, B
+2. caluroso - B
+3. cauteloso - A, B
+4. elocuente - A, B
+5. extrovertido - B
+6. corto - A, B
+7. acelerado - A, B
+8. solitario - A, B
+9. sencillo - A, B
+10. extravertido - B
+11. adusto - A
+12. reservado - A, B
+13. vergonzoso - B
+14. expresivo - A, B
+15. apasionado - A, B
 16. esquivo - A, B
-17. apasionado - A, B
-18. cerrado - A, B
-19. acelerado - A, B
-20. comunicativo - A, B
-21. huraño - A, B
-22. extravertido - A, B
-23. pasional - A, B
-24. tratable - A, B
-25. intenso - A, B
-",03/05/26
-15,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: esquivo, introvertido, pasional, extravertido, vehemente, expresivo, reservado, sociable, introverso, retraído, conversador, expansivo, tímido, abierto, ardiente, extrovertido, huidizo, elocuente, intenso, acelerado, guardado, misántropo, discreto, comunicativo, sencillo, adusto, cohibido, vergonzoso, locuaz, insociable, huraño, corto, cauteloso, caluroso, apasionado, efusivo, cerrado, cauto, tratable, solitario","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. esquivo - A, B
-2. introvertido - A, B
-3. pasional - B, A
-4. extravertido - B, A
-5. vehemente - A, B
-6. expresivo - B, A
-7. reservado - A, B
-8. sociable - B, A
-9. introverso - A, B
-10. retraído - A, B
-11. conversador - B, A
-12. expansivo - B, A
-13. tímido - A, B
-14. abierto - A, B
-15. ardiente - B, A
-16. extrovertido - B, A
-17. huidizo - A, B
-18. elocuente - A, B
-19. intenso - B, A
-20. acelerado - A, B
-21. guardado - A, B
-22. misántropo - A, B
-23. discreto - A, B
-24. comunicativo - B, A
-25. sencillo - A, B
-",03/05/26
-16,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: solitario, pasional, insociable, cauteloso, huidizo, sencillo, adusto, caluroso, discreto, conversador, ardiente, vehemente, huraño, introvertido, extrovertido, intenso, introverso, cohibido, extravertido, retraído, tratable, apasionado, cauto, sociable, expresivo, abierto, vergonzoso, acelerado, cerrado, locuaz, tímido, misántropo, guardado, comunicativo, elocuente, expansivo, reservado, esquivo, efusivo, corto","Aquí tienes la lista de adjetivos con los escritores correspondientes:
-
-1. Solitario - A, B
-2. Pasional - A, B
-3. Insociable - A
-4. Cauteloso - B
-5. Huidizo - A
-6. Sencillo - B
-7. Adusto - A
-8. Caluroso - B
-9. Discreto - B
-10. Conversador - B
-11. Ardiente - A
-12. Vehemente - A
-13. Huraño - A
-14. Introvertido - A
-15. Extrovertido - B
-16. Intenso - A
-17. Introverso - A
-18. Cohibido - A
-19. Extravertido - B
-20. Retraído - A
-21. Tratable - B
-22. Apasionado - A
-23. Cauta - B
-24. Sociable - B
-25. Expresivo - B
-26. Abierto - B
-27. Vergonzoso - A
-28. Acelerado - B
-29. Cerrado - A
-30. Locuaz -",03/05/26
-17,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, expresivo, acelerado, sencillo, abierto, ardiente, sociable, expansivo, cerrado, vehemente, insociable, introverso, huraño, caluroso, adusto, misántropo, solitario, introvertido, intenso, corto, efusivo, comunicativo, tímido, retraído, huidizo, apasionado, vergonzoso, esquivo, guardado, locuaz, elocuente, conversador, cauto, cohibido, tratable, extravertido, extrovertido, reservado, discreto, pasional","Aquí tienes la lista de adjetivos con el escritor correspondiente:
-
-1. cauteloso - A, B
-2. expresivo - B
-3. acelerado - A
-4. sencillo - B
-5. abierto - A
-6. ardiente - B
-7. sociable - A
-8. expansivo - B
-9. cerrado - A
-10. vehemente - B
-11. insociable - A
-12. introverso - B
-13. huraño - A
-14. caluroso - B
-15. adusto - A
-16. misántropo - B
-17. solitario - A
-18. introvertido - B
-19. intenso - A
-20. corto - B
-21. efusivo - A
-22. comunicativo - B
-23. tímido - A
-24. retraído - B
-25. huidizo - A
-26. apasionado - B
-27. vergonzoso - A
-28. esquivo - B
-29. guardado - A
-30. locuaz - B
-31. elocuente - A
-32.",03/05/26
-18,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: locuaz, cauteloso, insociable, adusto, apasionado, pasional, elocuente, expansivo, introvertido, cohibido, expresivo, tímido, esquivo, vehemente, retraído, sociable, tratable, discreto, huidizo, efusivo, intenso, ardiente, vergonzoso, cerrado, extrovertido, guardado, misántropo, reservado, abierto, solitario, corto, extravertido, sencillo, cauto, comunicativo, acelerado, conversador, huraño, caluroso, introverso","Aquí te presento la lista de adjetivos con los escritores A y B:
-
-1. locuaz - A, B
-2. cauteloso - A, B
-3. insociable - A, B
-4. adusto - A, B
-5. apasionado - B, A
-6. pasional - A, B
-7. elocuente - A, B
-8. expansivo - A, B
-9. introvertido - A, B
-10. cohibido - A, B
-11. expresivo - A, B
-12. tímido - A, B
-13. esquivo - A, B
-14. vehemente - A, B
-15. retraído - A, B
-16. sociable - B, A
-17. tratable - B, A
-18. discreto - B, A
-19. huidizo - A, B
-20. efusivo - B, A
-21. intenso - A, B
-22. ardiente - A, B
-23. vergonzoso - B, A
-24. cerrado - A, B
-25. extrovertido - B,",03/05/26
-19,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: introvertido, huidizo, reservado, acelerado, insociable, cauteloso, pasional, extravertido, introverso, vehemente, extrovertido, solitario, ardiente, elocuente, conversador, esquivo, cerrado, expansivo, tímido, cauto, apasionado, intenso, guardado, efusivo, huraño, caluroso, tratable, sencillo, retraído, sociable, abierto, vergonzoso, expresivo, corto, adusto, cohibido, discreto, locuaz, misántropo, comunicativo","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
-
-1. introvertido - A, B
-2. huidizo - B
-3. reservado - A
-4. acelerado - B
-5. insociable - A
-6. cauteloso - B
-7. pasional - B
-8. extravertido - B
-9. introverso - A
-10. vehemente - B
-11. extrovertido - B
-12. solitario - A
-13. ardiente - B
-14. elocuente - A
-15. conversador - B
-16. esquivo - A
-17. cerrado - A
-18. expansivo - B
-19. tímido - A
-20. cauto - B
-21. apasionado - B
-22. intenso - B
-23. guardado - A
-24. efusivo - B
-25. huraño - A
-26. caluroso - B
-27. tratable - A
-28. sencillo - A
-29. retraído - A
-30. sociable - B
-31. abierto - B
-",03/05/26
-20,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: introverso, esquivo, cohibido, introvertido, conversador, reservado, vergonzoso, extravertido, sociable, caluroso, huidizo, efusivo, expansivo, vehemente, expresivo, ardiente, intenso, locuaz, huraño, insociable, tratable, pasional, solitario, extrovertido, elocuente, misántropo, tímido, discreto, comunicativo, adusto, sencillo, acelerado, cauteloso, cerrado, retraído, apasionado, cauto, abierto, guardado, corto","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
-
-1. introverso - A, B
-2. esquivo - B
-3. cohibido - A
-4. introvertido - B
-5. conversador - A
-6. reservado - B
-7. vergonzoso - A
-8. extravertido - B
-9. sociable - A
-10. caluroso - B
-11. huidizo - B
-12. efusivo - B
-13. expansivo - B
-14. vehemente - A
-15. expresivo - B
-16. ardiente - A
-17. intenso - B
-18. locuaz - B
-19. huraño - A
-20. insociable - B
-21. tratable - A
-22. pasional - A
-23. solitario - B
-24. extrovertido - B
-25. elocuente - A
-26. misántropo - A
-27. tímido - B
-28. discreto - B
-29. comunicativo - A
-30. adusto - B
-31. sencillo - A
-",03/05/26
-21,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: extrovertido, huraño, huidizo, corto, caluroso, acelerado, ardiente, retraído, elocuente, cohibido, comunicativo, discreto, locuaz, expansivo, vehemente, efusivo, conversador, insociable, sociable, introvertido, vergonzoso, adusto, guardado, sencillo, cerrado, intenso, tímido, apasionado, introverso, abierto, extravertido, expresivo, solitario, reservado, cauteloso, esquivo, cauto, tratable, misántropo, pasional","Aquí te dejo la lista con los escritores A y B:
-
-1. extrovertido - A, B
-2. huraño - A
-3. huidizo - B
-4. corto - A
-5. caluroso - B
-6. acelerado - A
-7. ardiente - B
-8. retraído - A
-9. elocuente - B
-10. cohibido - A
-11. comunicativo - B
-12. discreto - A
-13. locuaz - B
-14. expansivo - A
-15. vehemente - B
-16. efusivo - B
-17. conversador - B
-18. insociable - A
-19. sociable - B
-20. introvertido - A
-21. vergonzoso - A
-22. adusto - A
-23. guardado - A
-24. sencillo - B
-25. cerrado - A
-26. intenso - B
-27. tímido - A
-28. apasionado - B
-29. introverso - A
-30. abierto - B
-31. extravertido - B
-32. expres",03/05/26
-22,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: comunicativo, efusivo, adusto, extravertido, locuaz, sociable, retraído, corto, guardado, cohibido, insociable, conversador, misántropo, vehemente, esquivo, sencillo, abierto, discreto, caluroso, huraño, tratable, solitario, elocuente, intenso, vergonzoso, cauteloso, huidizo, expansivo, extrovertido, pasional, cauto, acelerado, tímido, introvertido, apasionado, ardiente, expresivo, introverso, reservado, cerrado","Aquí tienes la lista de adjetivos con los escritores correspondientes:
-
-1. comunicativo - A, B
-2. efusivo - A, B
-3. adusto - B
-4. extravertido - B
-5. locuaz - A
-6. sociable - A
-7. retraído - A
-8. corto - B
-9. guardado - B
-10. cohibido - A
-11. insociable - B
-12. conversador - A
-13. misántropo - B
-14. vehemente - B
-15. esquivo - B
-16. sencillo - B
-17. abierto - A
-18. discreto - B
-19. caluroso - A
-20. huraño - B
-21. tratable - A
-22. solitario - A
-23. elocuente - B
-24. intenso - B
-25. vergonzoso - A
-26. cauteloso - B
-27. huidizo - B
-28. expansivo - A
-29. extrovertido - B
-30. pasional - A
-31. cauto - B
-",03/05/26
-23,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: introvertido, introverso, reservado, esquivo, pasional, intenso, sencillo, cauteloso, elocuente, ardiente, conversador, huidizo, apasionado, extravertido, discreto, acelerado, expansivo, misántropo, insociable, retraído, adusto, efusivo, huraño, cerrado, expresivo, extrovertido, tímido, caluroso, solitario, comunicativo, cohibido, abierto, corto, guardado, tratable, vergonzoso, sociable, cauto, vehemente, locuaz","Aquí te presento la lista con los escritores correspondientes a cada adjetivo:
-
-1. introvertido - A, B
-2. introverso - A, B
-3. reservado - A, B
-4. esquivo - B, A
-5. pasional - B, A
-6. intenso - A, B
-7. sencillo - A, B
-8. cauteloso - A, B
-9. elocuente - A, B
-10. ardiente - B, A
-11. conversador - B, A
-12. huidizo - B, A
-13. apasionado - B, A
-14. extravertido - B, A
-15. discreto - A, B
-16. acelerado - B, A
-17. expansivo - B, A
-18. misántropo - A, B
-19. insociable - A, B
-20. retraído - A, B
-21. adusto - A, B
-22. efusivo - B, A
-23. huraño - A, B
-24. cerrado - A, B
-25. expresivo -",03/05/26
-24,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: introverso, expresivo, caluroso, cauteloso, conversador, retraído, abierto, misántropo, efusivo, sencillo, expansivo, vergonzoso, acelerado, locuaz, cohibido, solitario, reservado, sociable, comunicativo, huraño, guardado, corto, ardiente, discreto, extravertido, vehemente, huidizo, elocuente, apasionado, insociable, cauto, pasional, extrovertido, introvertido, tratable, cerrado, adusto, intenso, tímido, esquivo","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. introverso - A, B
-2. expresivo - B, A
-3. caluroso - B, A
-4. cauteloso - A, B
-5. conversador - B, A
-6. retraído - A, B
-7. abierto - A, B
-8. misántropo - A, B
-9. efusivo - B, A
-10. sencillo - A, B
-11. expansivo - B, A
-12. vergonzoso - A, B
-13. acelerado - B, A
-14. locuaz - B, A
-15. cohibido - A, B
-16. solitario - A, B
-17. reservado - A, B
-18. sociable - B, A
-19. comunicativo - B, A
-20. huraño - A, B
-21. guardado - A, B
-22. corto - A, B
-23. ardiente - B, A
-24. discreto - A, B
-25. extravertido - B",03/05/26
-25,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: locuaz, guardado, huraño, expresivo, efusivo, conversador, ardiente, cerrado, vergonzoso, elocuente, insociable, comunicativo, discreto, extrovertido, apasionado, huidizo, misántropo, acelerado, corto, introverso, esquivo, tímido, expansivo, adusto, caluroso, retraído, pasional, abierto, cohibido, tratable, sencillo, extravertido, intenso, reservado, introvertido, sociable, cauto, cauteloso, vehemente, solitario","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
-
-1. locuaz - A, B
-2. guardado - A, B
-3. huraño - A, B
-4. expresivo - A, B
-5. efusivo - B, A
-6. conversador - A, B
-7. ardiente - B, A
-8. cerrado - A, B
-9. vergonzoso - A, B
-10. elocuente - A, B
-11. insociable - A, B
-12. comunicativo - A, B
-13. discreto - A, B
-14. extrovertido - B, A
-15. apasionado - B, A
-16. huidizo - A, B
 17. misántropo - A, B
-18. acelerado - A, B
-19. corto - A, B
-20. introverso - B, A
-21. esquivo - A, B
-22. tímido - A, B
-23. expansivo - B, A
-24. adusto - A, B
-25. caluroso - A",03/05/26
-26,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: ardiente, reservado, discreto, huidizo, extrovertido, esquivo, expresivo, adusto, tímido, corto, insociable, elocuente, vergonzoso, extravertido, apasionado, locuaz, acelerado, guardado, tratable, caluroso, misántropo, sociable, conversador, retraído, comunicativo, huraño, intenso, cauteloso, cerrado, pasional, efusivo, expansivo, introvertido, sencillo, cauto, solitario, vehemente, cohibido, abierto, introverso","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. Ardiente - A, B
-2. Reservado - A, B
-3. Discreto - A, B
-4. Huidizo - A
-5. Extrovertido - B
-6. Esquivo - A
-7. Expresivo - B
-8. Adusto - A
-9. Tímido - A
-10. Corto - B
-11. Insociable - A
-12. Elocuente - B
-13. Vergonzoso - A
-14. Extravertido - B
-15. Apasionado - A
-16. Locuaz - B
-17. Acelerado - B
-18. Guardado - A
-19. Tratable - B
-20. Caluroso - B
-21. Misántropo - A
-22. Sociable - B
-23. Conversador - B
-24. Retraído - A
-25. Comunicativo - B
-26. Huraño - A
-27. Intenso - B
-28. Cauteloso - A
-29. Cerrado - A
-30. Pas",03/05/26
-27,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: expresivo, introvertido, cohibido, solitario, sencillo, apasionado, tratable, reservado, intenso, vergonzoso, expansivo, elocuente, locuaz, sociable, adusto, comunicativo, discreto, esquivo, vehemente, introverso, corto, tímido, cauteloso, efusivo, abierto, extravertido, insociable, guardado, extrovertido, huidizo, acelerado, cerrado, misántropo, ardiente, retraído, conversador, caluroso, pasional, huraño, cauto","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
-
-1. expresivo - A, B
-2. introvertido - A, B
-3. cohibido - A, B
-4. solitario - A, B
-5. sencillo - A, B
-6. apasionado - A, B
-7. tratable - A, B
-8. reservado - A, B
-9. intenso - A, B
-10. vergonzoso - A, B
-11. expansivo - A, B
-12. elocuente - A, B
-13. locuaz - A, B
-14. sociable - A, B
-15. adusto - A, B
-16. comunicativo - A, B
-17. discreto - A, B
-18. esquivo - A, B
-19. vehemente - A, B
-20. introverso - A, B
-21. corto - A, B
-22. tímido - A, B
-23. cauteloso - A, B
-24. efusivo - A, B
-25. abierto - A, B
-26.",03/05/26
-28,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: comunicativo, expansivo, conversador, vehemente, vergonzoso, guardado, introverso, retraído, esquivo, pasional, apasionado, expresivo, cauteloso, acelerado, sociable, tímido, huraño, discreto, extrovertido, huidizo, sencillo, adusto, misántropo, solitario, intenso, ardiente, cerrado, efusivo, introvertido, locuaz, insociable, cauto, abierto, reservado, extravertido, caluroso, cohibido, corto, tratable, elocuente","Aquí te dejo la lista con los escritores A y B:
-
-1. comunicativo - A, B
-2. expansivo - A
-3. conversador - A
-4. vehemente - A
-5. vergonzoso - B
-6. guardado - A
-7. introverso - B
-8. retraído - B
-9. esquivo - B
-10. pasional - A
-11. apasionado - B
-12. expresivo - A
-13. cauteloso - B
-14. acelerado - B
-15. sociable - A
-16. tímido - B
-17. huraño - B
-18. discreto - B
-19. extrovertido - A
-20. huidizo - B
-21. sencillo - A
-22. adusto - B
-23. misántropo - B
-24. solitario - A
-25. intenso - B
-26. ardiente - A
-27. cerrado - B
-28. efusivo - A
-29. introvertido - B
-30. locuaz - A
+18. comunicativo - B
+19. cohibido - B
+20. pasional - A, B
+21. cauto - A, B
+22. introverso - B
+23. intenso - A, B
+24. retraído - B
+25. locuaz - B
+26. ardiente - A, B
+27. efusivo - B
+28. tratable - B
+29. guardado - A
+30. vehemente - A, B
 31. insociable - B
-32. ca",03/05/26
-29,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: reservado, cauteloso, introverso, acelerado, vergonzoso, insociable, elocuente, misántropo, adusto, ardiente, locuaz, discreto, conversador, caluroso, expresivo, abierto, pasional, huidizo, solitario, tímido, huraño, expansivo, efusivo, apasionado, tratable, introvertido, retraído, extrovertido, sencillo, cohibido, vehemente, esquivo, cerrado, guardado, comunicativo, sociable, cauto, corto, intenso, extravertido","Aquí tienes la lista con los escritores correspondientes a cada adjetivo:
-
-1. reservado - A, B
-2. cauteloso - A, B
-3. introverso - A, B
-4. acelerado - B
-5. vergonzoso - A
-6. insociable - A
-7. elocuente - A
-8. misántropo - A
-9. adusto - A
-10. ardiente - B
-11. locuaz - B
-12. discreto - A, B
-13. conversador - B
-14. caluroso - B
-15. expresivo - B
-16. abierto - B
-17. pasional - B
-18. huidizo - A
-19. solitario - A
-20. tímido - A
-21. huraño - A
-22. expansivo - B
-23. efusivo - B
-24. apasionado - B
-25. tratable - B
-26. introvertido - A
-27. retraído - A
-28. extrovertido - B
-29. sencillo - B
-30. cohibido - A",03/05/26
-30,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: apasionado, huidizo, pasional, sencillo, acelerado, cohibido, retraído, extrovertido, reservado, expresivo, expansivo, caluroso, introvertido, sociable, cauteloso, adusto, corto, solitario, intenso, tratable, tímido, conversador, cauto, guardado, insociable, elocuente, ardiente, esquivo, discreto, locuaz, extravertido, comunicativo, cerrado, introverso, abierto, misántropo, efusivo, huraño, vergonzoso, vehemente","Aquí tienes la lista con los escritores correspondientes a cada adjetivo:
-
-1. apasionado - A, B
-2. huidizo - B, A
-3. pasional - A, B
-4. sencillo - A, B
-5. acelerado - B, A
-6. cohibido - A, B
-7. retraído - B, A
-8. extrovertido - B, A
-9. reservado - A, B
-10. expresivo - B, A
-11. expansivo - A, B
-12. caluroso - B, A
-13. introvertido - A, B
-14. sociable - B, A
-15. cauteloso - A, B
-16. adusto - B, A
-17. corto - A, B
-18. solitario - A, B
-19. intenso - A, B
-20. tratable - B, A
-21. tímido - A, B
-22. conversador - B, A
-23. cauto - A, B
-24. guardado - B, A
-25. insociable - A, B
-",03/05/26
-31,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: acelerado, locuaz, introverso, guardado, sociable, cauteloso, reservado, cerrado, pasional, ardiente, comunicativo, insociable, vergonzoso, extrovertido, misántropo, elocuente, huidizo, cauto, cohibido, introvertido, abierto, solitario, corto, discreto, vehemente, caluroso, tímido, conversador, efusivo, intenso, huraño, expansivo, extravertido, sencillo, adusto, esquivo, apasionado, tratable, expresivo, retraído","Acelerado, A; Locuaz, B; Introverso, A; Guardado, A; Sociable, B; Cauteloso, A; Reservado, A; Cerrado, A; Pasional, B; Ardiente, B; Comunicativo, B; Insociable, A; Vergonzoso, A; Extrovertido, B; Misántropo, A; Elocuente, A; Huidizo, A; Cauto, A; Cohibido, A; Introvertido, A; Abierto, B; Solitario, A; Corto, A; Discreto, A; Vehemente, B; Caluroso, B; Tímido, A; Conversador, B; Efusivo, B; Intenso, B; Huraño, A; Expansivo, B; Extravertido, B; Sencillo, B; Adusto, A; Esquivo, A; Apasionado, B; Tratable, B; Expresivo, B; Retraído, A",03/05/26
-32,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: corto, introvertido, expansivo, tímido, extravertido, pasional, introverso, ardiente, abierto, acelerado, sociable, insociable, caluroso, esquivo, cauto, extrovertido, efusivo, misántropo, sencillo, elocuente, retraído, cohibido, vehemente, comunicativo, adusto, expresivo, huidizo, vergonzoso, huraño, cauteloso, conversador, apasionado, discreto, intenso, reservado, solitario, tratable, guardado, locuaz, cerrado","Aquí tienes la lista con los escritores asociados a cada adjetivo:
-
-1. corto - A, B
-2. introvertido - A, B
-3. expansivo - B, A
-4. tímido - A, B
-5. extravertido - B, A
-6. pasional - A, B
-7. introverso - A, B
-8. ardiente - A, B
-9. abierto - B, A
-10. acelerado - B, A
-11. sociable - B, A
-12. insociable - A, B
-13. caluroso - A, B
-14. esquivo - A, B
-15. cauto - A, B
-16. extrovertido - B, A
-17. efusivo - B, A
-18. misántropo - A, B
-19. sencillo - A, B
-20. elocuente - B, A
-21. retraído - A, B
-22. cohibido - A, B
-23. vehemente - A, B
-24. comunicativo - B, A
-25. adusto - B,",03/05/26
-33,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: solitario, extravertido, acelerado, sencillo, ardiente, intenso, abierto, introvertido, esquivo, conversador, discreto, locuaz, cauto, caluroso, guardado, expresivo, cauteloso, corto, expansivo, retraído, comunicativo, tratable, tímido, efusivo, elocuente, cohibido, adusto, huidizo, apasionado, introverso, huraño, pasional, misántropo, vehemente, extrovertido, cerrado, reservado, insociable, sociable, vergonzoso","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
-
-1. solitario - A, B
-2. extravertido - B, A
-3. acelerado - B, A
-4. sencillo - A, B
-5. ardiente - B, A
-6. intenso - A, B
-7. abierto - A, B
-8. introvertido - A, B
-9. esquivo - A, B
-10. conversador - B, A
-11. discreto - A, B
-12. locuaz - B, A
-13. cauto - A, B
-14. caluroso - A, B
-15. guardado - A, B
-16. expresivo - A, B
-17. cauteloso - A, B
-18. corto - A, B
-19. expansivo - B, A
-20. retraído - A, B
-21. comunicativo - B, A
-22. tratable - A, B
-23. tímido - A, B
-24. efusivo - B, A
-25. elocuente - A, B
-",03/05/26
-34,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: discreto, cauto, introvertido, cerrado, intenso, tratable, acelerado, huidizo, solitario, conversador, efusivo, adusto, locuaz, extrovertido, apasionado, vergonzoso, cauteloso, pasional, tímido, extravertido, introverso, vehemente, ardiente, abierto, esquivo, comunicativo, expansivo, sociable, corto, retraído, sencillo, caluroso, insociable, cohibido, misántropo, elocuente, guardado, reservado, huraño, expresivo","Discreto: A
-Cauto: B
-Introvertido: A
-Cerrado: B
-Intenso: A
-Tratable: B
-Acelerado: A
-Huidizo: B
-Solitario: A
-Conversador: B
-Efusivo: A
-Adusto: B
-Locuaz: A
-Extrovertido: B
-Apasionado: A
-Vergonzoso: B
-Cauteloso: A
-Pasional: B
-Tímido: A
-Extravertido: B
-Introverso: A
-Vehemente: B
-Ardiente: A
-Abierto: B
-Esquivo: A
-Comunicativo: B
-Expansivo: A
-Sociable: B
-Corto: A
-Retraído: B
-Sencillo: A
-Caluroso: B
-Insociable: A
-Cohibido: B
-Misántropo: A
-Elocuente: B
-Guardado: A
-Reservado: B
-Huraño: A
-Expresivo: B",03/05/26
-35,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: vergonzoso, abierto, comunicativo, discreto, cerrado, guardado, caluroso, introvertido, ardiente, cauto, apasionado, efusivo, cohibido, locuaz, tratable, expresivo, adusto, sencillo, retraído, misántropo, introverso, tímido, sociable, cauteloso, huidizo, conversador, extrovertido, pasional, elocuente, huraño, acelerado, intenso, extravertido, esquivo, reservado, corto, expansivo, solitario, vehemente, insociable","Aquí te dejo la lista con los escritores correspondientes:
-
-Vergonzoso - A, B
-Abierto - A, B
-Comunicativo - A, B
-Discreto - A, B
-Cerrado - A, B
-Guardado - B
-Caluroso - B
-Introvertido - A, B
-Ardiente - A
-Cauto - A, B
-Apasionado - B
-Efusivo - B
-Cohibido - A
-Locuaz - B
-Tratable - A
-Expresivo - B
-Adusto - A
-Sencillo - A
-Retraído - A, B
-Misántropo - A
-Introverso - A, B
-Tímido - A
-Sociable - B
-Cauteloso - A, B
-Huidizo - B
-Conversador - B
-Extrovertido - B
-Pasional - B
-Eloquente - A
-Huraño - A
-Acelerado - B
-Intenso - A
-Extravertido - B
-Esquivo - A
-Reservado - A
-Corto - A
-Expansivo",03/05/26
-36,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: discreto, elocuente, pasional, solitario, intenso, locuaz, comunicativo, tímido, tratable, esquivo, retraído, abierto, huraño, cerrado, extravertido, huidizo, conversador, expresivo, caluroso, reservado, sociable, acelerado, expansivo, vergonzoso, extrovertido, introverso, sencillo, cauto, cauteloso, efusivo, insociable, ardiente, guardado, cohibido, corto, misántropo, adusto, vehemente, apasionado, introvertido","Aquí tienes la lista con los escritores:
-
-- discreto: A, B
-- elocuente: A, B
-- pasional: A, B
-- solitario: A, B
-- intenso: A, B
-- locuaz: A, B
-- comunicativo: A, B
-- tímido: A, B
-- tratable: A, B
-- esquivo: A, B
-- retraído: A, B
-- abierto: A, B
-- huraño: A, B
-- cerrado: A, B
-- extravertido: A, B
-- huidizo: A, B
-- conversador: A, B
-- expresivo: A, B
-- caluroso: A, B
-- reservado: A, B
-- sociable: A, B
-- acelerado: A, B
-- expansivo: A, B
-- vergonzoso: A, B
-- extrovertido: A, B
-- introverso: A, B
-- sencillo: A, B
-- cauto: A, B
-- cauteloso: A,",03/05/26
-37,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: huraño, expresivo, efusivo, acelerado, elocuente, reservado, guardado, abierto, locuaz, conversador, cauteloso, intenso, discreto, vergonzoso, adusto, cohibido, retraído, pasional, solitario, extravertido, caluroso, tímido, sencillo, tratable, cerrado, sociable, comunicativo, ardiente, insociable, esquivo, extrovertido, expansivo, corto, huidizo, introverso, misántropo, introvertido, cauto, apasionado, vehemente","huraño - A, B
-expresivo - B
-efusivo - B
-acelerado - A
-elocuente - A
-reservado - A
-guardado - A
-abierto - B
-locuaz - B
-conversador - B
-cauteloso - A
-intenso - A
-discreto - A
-vergonzoso - A
-adusto - A
-cohibido - A
-retraído - A
-pasional - B
-solitario - A
-extravertido - B
-caluroso - B
-tímido - A
-sencillo - A
-tratable - A
-cerrado - A
-sociable - B
-comunicativo - B
-ardiente - B
-insociable - A
-esquivo - A
-extrovertido - B
-expansivo - B
-corto - A
-huidizo - A
-introverso - A
-misántropo - A
-introvertido - A
-cauto - A
-apasionado - B
-vehemente - B",03/05/26
-38,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: solitario, sociable, cohibido, adusto, tímido, cauto, huidizo, extravertido, esquivo, expresivo, tratable, extrovertido, misántropo, introverso, locuaz, cauteloso, apasionado, expansivo, intenso, ardiente, vergonzoso, comunicativo, insociable, reservado, sencillo, cerrado, abierto, guardado, caluroso, discreto, conversador, acelerado, elocuente, efusivo, huraño, retraído, pasional, vehemente, introvertido, corto","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
-
-1. solitario - A, B
-2. sociable - B, A
-3. cohibido - A, B
-4. adusto - B, A
-5. tímido - A, B
-6. cauto - A, B
-7. huidizo - B, A
-8. extravertido - B, A
-9. esquivo - A, B
-10. expresivo - B, A
-11. tratable - B, A
-12. extrovertido - B, A
-13. misántropo - A, B
-14. introverso - A, B
-15. locuaz - B, A
-16. cauteloso - A, B
-17. apasionado - B, A
-18. expansivo - B, A
-19. intenso - A, B
-20. ardiente - B, A
-21. vergonzoso - A, B
-22. comunicativo - B, A
-23. insociable - A, B
-24. reservado - A, B
-25. sencillo - B,",03/05/26
-39,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: intenso, vergonzoso, sencillo, tratable, tímido, cerrado, caluroso, ardiente, introvertido, extrovertido, cohibido, adusto, apasionado, cauto, acelerado, sociable, retraído, conversador, comunicativo, insociable, esquivo, extravertido, corto, huidizo, pasional, misántropo, huraño, guardado, locuaz, expansivo, vehemente, efusivo, abierto, cauteloso, discreto, introverso, elocuente, expresivo, solitario, reservado","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+32. cerrado - A, B
+33. conversador - B
+34. tímido - B
+35. introvertido - B
+36. expansivo - B
+37. huidizo - B
+38. discreto - A, B
+39. huraño - A, B
+40. sociable - B",03/10/26
+4,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: intenso, misántropo, cauteloso, introverso, corto, elocuente, reservado, retraído, discreto, comunicativo, tímido, pasional, caluroso, acelerado, cerrado, vehemente, guardado, tratable, insociable, efusivo, extravertido, huraño, ardiente, expresivo, apasionado, solitario, vergonzoso, conversador, esquivo, introvertido, extrovertido, adusto, huidizo, expansivo, locuaz, sencillo, cohibido, abierto, sociable, cauto","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
 
 1. intenso - A, B
-2. vergonzoso - A, B
-3. sencillo - B, A
-4. tratable - A, B
-5. tímido - A, B
-6. cerrado - B, A
-7. caluroso - B, A
-8. ardiente - B, A
-9. introvertido - A, B
-10. extrovertido - B, A
-11. cohibido - A, B
-12. adusto - A, B
-13. apasionado - B, A
-14. cauto - A, B
-15. acelerado - B, A
-16. sociable - A, B
-17. retraído - A, B
-18. conversador - B, A
-19. comunicativo - B, A
-20. insociable - A, B
-21. esquivo - A, B
-22. extravertido - B, A
-23. corto - A, B
-24. huidizo - A, B
-25. pasional - B, A",03/05/26
-40,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: cerrado, guardado, reservado, apasionado, cauteloso, sociable, introvertido, intenso, abierto, acelerado, extrovertido, introverso, locuaz, ardiente, efusivo, tratable, corto, cauto, misántropo, expansivo, esquivo, cohibido, insociable, expresivo, conversador, discreto, solitario, vergonzoso, extravertido, retraído, elocuente, caluroso, adusto, vehemente, tímido, huidizo, huraño, comunicativo, sencillo, pasional","Aquí te dejo la lista con los escritores correspondientes:
-
-1. cerrado - A, B
-2. guardado - A, B
-3. reservado - A, B
-4. apasionado - A, B
-5. cauteloso - A, B
-6. sociable - B, A
-7. introvertido - A, B
-8. intenso - A, B
-9. abierto - A, B
-10. acelerado - B, A
-11. extrovertido - B, A
-12. introverso - A, B
-13. locuaz - B, A
-14. ardiente - A, B
-15. efusivo - B, A
-16. tratable - B, A
-17. corto - B, A
-18. cauto - A, B
-19. misántropo - A, B
-20. expansivo - B, A
-21. esquivo - A, B
-22. cohibido - A, B
-23. insociable - A, B
-24. expresivo - B, A
-25. conversador - B, A
-26. discreto",03/05/26
-41,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: extrovertido, huidizo, intenso, introvertido, misántropo, abierto, pasional, retraído, vehemente, esquivo, guardado, vergonzoso, ardiente, elocuente, introverso, expresivo, cauto, sencillo, apasionado, discreto, extravertido, acelerado, tratable, adusto, solitario, conversador, tímido, insociable, comunicativo, expansivo, caluroso, cohibido, efusivo, sociable, locuaz, cerrado, huraño, corto, reservado, cauteloso","Aquí te presento la lista de adjetivos con los escritores A y B:
-
-1. extrovertido - A, B
-2. huidizo - B
-3. intenso - A
-4. introvertido - B
-5. misántropo - B
-6. abierto - A
-7. pasional - B
-8. retraído - B
-9. vehemente - A
-10. esquivo - B
-11. guardado - B
-12. vergonzoso - A
-13. ardiente - B
-14. elocuente - A
-15. introverso - B
-16. expresivo - A
-17. cauto - B
-18. sencillo - A
-19. apasionado - B
-20. discreto - B
-21. extravertido - A
-22. acelerado - B
-23. tratable - A
-24. adusto - B
-25. solitario - B
-26. conversador - A
-27. tímido - A
-28. insociable - B
-29. comunicativo - A
-30. expansivo - B
-31. caluroso - B
-",03/05/26
-42,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: insociable, intenso, reservado, expresivo, tímido, tratable, apasionado, comunicativo, introverso, expansivo, efusivo, huraño, locuaz, misántropo, extravertido, solitario, corto, abierto, acelerado, introvertido, esquivo, pasional, ardiente, cauteloso, cerrado, retraído, cauto, conversador, guardado, vehemente, cohibido, elocuente, discreto, vergonzoso, sencillo, huidizo, caluroso, sociable, extrovertido, adusto","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
-
-1. insociable - A, B
-2. intenso - A
-3. reservado - B
-4. expresivo - A
-5. tímido - B
-6. tratable - A
-7. apasionado - A
-8. comunicativo - B
-9. introverso - A
-10. expansivo - B
-11. efusivo - B
-12. huraño - A
-13. locuaz - B
-14. misántropo - A
-15. extravertido - B
-16. solitario - A
-17. corto - B
-18. abierto - B
-19. acelerado - B
-20. introvertido - A
-21. esquivo - B
-22. pasional - A
-23. ardiente - B
-24. cauteloso - B
-25. cerrado - A
-26. retraído - A
-27. cauto - B
+2. misántropo - A, B
+3. cauteloso - B
+4. introverso - A, B
+5. corto - B
+6. elocuente - B
+7. reservado - A, B
+8. retraído - A, B
+9. discreto - B
+10. comunicativo - B
+11. tímido - A, B
+12. pasional - A, B
+13. caluroso - B
+14. acelerado - B
+15. cerrado - A, B
+16. vehemente - A, B
+17. guardado - A, B
+18. tratable - B
+19. insociable - A, B
+20. efusivo - B
+21. extravertido - B
+22. huraño - A, B
+23. ardiente - A, B
+24. expresivo - B
+25. apasionado - A, B
+26. solitario - A, B
+27. vergonzoso - A, B
 28. conversador - B
-29. guardado - B
-30. vehemente - A
-31. cohibido - B
-32. el",03/05/26
-43,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, intenso, guardado, sociable, huidizo, locuaz, cerrado, expansivo, esquivo, abierto, misántropo, expresivo, caluroso, extravertido, elocuente, corto, cauto, efusivo, conversador, retraído, pasional, introverso, huraño, solitario, ardiente, introvertido, tratable, cohibido, apasionado, adusto, tímido, discreto, comunicativo, insociable, extrovertido, acelerado, sencillo, reservado, vergonzoso, vehemente","Aquí te dejo la lista con los escritores seleccionados:
+29. esquivo - A, B
+30. introvertido - A, B
+31. extrovertido - B
+32. adusto - A, B
+33. huidizo - A, B
+34. expansivo - B
+35. locuaz - B
+36. sencillo - B
+37. cohibido - A, B
+38. abierto - B
+39. sociable - B
+40. cauto - B",03/10/26
+5,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, tratable, sencillo, efusivo, expresivo, misántropo, extravertido, huidizo, reservado, conversador, esquivo, adusto, abierto, vehemente, cauto, guardado, locuaz, tímido, vergonzoso, ardiente, solitario, introvertido, apasionado, introverso, caluroso, expansivo, comunicativo, cerrado, sociable, discreto, intenso, pasional, insociable, acelerado, elocuente, huraño, cohibido, corto, retraído, extrovertido","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
 
 1. cauteloso - A, B
-2. intenso - B
-3. guardado - B
-4. sociable - A
-5. huidizo - B
-6. locuaz - A
-7. cerrado - B
-8. expansivo - A
-9. esquivo - B
-10. abierto - A
-11. misántropo - B
-12. expresivo - A
-13. caluroso - B
-14. extravertido - A
-15. elocuente - B
-16. corto - B
-17. cauto - A
-18. efusivo - B
-19. conversador - A
-20. retraído - B
-21. pasional - A
-22. introverso - B
-23. huraño - B
-24. solitario - B
-25. ardiente - A
-26. introvertido - B
-27. tratable - A
-28. cohibido - B
-29. apasionado - A
-30. adusto - B
-31. tímido - B
-32. discreto - A",03/05/26
-44,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: tratable, cohibido, corto, elocuente, abierto, locuaz, reservado, cauteloso, apasionado, cauto, introvertido, pasional, retraído, insociable, acelerado, huraño, esquivo, intenso, expresivo, extravertido, expansivo, ardiente, conversador, misántropo, efusivo, solitario, extrovertido, vergonzoso, tímido, vehemente, discreto, guardado, introverso, comunicativo, cerrado, sencillo, adusto, sociable, huidizo, caluroso","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+2. tratable - A, B
+3. sencillo - A
+4. efusivo - B
+5. expresivo - A
+6. misántropo - A
+7. extravertido - B
+8. huidizo - B
+9. reservado - A
+10. conversador - B
+11. esquivo - A
+12. adusto - A
+13. abierto - B
+14. vehemente - A
+15. cauto - A
+16. guardado - A
+17. locuaz - B
+18. tímido - A
+19. vergonzoso - A
+20. ardiente - B
+21. solitario - A
+22. introvertido - A
+23. apasionado - B
+24. introverso - A
+25. caluroso - B
+26. expansivo - B
+27. comunicativo - B
+28. cerrado - A
+29. sociable - B
+30. discreto - A
+31. intenso - A
+32. pasional - B
+33. insociable - A
+34. acelerado - B
+35. elocuente - B
+36. huraño - A
+37. cohibido - A
+38. corto - A
+39. retraído - A
+40. extrovertido - B",03/10/26
+6,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, extrovertido, vergonzoso, huidizo, cerrado, adusto, extravertido, comunicativo, misántropo, cauto, tratable, intenso, conversador, solitario, retraído, sencillo, expansivo, efusivo, pasional, sociable, insociable, elocuente, tímido, abierto, ardiente, introvertido, introverso, cohibido, acelerado, caluroso, esquivo, guardado, expresivo, corto, discreto, reservado, huraño, apasionado, locuaz, vehemente","Aquí tienes la lista de adjetivos con los escritores correspondientes:
 
-1. Tratable - A, B
-2. Cohibido - B
-3. Corto - A
-4. Elocuente - B
-5. Abierto - A
-6. Locuaz - B
-7. Reservado - B
-8. Cauteloso - B
-9. Apasionado - A
-10. Cauto - B
-11. Introvertido - A
-12. Pasional - A
-13. Retraído - B
-14. Insociable - B
-15. Acelerado - B
-16. Huraño - B
-17. Esquivo - B
-18. Intenso - B
-19. Expresivo - B
-20. Extravertido - A
-21. Expansivo - A
-22. Ardiente - A
-23. Conversador - A
-24. Misántropo - B
-25. Efusivo - A
-26. Solitario - A
-27. Extrovertido - A
-28. Vergonzoso - B
-29. Tímido - B
-30. Veh",03/05/26
-45,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sencillo, comunicativo, expresivo, cauteloso, introverso, expansivo, cerrado, pasional, adusto, vergonzoso, ardiente, solitario, huidizo, reservado, conversador, acelerado, tímido, esquivo, elocuente, retraído, vehemente, tratable, apasionado, insociable, locuaz, huraño, extravertido, efusivo, guardado, abierto, cohibido, cauto, misántropo, caluroso, corto, discreto, introvertido, extrovertido, sociable, intenso","Aquí te dejo la lista con los escritores A y B asociados a cada adjetivo:
+1. cauteloso - A, B
+2. extrovertido - B, A
+3. vergonzoso - A, B
+4. huidizo - A, B
+5. cerrado - A, B
+6. adusto - B, A
+7. extravertido - B, A
+8. comunicativo - A, B
+9. misántropo - A, B
+10. cauto - A, B
+11. tratable - A, B
+12. intenso - A, B
+13. conversador - A, B
+14. solitario - A, B
+15. retraído - A, B
+16. sencillo - B, A
+17. expansivo - B, A
+18. efusivo - B, A
+19. pasional - A, B
+20. sociable - A, B
+21. insociable - A, B
+22. elocuente - A, B
+23. tímido - A, B
+24. abierto - A, B
+25. ardiente - A, B
+26. introvertido - A, B
+27. introverso - A, B
+28. cohibido - A, B
+29. acelerado - B, A
+30. caluroso - B, A
+31. esquivo - A, B
+32. guardado - A, B
+33. expresivo - A, B
+34. corto - A, B
+35. discreto - A, B
+36. reservado - A, B
+37. huraño - A, B
+38. apasionado - A, B
+39. locuaz - A, B
+40. vehemente - A, B",03/10/26
+7,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sociable, vehemente, extrovertido, introvertido, tímido, discreto, huraño, expresivo, conversador, retraído, vergonzoso, reservado, esquivo, abierto, locuaz, elocuente, apasionado, introverso, caluroso, adusto, pasional, ardiente, comunicativo, cohibido, misántropo, efusivo, extravertido, expansivo, solitario, tratable, guardado, huidizo, insociable, acelerado, sencillo, intenso, cauto, cerrado, corto, cauteloso","Aquí te presento la lista con el escritor correspondiente a cada adjetivo:
 
-1. sencillo - A, B
-2. comunicativo - A, B
-3. expresivo - A, B
-4. cauteloso - A, B
-5. introverso - B, A
-6. expansivo - B, A
-7. cerrado - A, B
-8. pasional - B, A
-9. adusto - A, B
-10. vergonzoso - B, A
-11. ardiente - B, A
-12. solitario - A, B
-13. huidizo - A, B
-14. reservado - A, B
-15. conversador - B, A
-16. acelerado - A, B
-17. tímido - A, B
-18. esquivo - A, B
-19. elocuente - B, A
-20. retraído - A, B
-21. vehemente - B, A
-22. tratable - B, A
-23. apasionado - B, A
-24. insociable - A, B
-25. locuaz -",03/05/26
-46,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: elocuente, extrovertido, corto, huraño, introverso, misántropo, sociable, acelerado, ardiente, vehemente, cauto, insociable, conversador, retraído, intenso, extravertido, efusivo, abierto, tratable, apasionado, cohibido, solitario, caluroso, expresivo, cauteloso, expansivo, esquivo, reservado, sencillo, guardado, locuaz, comunicativo, discreto, introvertido, huidizo, tímido, pasional, vergonzoso, adusto, cerrado","Aquí te dejo la lista con los escritores correspondientes:
-
-elocuente - A, B
-extrovertido - B, A
-corto - B, A
-huraño - A, B
-introverso - A, B
-misántropo - A, B
-sociable - B, A
-acelerado - B, A
-ardiente - A, B
-vehemente - A, B
-cauto - A, B
-insociable - A, B
-conversador - B, A
-retraído - A, B
-intenso - A, B
-extravertido - B, A
-efusivo - B, A
-abierto - A, B
-tratable - B, A
-apasionado - A, B
-cohibido - A, B
-solitario - A, B
-caluroso - B, A
-expresivo - A, B
-cauteloso - A, B
-expansivo - B, A
-esquivo - A, B
-reservado - A, B
-sencillo - B, A
-guardado - A, B
-locuaz - B",03/05/26
-47,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: reservado, comunicativo, apasionado, efusivo, abierto, elocuente, huraño, locuaz, introverso, cauteloso, conversador, guardado, tratable, sociable, expansivo, pasional, extravertido, acelerado, adusto, cerrado, vehemente, sencillo, insociable, solitario, esquivo, huidizo, caluroso, cauto, intenso, misántropo, corto, ardiente, extrovertido, tímido, vergonzoso, expresivo, introvertido, cohibido, discreto, retraído","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
-
-1. reservado - A, B
-2. comunicativo - A, B
-3. apasionado - A, B
-4. efusivo - B, A
-5. abierto - A, B
-6. elocuente - A, B
+1. sociable - A, B
+2. vehemente - A, B
+3. extrovertido - A, B
+4. introvertido - A, B
+5. tímido - B, A
+6. discreto - A, B
 7. huraño - A, B
-8. locuaz - B, A
-9. introverso - A, B
-10. cauteloso - A, B
-11. conversador - B, A
-12. guardado - A, B
-13. tratable - B, A
-14. sociable - B, A
-15. expansivo - B, A
-16. pasional - A, B
-17. extravertido - B, A
-18. acelerado - A, B
-19. adusto - A, B
-20. cerrado - A, B
-21. vehemente - A, B
-22. sencillo - A, B
-23. insociable - A, B
-24. solitario - A, B
-25. esquivo - A, B
-",03/05/26
-48,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: huidizo, expansivo, tratable, solitario, comunicativo, extravertido, introverso, apasionado, conversador, tímido, cohibido, corto, insociable, sociable, adusto, abierto, intenso, caluroso, guardado, elocuente, ardiente, introvertido, discreto, vergonzoso, cerrado, esquivo, cauto, huraño, acelerado, misántropo, retraído, cauteloso, sencillo, efusivo, pasional, vehemente, extrovertido, locuaz, reservado, expresivo","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+8. expresivo - A, B
+9. conversador - A, B
+10. retraído - B, A
+11. vergonzoso - A, B
+12. reservado - A, B
+13. esquivo - A, B
+14. abierto - A, B
+15. locuaz - A, B
+16. elocuente - A, B
+17. apasionado - A, B
+18. introverso - A, B
+19. caluroso - B, A
+20. adusto - A, B
+21. pasional - A, B
+22. ardiente - A, B
+23. comunicativo - A, B
+24. cohibido - B, A
+25. misántropo - B, A
+26. efusivo - B, A
+27. extravertido - A, B
+28. expansivo - A, B
+29. solitario - A, B
+30. tratable - A, B
+31. guardado - A, B
+32. huidizo - A, B
+33. insociable - B, A
+34. acelerado - B, A
+35. sencillo - A, B
+36. intenso - A, B
+37. cauto - A, B
+38. cerrado - A, B
+39. corto - A, B
+40. cauteloso - A, B",03/10/26
+8,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: expansivo, adusto, cauto, insociable, vergonzoso, guardado, locuaz, cerrado, comunicativo, reservado, misántropo, sencillo, introvertido, acelerado, cohibido, vehemente, huidizo, extrovertido, conversador, extravertido, elocuente, corto, pasional, introverso, tímido, expresivo, huraño, apasionado, cauteloso, discreto, retraído, esquivo, tratable, efusivo, solitario, caluroso, abierto, intenso, ardiente, sociable","Aquí tienes la lista de adjetivos con el escritor correspondiente:
 
-1. Huidizo - A, B
-2. Expansivo - B, A
-3. Tratable - B, A
-4. Solitario - A, B
-5. Comunicativo - B, A
-6. Extravertido - B, A
-7. Introverso - A, B
-8. Apasionado - A, B
-9. Conversador - B, A
-10. Tímido - A, B
-11. Cohibido - A, B
-12. Corto - B, A
-13. Insociable - B, A
-14. Sociable - A, B
-15. Adusto - B, A
-16. Abierto - A, B
-17. Intenso - B, A
-18. Caluroso - B, A
-19. Guardado - A, B
-20. Elocuente - B, A
-21. Ardiente - A, B
-22. Introvertido - A, B
-23. Discreto - B, A
-24. Vergonzoso - A, B
-25. Cerrado - B",03/05/26
-49,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: insociable, introvertido, huidizo, cerrado, introverso, esquivo, discreto, huraño, adusto, expresivo, sociable, elocuente, vehemente, caluroso, misántropo, ardiente, acelerado, expansivo, reservado, corto, locuaz, abierto, extravertido, guardado, vergonzoso, solitario, cauteloso, conversador, cohibido, comunicativo, apasionado, intenso, cauto, tratable, tímido, efusivo, sencillo, extrovertido, retraído, pasional","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
+1. expansivo - A, B
+2. adusto - B
+3. cauto - B
+4. insociable - B
+5. vergonzoso - A
+6. guardado - A
+7. locuaz - B
+8. cerrado - A
+9. comunicativo - B
+10. reservado - A
+11. misántropo - B
+12. sencillo - A
+13. introvertido - A
+14. acelerado - B
+15. cohibido - A
+16. vehemente - B
+17. huidizo - A
+18. extrovertido - B
+19. conversador - B
+20. extravertido - B
+21. elocuente - B
+22. corto - B
+23. pasional - A
+24. introverso - A
+25. tímido - A
+26. expresivo - B
+27. huraño - A
+28. apasionado - A
+29. cauteloso - B
+30. discreto - B
+31. retraído - A
+32. esquivo - B
+33. tratable - B
+34. efusivo - B
+35. solitario - A
+36. caluroso - B
+37. abierto - B
+38. intenso - B
+39. ardiente - A
+40. sociable - B",03/10/26
+9,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: esquivo, caluroso, cauteloso, extrovertido, expansivo, tímido, huidizo, expresivo, guardado, acelerado, pasional, sociable, vehemente, discreto, cerrado, vergonzoso, misántropo, sencillo, extravertido, cohibido, cauto, retraído, conversador, reservado, solitario, apasionado, introverso, comunicativo, intenso, abierto, locuaz, adusto, corto, insociable, introvertido, tratable, efusivo, huraño, ardiente, elocuente","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Esquivo - A, B
+2. Caluroso - B
+3. Cauteloso - A, B
+4. Extrovertido - B
+5. Expansivo - B
+6. Tímido - A
+7. Huidizo - A
+8. Expresivo - A
+9. Guardado - A
+10. Acelerado - B
+11. Pasional - B
+12. Sociable - B
+13. Vehemente - B
+14. Discreto - A
+15. Cerrado - A
+16. Vergonzoso - B
+17. Misántropo - A
+18. Sencillo - A
+19. Extravertido - B
+20. Cohibido - A
+21. Cauto - A, B
+22. Retraído - A
+23. Conversador - B
+24. Reservado - A
+25. Solitario - A
+26. Apasionado - B
+27. Introverso - A
+28. Comunicativo - B
+29. Intenso - B
+30. Abierto - B
+31. Locuaz - B
+32. Adusto - A
+33. Corto - B
+34. Insociable - A
+35. Introvertido - A
+36. Tratable - B
+37. Efusivo - B
+38. Huraño - A
+39. Ardiente - B
+40. Elocuente - B",03/10/26
+10,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: retraído, solitario, apasionado, tratable, misántropo, locuaz, adusto, extrovertido, vergonzoso, corto, caluroso, huidizo, intenso, guardado, acelerado, cauteloso, huraño, ardiente, extravertido, introverso, esquivo, cerrado, tímido, expresivo, efusivo, abierto, elocuente, sencillo, expansivo, vehemente, introvertido, conversador, pasional, insociable, comunicativo, reservado, sociable, discreto, cauto, cohibido","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
+
+1. retraído - A, B
+2. solitario - A, B
+3. apasionado - B, A
+4. tratable - B, A
+5. misántropo - A, B
+6. locuaz - B, A
+7. adusto - B, A
+8. extrovertido - B, A
+9. vergonzoso - A, B
+10. corto - B, A
+11. caluroso - A, B
+12. huidizo - A, B
+13. intenso - B, A
+14. guardado - A, B
+15. acelerado - B, A
+16. cauteloso - B, A
+17. huraño - A, B
+18. ardiente - B, A
+19. extravertido - B, A
+20. introverso - A, B
+21. esquivo - A, B
+22. cerrado - B, A
+23. tímido - A, B
+24. expresivo - B, A
+25. efusivo - B, A
+26. abierto - A, B
+27. elocuente - B, A
+28. sencillo - A, B
+29. expansivo - B, A
+30. vehemente - B, A
+31. introvertido - A, B
+32. conversador - B, A
+33. pasional - B, A
+34. insociable - A, B
+35. comunicativo - B, A
+36. reservado - A, B
+37. sociable - B, A
+38. discreto - B, A
+39. cauto - B, A
+40. cohibido - A, B",03/10/26
+11,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: expansivo, discreto, abierto, solitario, introverso, sencillo, insociable, esquivo, extravertido, huidizo, extrovertido, intenso, corto, ardiente, comunicativo, pasional, tratable, guardado, cerrado, reservado, elocuente, tímido, conversador, cohibido, sociable, caluroso, acelerado, misántropo, adusto, introvertido, expresivo, vergonzoso, locuaz, vehemente, apasionado, cauto, huraño, cauteloso, retraído, efusivo","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+
+1. expansivo - A, B
+2. discreto - A, B
+3. abierto - A, B
+4. solitario - A, B
+5. introverso - A, B
+6. sencillo - A, B
+7. insociable - B
+8. esquivo - A
+9. extravertido - B
+10. huidizo - A
+11. extrovertido - B
+12. intenso - A
+13. corto - A, B
+14. ardiente - A, B
+15. comunicativo - A
+16. pasional - A
+17. tratable - A
+18. guardado - A
+19. cerrado - A
+20. reservado - A
+21. elocuente - A
+22. tímido - A
+23. conversador - B
+24. cohibido - A
+25. sociable - B
+26. caluroso - A
+27. acelerado - B
+28. misántropo - A
+29. adusto - A
+30. introvertido - A
+31. expresivo - A
+32. vergonzoso - A
+33. locuaz - A
+34. vehemente - A
+35. apasionado - A
+36. cauto - A
+37. huraño - A
+38. cauteloso - A
+39. retraído - A
+40. efusivo - B",03/10/26
+12,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: elocuente, ardiente, extravertido, intenso, discreto, insociable, introvertido, solitario, huidizo, vergonzoso, vehemente, cohibido, tratable, locuaz, acelerado, pasional, comunicativo, guardado, expresivo, corto, extrovertido, conversador, sociable, esquivo, misántropo, apasionado, sencillo, tímido, caluroso, cauto, reservado, adusto, abierto, cerrado, expansivo, introverso, cauteloso, huraño, retraído, efusivo","Aquí te dejo la lista con el escritor correspondiente a cada adjetivo:
+
+1. elocuente - A, B
+2. ardiente - A
+3. extravertido - B, A
+4. intenso - A
+5. discreto - B
+6. insociable - A
+7. introvertido - A, B
+8. solitario - A
+9. huidizo - A
+10. vergonzoso - A
+11. vehemente - A
+12. cohibido - A
+13. tratable - B
+14. locuaz - B
+15. acelerado - B
+16. pasional - A
+17. comunicativo - B
+18. guardado - A
+19. expresivo - B
+20. corto - B
+21. extrovertido - B, A
+22. conversador - B
+23. sociable - B
+24. esquivo - A
+25. misántropo - A
+26. apasionado - A
+27. sencillo - B
+28. tímido - A
+29. caluroso - B
+30. cauto - A
+31. reservado - A
+32. adusto - A
+33. abierto - B
+34. cerrado - A
+35. expansivo - B
+36. introverso - A, B
+37. cauteloso - A
+38. huraño - A
+39. retraído - A
+40. efusivo - B",03/10/26
+13,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: acelerado, vehemente, conversador, cauto, huraño, comunicativo, cerrado, ardiente, reservado, intenso, esquivo, cohibido, retraído, introverso, efusivo, expansivo, elocuente, expresivo, solitario, extravertido, apasionado, vergonzoso, misántropo, caluroso, extrovertido, guardado, pasional, sencillo, corto, discreto, sociable, tratable, locuaz, introvertido, cauteloso, huidizo, adusto, tímido, abierto, insociable","Acelerado, A; vehemente, B; conversador, B; cauto, A; huraño, B; comunicativo, B; cerrado, A; ardiente, B; reservado, A; intenso, B; esquivo, A; cohibido, B; retraído, A; introverso, B; efusivo, B; expansivo, B; elocuente, A; expresivo, B; solitario, B; extravertido, B; apasionado, B; vergonzoso, A; misántropo, B; caluroso, A; extrovertido, B; guardado, A; pasional, B; sencillo, A; corto, A; discreto, A; sociable, B; tratable, A; locuaz, B; introvertido, A; cauteloso, A; huidizo, B; adusto, A; tímido, A; abierto, B; insociable, B.",03/10/26
+14,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: solitario, introverso, vehemente, cerrado, retraído, intenso, pasional, reservado, esquivo, cauto, insociable, locuaz, expansivo, corto, huraño, elocuente, apasionado, sencillo, efusivo, conversador, expresivo, misántropo, huidizo, vergonzoso, tratable, cauteloso, discreto, tímido, adusto, comunicativo, caluroso, introvertido, sociable, abierto, extrovertido, ardiente, acelerado, cohibido, extravertido, guardado","Aquí tienes la lista con los escritores asociados a cada adjetivo:
+
+1. solitario - A, B
+2. introverso - A, B
+3. vehemente - B, A
+4. cerrado - A, B
+5. retraído - A, B
+6. intenso - B, A
+7. pasional - A, B
+8. reservado - A, B
+9. esquivo - A, B
+10. cauto - A, B
+11. insociable - A, B
+12. locuaz - B, A
+13. expansivo - B, A
+14. corto - B, A
+15. huraño - A, B
+16. elocuente - B, A
+17. apasionado - A, B
+18. sencillo - B, A
+19. efusivo - B, A
+20. conversador - B, A
+21. expresivo - B, A
+22. misántropo - A, B
+23. huidizo - A, B
+24. vergonzoso - B, A
+25. tratable - B, A
+26. cauteloso - A, B
+27. discreto - B, A
+28. tímido - A, B
+29. adusto - A, B
+30. comunicativo - B, A
+31. caluroso - B, A
+32. introvertido - A, B
+33. sociable - B, A
+34. abierto - B, A
+35. extrovertido - B, A
+36. ardiente - A, B
+37. acelerado - B, A
+38. cohibido - A, B
+39. extravertido - B, A
+40. guardado - A, B",03/10/26
+15,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: pasional, esquivo, abierto, expansivo, adusto, ardiente, apasionado, locuaz, misántropo, tímido, retraído, discreto, tratable, sencillo, elocuente, vergonzoso, acelerado, guardado, intenso, extravertido, insociable, expresivo, cerrado, caluroso, huidizo, cauto, cohibido, introvertido, comunicativo, cauteloso, sociable, corto, vehemente, efusivo, reservado, solitario, extrovertido, conversador, introverso, huraño","Aquí tienes la lista de adjetivos con los escritores correspondientes:
+
+1. Pasional - A, B
+2. Esquivo - B
+3. Abierto - A
+4. Expansivo - B
+5. Adusto - A
+6. Ardiente - B
+7. Apasionado - B
+8. Locuaz - B
+9. Misántropo - A
+10. Tímido - B
+11. Retraído - B
+12. Discreto - A
+13. Tratable - A
+14. Sencillo - B
+15. Elocuente - A
+16. Vergonzoso - B
+17. Acelerado - A
+18. Guardado - B
+19. Intenso - A
+20. Extravertido - B
+21. Insociable - A
+22. Expresivo - B
+23. Cerrado - A
+24. Caluroso - B
+25. Huidizo - A
+26. Cauto - B
+27. Cohibido - A
+28. Introvertido - B
+29. Comunicativo - A
+30. Cauteloso - B
+31. Sociable - B
+32. Corto - A
+33. Vehemente - B
+34. Efusivo - B
+35. Reservado - A
+36. Solitario - A
+37. Extrovertido - B
+38. Conversador - B
+39. Introverso - A
+40. Huraño - B",03/10/26
+16,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: insociable, retraído, tratable, corto, intenso, discreto, adusto, guardado, elocuente, cauteloso, abierto, reservado, expansivo, huraño, caluroso, cohibido, misántropo, cerrado, solitario, acelerado, pasional, esquivo, vehemente, ardiente, vergonzoso, sociable, efusivo, introverso, cauto, sencillo, expresivo, apasionado, comunicativo, extravertido, locuaz, conversador, huidizo, introvertido, extrovertido, tímido","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
 
 1. insociable - A, B
-2. introvertido - A, B
-3. huidizo - B
-4. cerrado - A, B
-5. introverso - A, B
-6. esquivo - A, B
-7. discreto - A, B
-8. huraño - A
-9. adusto - A
-10. expresivo - B
-11. sociable - B
-12. elocuente - A
-13. vehemente - B
-14. caluroso - B
-15. misántropo - A
-16. ardiente - B
-17. acelerado - B
-18. expansivo - B
-19. reservado - A, B
-20. corto - A
-21. locuaz - B
-22. abierto - B
-23. extravertido - B
-24. guardado - A
+2. retraído - A
+3. tratable - B
+4. corto - A
+5. intenso - B
+6. discreto - A
+7. adusto - B
+8. guardado - A
+9. elocuente - B
+10. cauteloso - A
+11. abierto - B
+12. reservado - A
+13. expansivo - B
+14. huraño - A
+15. caluroso - B
+16. cohibido - A
+17. misántropo - B
+18. cerrado - A
+19. solitario - B
+20. acelerado - A
+21. pasional - B
+22. esquivo - A
+23. vehemente - B
+24. ardiente - A
 25. vergonzoso - B
-26. solitario - A, B
-27. cauteloso - A, B
-28. conversador - B
-29. cohibido - A
-30",03/05/26
-50,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: esquivo, tratable, guardado, ardiente, cohibido, vehemente, cauteloso, abierto, introverso, efusivo, locuaz, extrovertido, conversador, adusto, comunicativo, insociable, extravertido, acelerado, huraño, retraído, huidizo, cerrado, vergonzoso, sencillo, sociable, cauto, expansivo, expresivo, tímido, corto, reservado, caluroso, introvertido, intenso, misántropo, pasional, discreto, elocuente, apasionado, solitario","Aquí tienes la lista con los escritores correspondientes:
+26. sociable - B
+27. efusivo - B
+28. introverso - A
+29. cauto - B
+30. sencillo - A
+31. expresivo - B
+32. apasionado - A
+33. comunicativo - B
+34. extravertido - B
+35. locuaz - B
+36. conversador - B
+37. huidizo - A
+38. introvertido - A
+39. extrovertido - B
+40. tímido - A",03/10/26
+17,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: insociable, vehemente, corto, introvertido, tratable, efusivo, adusto, caluroso, retraído, huidizo, cauteloso, extrovertido, reservado, sencillo, locuaz, solitario, pasional, vergonzoso, extravertido, cauto, huraño, elocuente, conversador, misántropo, sociable, expresivo, tímido, comunicativo, introverso, esquivo, discreto, cerrado, cohibido, intenso, guardado, expansivo, apasionado, ardiente, abierto, acelerado","Aquí tienes la lista con los escritores A y B:
 
-1. esquivo - A, B
-2. tratable - A, B
-3. guardado - A, B
-4. ardiente - A, B
-5. cohibido - A, B
-6. vehemente - A, B
-7. cauteloso - A, B
-8. abierto - A, B
-9. introverso - A, B
-10. efusivo - A, B
-11. locuaz - A, B
+1. insociable - A, B
+2. vehemente - B
+3. corto - A
+4. introvertido - B
+5. tratable - A
+6. efusivo - B
+7. adusto - A
+8. caluroso - B
+9. retraído - A
+10. huidizo - B
+11. cauteloso - A
+12. extrovertido - B
+13. reservado - A
+14. sencillo - B
+15. locuaz - A
+16. solitario - B
+17. pasional - A
+18. vergonzoso - B
+19. extravertido - B
+20. cauto - A
+21. huraño - B
+22. elocuente - A
+23. conversador - B
+24. misántropo - A
+25. sociable - B
+26. expresivo - A
+27. tímido - B
+28. comunicativo - A
+29. introverso - B
+30. esquivo - A
+31. discreto - B
+32. cerrado - A
+33. cohibido - B
+34. intenso - A
+35. guardado - B
+36. expansivo - A
+37. apasionado - B
+38. ardiente - A
+39. abierto - B
+40. acelerado - A",03/10/26
+18,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: introverso, introvertido, pasional, acelerado, ardiente, discreto, extravertido, huraño, cauteloso, insociable, huidizo, vehemente, apasionado, expresivo, adusto, intenso, cohibido, corto, extrovertido, cauto, tímido, guardado, conversador, esquivo, reservado, tratable, sencillo, solitario, locuaz, comunicativo, abierto, retraído, misántropo, elocuente, caluroso, sociable, cerrado, efusivo, vergonzoso, expansivo","introverso A, introvertido A, pasional B, acelerado B, ardiente B, discreto A, extravertido B, huraño A, cauteloso B, insociable A, huidizo B, vehemente B, apasionado B, expresivo B, adusto A, intenso B, cohibido A, corto B, extrovertido B, cauto B, tímido A, guardado B, conversador B, esquivo B, reservado B, tratable B, sencillo B, solitario A, locuaz B, comunicativo B, abierto B, retraído A, misántropo A, elocuente B, caluroso B, sociable B, cerrado A, efusivo B, vergonzoso A, expansivo B",03/10/26
+19,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: insociable, adusto, cerrado, esquivo, corto, expresivo, sencillo, guardado, tímido, locuaz, extravertido, introvertido, intenso, discreto, abierto, introverso, cohibido, huraño, conversador, cauto, comunicativo, vergonzoso, ardiente, apasionado, caluroso, extrovertido, huidizo, expansivo, vehemente, sociable, cauteloso, efusivo, pasional, retraído, acelerado, reservado, elocuente, misántropo, tratable, solitario","Aquí te dejo la lista de adjetivos con los escritores correspondientes:
+
+1. insociable - A, B
+2. adusto - A
+3. cerrado - B
+4. esquivo - A
+5. corto - B
+6. expresivo - A
+7. sencillo - B
+8. guardado - A
+9. tímido - B
+10. locuaz - A
+11. extravertido - B
+12. introvertido - A
+13. intenso - B
+14. discreto - A
+15. abierto - B
+16. introverso - A
+17. cohibido - B
+18. huraño - A
+19. conversador - B
+20. cauto - A
+21. comunicativo - B
+22. vergonzoso - A
+23. ardiente - B
+24. apasionado - A
+25. caluroso - B
+26. extrovertido - A
+27. huidizo - B
+28. expansivo - A
+29. vehemente - B
+30. sociable - A
+31. cauteloso - B
+32. efusivo - A
+33. pasional - B
+34. retraído - A
+35. acelerado - B
+36. reservado - A
+37. elocuente - B
+38. misántropo - A
+39. tratable - B
+40. solitario - A
+
+Nota: Algunos adjetivos pueden corresponder a ambos escritores dependiendo del contexto y la interpretación, pero aquí se ha realizado la asignación más común.",03/10/26
+20,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: solitario, insociable, introvertido, conversador, corto, apasionado, cauteloso, comunicativo, sociable, efusivo, huidizo, tímido, pasional, introverso, esquivo, vehemente, tratable, sencillo, adusto, retraído, cohibido, intenso, elocuente, reservado, caluroso, cauto, expresivo, discreto, misántropo, abierto, guardado, expansivo, locuaz, extrovertido, extravertido, acelerado, vergonzoso, huraño, ardiente, cerrado","Aquí te dejo la lista de adjetivos con el escritor correspondiente:
+
+1. Solitario - A, B
+2. Insociable - A, B
+3. Introvertido - A, B
+4. Conversador - B
+5. Corto - A, B
+6. Apasionado - B
+7. Cauteloso - A, B
+8. Comunicativo - B
+9. Sociable - B
+10. Efusivo - B
+11. Huidizo - A, B
+12. Tímido - A, B
+13. Pasional - B
+14. Introverso - A, B
+15. Esquivo - A, B
+16. Vehemente - B
+17. Tratable - A, B
+18. Sencillo - A, B
+19. Adusto - A
+20. Retraído - A, B
+21. Cohibido - A
+22. Intenso - B
+23. Elocuente - B
+24. Reservado - A, B
+25. Caluroso - B
+26. Cautivo - A, B
+27. Expresivo - B
+28. Discreto - B
+29. Misántropo - A
+30. Abierto - B
+31. Guardado - A
+32. Expansivo - B
+33. Locuaz - B
+34. Extrovertido - B
+35. Extravertido - B
+36. Acelerado - B
+37. Vergonzoso - A
+38. Huraño - A
+39. Ardiente - B
+40. Cerrado - A",03/10/26
+21,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: vehemente, cauto, tratable, expansivo, apasionado, sencillo, vergonzoso, misántropo, corto, acelerado, introverso, extrovertido, cohibido, huidizo, solitario, abierto, pasional, locuaz, discreto, efusivo, adusto, conversador, elocuente, insociable, intenso, cerrado, reservado, introvertido, expresivo, esquivo, tímido, guardado, comunicativo, retraído, cauteloso, caluroso, sociable, ardiente, extravertido, huraño","Aquí te presento la lista de adjetivos con el escritor correspondiente:
+
+1. vehemente - A, B
+2. cauto - A, B
+3. tratable - A, B
+4. expansivo - B, A
+5. apasionado - A, B
+6. sencillo - A, B
+7. vergonzoso - B, A
+8. misántropo - B, A
+9. corto - B, A
+10. acelerado - B, A
+11. introverso - B, A
 12. extrovertido - A, B
-13. conversador - A, B
-14. adusto - A, B
-15. comunicativo - A, B
-16. insociable - A, B
-17. extravertido - A, B
-18. acelerado - A, B
+13. cohibido - B, A
+14. huidizo - B, A
+15. solitario - B, A
+16. abierto - A, B
+17. pasional - A, B
+18. locuaz - A, B
+19. discreto - A, B
+20. efusivo - B, A
+21. adusto - A, B
+22. conversador - A, B
+23. elocuente - A, B
+24. insociable - B, A
+25. intenso - A, B
+26. cerrado - A, B
+27. reservado - A, B
+28. introvertido - A, B
+29. expresivo - A, B
+30. esquivo - A, B
+31. tímido - A, B
+32. guardado - A, B
+33. comunicativo - A, B
+34. retraído - B, A
+35. cauteloso - B, A
+36. caluroso - B, A
+37. sociable - A, B
+38. ardiente - A, B
+39. extravertido - B, A
+40. huraño - B, A",03/10/26
+22,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: pasional, discreto, misántropo, introverso, cauteloso, sencillo, guardado, abierto, adusto, cerrado, reservado, huidizo, conversador, introvertido, acelerado, extravertido, expansivo, locuaz, intenso, cohibido, huraño, sociable, vergonzoso, efusivo, tratable, vehemente, expresivo, extrovertido, corto, cauto, caluroso, esquivo, comunicativo, elocuente, tímido, apasionado, ardiente, retraído, solitario, insociable","Aquí te dejo la lista con el escritor correspondiente a cada adjetivo:
+
+1. Pasional - A
+2. Discreto - B
+3. Misántropo - A
+4. Introverso - B
+5. Cauteloso - A
+6. Sencillo - B
+7. Guardado - A
+8. Abierto - B
+9. Adusto - A
+10. Cerrado - B
+11. Reservado - A
+12. Huidizo - B
+13. Conversador - A
+14. Introvertido - B
+15. Acelerado - A
+16. Extravertido - B
+17. Expansivo - A
+18. Locuaz - B
+19. Intenso - A
+20. Cohibido - B
+21. Huraño - A
+22. Sociable - B
+23. Vergonzoso - A
+24. Efusivo - B
+25. Tratable - A
+26. Vehemente - B
+27. Expresivo - A
+28. Extrovertido - B
+29. Corto - A
+30. Cauta - B
+31. Caluroso - A
+32. Esquivo - B
+33. Comunicativo - A
+34. Elocuente - B
+35. Tímido - A
+36. Apasionado - B
+37. Ardiente - A
+38. Retraído - B
+39. Solitario - A
+40. Insociable - B",03/10/26
+23,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: caluroso, extrovertido, apasionado, sencillo, esquivo, locuaz, sociable, intenso, elocuente, discreto, huidizo, corto, cauteloso, insociable, huraño, solitario, introvertido, vergonzoso, tratable, retraído, misántropo, cauto, cohibido, adusto, expresivo, extravertido, vehemente, expansivo, conversador, abierto, pasional, reservado, comunicativo, cerrado, introverso, tímido, guardado, ardiente, acelerado, efusivo","Aquí te dejo la lista con el escritor asociado a cada adjetivo:
+
+1. caluroso - A, B
+2. extrovertido - B, A
+3. apasionado - A, B
+4. sencillo - A, B
+5. esquivo - A, B
+6. locuaz - B, A
+7. sociable - B, A
+8. intenso - A, B
+9. elocuente - A, B
+10. discreto - A, B
+11. huidizo - A, B
+12. corto - A, B
+13. cauteloso - A, B
+14. insociable - B, A
+15. huraño - A, B
+16. solitario - B, A
+17. introvertido - B, A
+18. vergonzoso - A, B
+19. tratable - A, B
+20. retraído - B, A
+21. misántropo - A, B
+22. cauto - A, B
+23. cohibido - B, A
+24. adusto - A, B
+25. expresivo - A, B
+26. extravertido - B, A
+27. vehemente - A, B
+28. expansivo - B, A
+29. conversador - B, A
+30. abierto - A, B
+31. pasional - A, B
+32. reservado - B, A
+33. comunicativo - B, A
+34. cerrado - A, B
+35. introverso - B, A
+36. tímido - B, A
+37. guardado - A, B
+38. ardiente - A, B
+39. acelerado - A, B
+40. efusivo - B, A",03/10/26
+24,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: discreto, sencillo, extrovertido, misántropo, intenso, pasional, cerrado, caluroso, locuaz, adusto, insociable, reservado, extravertido, abierto, acelerado, vehemente, vergonzoso, huidizo, introvertido, esquivo, expresivo, tratable, elocuente, corto, ardiente, sociable, cauto, solitario, introverso, cauteloso, retraído, conversador, huraño, tímido, efusivo, guardado, apasionado, expansivo, cohibido, comunicativo","Aquí tienes la lista de adjetivos con los escritores correspondientes:
+
+1. discreto - A, B
+2. sencillo - A, B
+3. extrovertido - B, A
+4. misántropo - A, B
+5. intenso - A, B
+6. pasional - A, B
+7. cerrado - A, B
+8. caluroso - B, A
+9. locuaz - B, A
+10. adusto - A, B
+11. insociable - A, B
+12. reservado - A, B
+13. extravertido - B, A
+14. abierto - A, B
+15. acelerado - B, A
+16. vehemente - A, B
+17. vergonzoso - A, B
+18. huidizo - A, B
+19. introvertido - B, A
+20. esquivo - A, B
+21. expresivo - B, A
+22. tratable - A, B
+23. elocuente - B, A
+24. corto - B, A
+25. ardiente - A, B
+26. sociable - B, A
+27. cauto - A, B
+28. solitario - A, B
+29. introverso - B, A
+30. cauteloso - A, B
+31. retraído - A, B
+32. conversador - B, A
+33. huraño - A, B
+34. tímido - A, B
+35. efusivo - B, A
+36. guardado - A, B
+37. apasionado - A, B
+38. expansivo - B, A
+39. cohibido - A, B
+40. comunicativo - B, A",03/10/26
+25,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauto, vehemente, expansivo, intenso, cohibido, retraído, locuaz, caluroso, ardiente, vergonzoso, comunicativo, introvertido, conversador, extravertido, discreto, efusivo, pasional, insociable, tratable, cauteloso, huraño, esquivo, apasionado, misántropo, adusto, extrovertido, acelerado, solitario, tímido, expresivo, sencillo, sociable, abierto, cerrado, reservado, elocuente, huidizo, corto, introverso, guardado","Aquí tienes la lista con los escritores correspondientes a cada adjetivo:
+
+1. cauto - A, B
+2. vehemente - A
+3. expansivo - B
+4. intenso - A
+5. cohibido - B
+6. retraído - A
+7. locuaz - B
+8. caluroso - A
+9. ardiente - B
+10. vergonzoso - A
+11. comunicativo - B
+12. introvertido - A
+13. conversador - B
+14. extravertido - A
+15. discreto - B
+16. efusivo - A
+17. pasional - B
+18. insociable - A
+19. tratable - B
+20. cauteloso - A
+21. huraño - B
+22. esquivo - A
+23. apasionado - B
+24. misántropo - A
+25. adusto - B
+26. extrovertido - A
+27. acelerado - B
+28. solitario - A
+29. tímido - B
+30. expresivo - A
+31. sencillo - B
+32. sociable - A
+33. abierto - B
+34. cerrado - A
+35. reservado - B
+36. elocuente - A
+37. huidizo - B
+38. corto - A
+39. introverso - B
+40. guardado - A",03/10/26
+26,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: sencillo, discreto, misántropo, ardiente, adusto, efusivo, apasionado, elocuente, intenso, tratable, vergonzoso, vehemente, retraído, corto, cauteloso, cohibido, introverso, cerrado, reservado, introvertido, abierto, caluroso, locuaz, expansivo, solitario, huraño, expresivo, cauto, guardado, pasional, extravertido, conversador, insociable, extrovertido, comunicativo, tímido, sociable, esquivo, huidizo, acelerado","Aquí te dejo la lista con los escritores correspondientes:
+
+1. sencillo - A, B
+2. discreto - B, A
+3. misántropo - A, B
+4. ardiente - B, A
+5. adusto - B, A
+6. efusivo - A, B
+7. apasionado - A, B
+8. elocuente - B, A
+9. intenso - A, B
+10. tratable - A, B
+11. vergonzoso - A, B
+12. vehemente - B, A
+13. retraído - A, B
+14. corto - A, B
+15. cauteloso - B, A
+16. cohibido - A, B
+17. introverso - A, B
+18. cerrado - B, A
+19. reservado - A, B
+20. introvertido - A, B
+21. abierto - B, A
+22. caluroso - B, A
+23. locuaz - A, B
+24. expansivo - A, B
+25. solitario - A, B
+26. huraño - A, B
+27. expresivo - A, B
+28. cauto - B, A
+29. guardado - A, B
+30. pasional - A, B
+31. extravertido - B, A
+32. conversador - B, A
+33. insociable - A, B
+34. extrovertido - B, A
+35. comunicativo - B, A
+36. tímido - A, B
+37. sociable - B, A
+38. esquivo - A, B
+39. huidizo - A, B
+40. acelerado - B, A",03/10/26
+27,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: introvertido, abierto, sociable, comunicativo, expresivo, tímido, expansivo, solitario, huidizo, pasional, cauto, efusivo, acelerado, extrovertido, huraño, apasionado, locuaz, elocuente, discreto, sencillo, cohibido, guardado, vehemente, cauteloso, tratable, esquivo, retraído, ardiente, adusto, caluroso, insociable, reservado, introverso, intenso, misántropo, cerrado, corto, conversador, extravertido, vergonzoso","Introvertido A, sociable B, comunicativo A, expresivo B, tímido A, expansivo B, solitario A, huidizo B, pasional A, cauto B, efusivo A, acelerado B, extrovertido A, huraño B, apasionado A, locuaz B, elocuente A, discreto B, sencillo A, cohibido B, guardado A, vehemente B, cauteloso A, tratable B, esquivo A, retraído B, ardiente A, adusto B, caluroso A, insociable B, reservado A, introverso B, intenso A, misántropo B, cerrado A, corto B, conversador A, extravertido B, vergonzoso A.",03/10/26
+28,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: introverso, extrovertido, retraído, introvertido, huidizo, sociable, abierto, comunicativo, intenso, extravertido, guardado, elocuente, cauteloso, vehemente, apasionado, expresivo, corto, tratable, cerrado, vergonzoso, esquivo, ardiente, cauto, reservado, huraño, pasional, misántropo, solitario, locuaz, efusivo, acelerado, conversador, adusto, tímido, caluroso, sencillo, discreto, expansivo, insociable, cohibido","Aquí te presento la lista de adjetivos con el escritor correspondiente:
+
+1. introverso - A, B
+2. extrovertido - B, A
+3. retraído - A, B
+4. introvertido - B, A
+5. huidizo - A, B
+6. sociable - B, A
+7. abierto - A, B
+8. comunicativo - A, B
+9. intenso - A, B
+10. extravertido - B, A
+11. guardado - A, B
+12. elocuente - B, A
+13. cauteloso - A, B
+14. vehemente - A, B
+15. apasionado - A, B
+16. expresivo - A, B
+17. corto - A, B
+18. tratable - A, B
+19. cerrado - B, A
+20. vergonzoso - A, B
+21. esquivo - A, B
+22. ardiente - A, B
+23. cauto - B, A
+24. reservado - A, B
+25. huraño - A, B
+26. pasional - A, B
+27. misántropo - A, B
+28. solitario - A, B
+29. locuaz - B, A
+30. efusivo - B, A
+31. acelerado - A, B
+32. conversador - B, A
+33. adusto - B, A
+34. tímido - A, B
+35. caluroso - B, A
+36. sencillo - A, B
+37. discreto - B, A
+38. expansivo - B, A
+39. insociable - A, B
+40. cohibido - A, B",03/10/26
+29,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: reservado, guardado, ardiente, sencillo, huidizo, abierto, acelerado, elocuente, vergonzoso, pasional, tímido, sociable, introvertido, intenso, esquivo, discreto, apasionado, locuaz, adusto, huraño, cohibido, expresivo, conversador, retraído, introverso, insociable, comunicativo, cauto, extrovertido, efusivo, expansivo, caluroso, vehemente, cauteloso, misántropo, corto, tratable, cerrado, extravertido, solitario","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
+
+1. reservado - A, B
+2. guardado - A, B
+3. ardiente - B, A
+4. sencillo - A, B
+5. huidizo - B, A
+6. abierto - B, A
+7. acelerado - A, B
+8. elocuente - B, A
+9. vergonzoso - A, B
+10. pasional - B, A
+11. tímido - A, B
+12. sociable - B, A
+13. introvertido - B, A
+14. intenso - A, B
+15. esquivo - A, B
+16. discreto - A, B
+17. apasionado - B, A
+18. locuaz - B, A
+19. adusto - A, B
+20. huraño - A, B
+21. cohibido - B, A
+22. expresivo - B, A
+23. conversador - B, A
+24. retraído - B, A
+25. introverso - B, A
+26. insociable - A, B
+27. comunicativo - B, A
+28. cauto - A, B
+29. extrovertido - A, B
+30. efusivo - A, B
+31. expansivo - A, B
+32. caluroso - B, A
+33. vehemente - B, A
+34. cauteloso - A, B
+35. misántropo - A, B
+36. corto - A, B
+37. tratable - B, A
+38. cerrado - A, B
+39. extravertido - A, B
+40. solitario - B, A",03/10/26
+30,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: sociable, huraño, vergonzoso, elocuente, expresivo, retraído, locuaz, tratable, expansivo, extravertido, introvertido, extrovertido, apasionado, introverso, reservado, solitario, misántropo, esquivo, insociable, adusto, pasional, vehemente, acelerado, comunicativo, caluroso, abierto, conversador, cauteloso, discreto, ardiente, intenso, corto, cauto, cerrado, huidizo, efusivo, tímido, cohibido, sencillo, guardado","Aquí te dejo la lista con los escritores A y B:
+
+1. sociable - A, B
+2. huraño - B, A
+3. vergonzoso - A, B
+4. elocuente - B, A
+5. expresivo - A, B
+6. retraído - A, B
+7. locuaz - B, A
+8. tratable - A, B
+9. expansivo - B, A
+10. extravertido - B, A
+11. introvertido - A, B
+12. extrovertido - B, A
+13. apasionado - A, B
+14. introverso - A, B
+15. reservado - A, B
+16. solitario - B, A
+17. misántropo - B, A
+18. esquivo - A, B
+19. insociable - B, A
+20. adusto - B, A
+21. pasional - A, B
+22. vehemente - B, A
+23. acelerado - B, A
+24. comunicativo - B, A
+25. caluroso - A, B
+26. abierto - A, B
+27. conversador - A, B
+28. cauteloso - B, A
+29. discreto - A, B
+30. ardiente - A, B
+31. intenso - B, A
+32. corto - A, B
+33. cauto - B, A
+34. cerrado - B, A
+35. huidizo - A, B
+36. efusivo - A, B
+37. tímido - A, B
+38. cohibido - A, B
+39. sencillo - A, B
+40. guardado - A, B",03/10/26
+31,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: guardado, cauteloso, vergonzoso, efusivo, expansivo, cauto, extravertido, comunicativo, esquivo, retraído, huidizo, corto, elocuente, huraño, adusto, acelerado, extrovertido, reservado, solitario, cerrado, introvertido, cohibido, vehemente, intenso, caluroso, tímido, pasional, misántropo, abierto, expresivo, locuaz, tratable, discreto, sencillo, insociable, sociable, introverso, apasionado, conversador, ardiente","Aquí te dejo la lista con los escritores asociados a cada adjetivo:
+
+1. Guardado - A, B
+2. Cauteloso - A, B
+3. Vergonzoso - A, B
+4. Efusivo - B, A
+5. Expansivo - B, A
+6. Cauto - A, B
+7. Extravertido - B, A
+8. Comunicativo - A, B
+9. Esquivo - A, B
+10. Retraído - A, B
+11. Huidizo - A, B
+12. Corto - A, B
+13. Elocuente - A, B
+14. Huraño - A, B
+15. Adusto - A, B
+16. Acelerado - B, A
+17. Extrovertido - B, A
+18. Reservado - A, B
+19. Solitario - A, B
+20. Cerrado - A, B
+21. Introvertido - B, A
+22. Cohibido - A, B
+23. Vehemente - B, A
+24. Intenso - A, B
+25. Caluroso - B, A
+26. Tímido - A, B
+27. Pasional - B, A
+28. Misántropo - A, B
+29. Abierto - B, A
+30. Expresivo - B, A
+31. Locuaz - B, A
+32. Tratable - A, B
+33. Discreto - A, B
+34. Sencillo - A, B
+35. Insociable - A, B
+36. Sociable - B, A
+37. Introverso - B, A
+38. Apasionado - B, A
+39. Conversador - B, A
+40. Ardiente - B, A",03/10/26
+32,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: vehemente, insociable, sencillo, cauteloso, pasional, introvertido, adusto, efusivo, intenso, comunicativo, conversador, misántropo, cauto, extravertido, tímido, corto, discreto, guardado, introverso, abierto, cerrado, acelerado, ardiente, huraño, apasionado, esquivo, elocuente, expansivo, expresivo, locuaz, tratable, caluroso, retraído, huidizo, solitario, extrovertido, vergonzoso, cohibido, reservado, sociable","Aquí te dejo la lista con los escritores correspondientes:
+
+1. vehemente - A, B
+2. insociable - A, B
+3. sencillo - A, B
+4. cauteloso - A, B
+5. pasional - A, B
+6. introvertido - A, B
+7. adusto - A, B
+8. efusivo - A, B
+9. intenso - A, B
+10. comunicativo - B, A
+11. conversador - B, A
+12. misántropo - A, B
+13. cauto - A, B
+14. extravertido - A, B
+15. tímido - A, B
+16. corto - B, A
+17. discreto - A, B
+18. guardado - A, B
+19. introverso - A, B
+20. abierto - B, A
+21. cerrado - A, B
+22. acelerado - B, A
+23. ardiente - A, B
+24. huraño - A, B
+25. apasionado - A, B
+26. esquivo - A, B
+27. elocuente - B, A
+28. expansivo - B, A
+29. expresivo - B, A
+30. locuaz - B, A
+31. tratable - B, A
+32. caluroso - B, A
+33. retraído - A, B
+34. huidizo - A, B
+35. solitario - A, B
+36. extrovertido - A, B
+37. vergonzoso - A, B
+38. cohibido - A, B
+39. reservado - A, B
+40. sociable - A, B",03/10/26
+33,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: ardiente, discreto, cauto, elocuente, retraído, huidizo, extrovertido, sencillo, cohibido, esquivo, introvertido, tímido, expresivo, vehemente, huraño, insociable, guardado, sociable, corto, adusto, conversador, intenso, misántropo, pasional, efusivo, solitario, comunicativo, locuaz, apasionado, extravertido, reservado, introverso, caluroso, vergonzoso, cauteloso, acelerado, tratable, abierto, expansivo, cerrado","Aquí te presento la lista de adjetivos con los escritores correspondientes:
+
+1. Ardiente - B, A
+2. Discreto - A, B
+3. Cauto - A, B
+4. Elocuente - A, B
+5. Retraído - A, B
+6. Huidizo - B, A
+7. Extrovertido - B, A
+8. Sencillo - A, B
+9. Cohibido - A, B
+10. Esquivo - A, B
+11. Introvertido - B, A
+12. Tímido - A, B
+13. Expresivo - A, B
+14. Vehemente - A, B
+15. Huraño - A, B
+16. Insociable - A, B
+17. Guardado - A, B
+18. Sociable - B, A
+19. Corto - A, B
+20. Adusto - A, B
+21. Conversador - B, A
+22. Intenso - A, B
+23. Misántropo - A, B
+24. Pasional - B, A
+25. Efusivo - B, A
+26. Solitario - A, B
+27. Comunicativo - B, A
+28. Locuaz - B, A
+29. Apasionado - B, A
+30. Extravertido - B, A
+31. Reservado - A, B
+32. Introverso - B, A
+33. Caluroso - A, B
+34. Vergonzoso - A, B
+35. Cauteloso - A, B
+36. Acelerado - A, B
+37. Tratable - B, A
+38. Abierto - B, A
+39. Expansivo - B, A
+40. Cerrado - A, B",03/10/26
+34,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: pasional, misántropo, apasionado, discreto, elocuente, esquivo, vergonzoso, extrovertido, conversador, sociable, intenso, extravertido, comunicativo, cerrado, cauteloso, sencillo, expansivo, expresivo, cauto, tímido, caluroso, guardado, insociable, cohibido, efusivo, abierto, reservado, ardiente, tratable, huidizo, solitario, locuaz, adusto, introvertido, corto, vehemente, acelerado, introverso, huraño, retraído","Aquí te dejo la lista con el escritor A (en español mexicano) y el escritor B (en español peninsular) asociado a cada adjetivo:
+
+1. Pasional - A, B
+2. Misántropo - A, B
+3. Apasionado - A, B
+4. Discreto - B, A
+5. Elocuente - B, A
+6. Esquivo - A, B
+7. Vergonzoso - A, B
+8. Extrovertido - B, A
+9. Conversador - B, A
+10. Sociable - B, A
+11. Intenso - A, B
+12. Extravertido - B, A
+13. Comunicativo - B, A
+14. Cerrado - A, B
+15. Cauteloso - A, B
+16. Sencillo - B, A
+17. Expansivo - A, B
+18. Expresivo - A, B
+19. Cauteloso - A, B
+20. Tímido - A, B
+21. Caluroso - B, A
+22. Guardado - A, B
+23. Insociable - A, B
+24. Cohibido - A, B
+25. Efusivo - B, A
+26. Abierto - B, A
+27. Reservado - B, A
+28. Ardiente - A, B
+29. Tratable - B, A
+30. Huidizo - A, B
+31. Solitario - A, B
+32. Locuaz - B, A
+33. Adusto - A, B
+34. Introvertido - A, B
+35. Corto - B, A
+36. Vehemente - A, B
+37. Acelerado - B, A
+38. Introverso - A, B
+39. Huraño - A, B
+40. Retraído - A, B",03/10/26
+35,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: sociable, huidizo, cohibido, expresivo, guardado, sencillo, abierto, pasional, conversador, solitario, introvertido, locuaz, acelerado, introverso, cerrado, caluroso, comunicativo, insociable, huraño, intenso, elocuente, vehemente, extravertido, efusivo, misántropo, cauto, vergonzoso, discreto, esquivo, expansivo, ardiente, cauteloso, adusto, reservado, apasionado, retraído, extrovertido, corto, tímido, tratable","Aquí te dejo la lista con los escritores A y B:
+
+1. sociable - A, B
+2. huidizo - B, A
+3. cohibido - A, B
+4. expresivo - B, A
+5. guardado - A, B
+6. sencillo - A, B
+7. abierto - B, A
+8. pasional - A, B
+9. conversador - B, A
+10. solitario - A, B
+11. introvertido - B, A
+12. locuaz - A, B
+13. acelerado - A, B
+14. introverso - B, A
+15. cerrado - A, B
+16. caluroso - B, A
+17. comunicativo - A, B
+18. insociable - A, B
 19. huraño - A, B
-20. retraído - A, B
-21. huidizo - A, B
-22. cerrado - A, B
-23. vergonzoso - A, B
-24. sencillo - A, B
-25. sociable - A, B
-26. ca",03/05/26
+20. intenso - B, A
+21. elocuente - A, B
+22. vehemente - B, A
+23. extravertido - A, B
+24. efusivo - B, A
+25. misántropo - A, B
+26. cauto - B, A
+27. vergonzoso - A, B
+28. discreto - B, A
+29. esquivo - A, B
+30. expansivo - B, A
+31. ardiente - A, B
+32. cauteloso - B, A
+33. adusto - A, B
+34. reservado - B, A
+35. apasionado - A, B
+36. retraído - A, B
+37. extrovertido - B, A
+38. corto - A, B
+39. tímido - B, A
+40. tratable - A, B",03/10/26
+36,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: ardiente, retraído, misántropo, extravertido, introvertido, comunicativo, vehemente, huidizo, esquivo, insociable, tratable, extrovertido, apasionado, efusivo, expresivo, guardado, discreto, vergonzoso, solitario, adusto, sencillo, reservado, cauto, cohibido, cauteloso, locuaz, expansivo, cerrado, abierto, acelerado, huraño, elocuente, sociable, caluroso, tímido, pasional, conversador, intenso, introverso, corto","Aquí te presento la lista con los escritores A y B:
+
+1. Ardiente - Carlos Fuentes, Antonio Muñoz Molina,
+2. Retraído - Carlos Fuentes, Camilo José Cela,
+3. Misántropo - Carlos Fuentes, Miguel Ángel Asturias,
+4. Extravertido - Carlos Fuentes, Juan Gómez-Jurado,
+5. Introvertido - Carlos Fuentes, Juan José Millás,
+6. Comunicativo - Carlos Fuentes, Jorge Volpi,
+7. Vehemente - Carlos Fuentes, Juan Gómez-Jurado,
+8. Huidizo - Carlos Fuentes, Juan José Millás,
+9. Esquivo - Carlos Fuentes, Juan José Millás,
+10. Insociable - Carlos Fuentes, Juan Gómez-Jurado,
+11. Tratable - Juan José Millás, Juan Gómez-Jurado,
+12. Extrovertido - Juan Gómez-Jurado, Juan José Millás,
+13. Apasionado - Carlos Fuentes, Juan Gómez-Jurado,
+14. Efusivo - Carlos Fuentes, Juan Gómez-Jurado,
+15. Expresivo - Carlos Fuentes, Juan José Millás,
+16. Guardado - Carlos Fuentes, Juan Gómez-Jurado,
+17. Discreto - Carlos Fuentes, Juan José Millás,
+18. Vergonzoso - Carlos Fuentes, Juan Gómez-Jurado,
+19. Solitario - Carlos Fuentes, Juan José Millás,
+20. Adusto - Juan José Millás, Camilo José Cela,
+21. Sencillo - Carlos Fuentes, Juan José Millás,
+22. Reservado - Carlos Fuentes, Juan José Millás,
+23. Cautro - Juan Gómez-Jurado, Juan José Millás,
+24. Cohibido - Juan José Millás, Juan Gómez-Jurado,
+25. Cauteloso - Juan Gómez-Jurado, Juan José Millás,
+26. Locuaz - Juan Gómez-Jurado, Juan José Millás,
+27. Expansivo - Juan Gómez-Jurado, Juan José Millás,
+28. Cerrado - Carlos Fuentes, Juan Gómez-Jurado,
+29. Abierto - Carlos Fuentes, Juan José Millás,
+30. Acelerado - Carlos Fuentes, Juan Gómez-Jurado,
+31. Huraño - Juan Gómez-Jurado, Juan José Millás,
+32. Elocuente - Carlos Fuentes, Juan Gómez-Jurado,
+33. Sociable - Juan Gómez-Jurado, Juan José Millás,
+34. Caluroso - Carlos Fuentes, Juan José Millás,
+35. Tímido - Carlos Fuentes, Juan José Millás,
+36. Pasional - Carlos Fuentes, Juan Gómez-Jurado,
+37. Conversador - Carlos Fuentes, Juan Gómez-Jurado,
+38. Intenso - Carlos Fuentes, Juan Gómez-Jurado,
+39. Introverso - Carlos Fuentes, Juan José Millás,
+40. Corto - Juan José Millás, Juan Gómez-Jurado",03/10/26
+37,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: introvertido, retraído, elocuente, adusto, misántropo, locuaz, abierto, conversador, apasionado, acelerado, vehemente, discreto, caluroso, tratable, insociable, huidizo, comunicativo, vergonzoso, solitario, ardiente, huraño, extravertido, cauto, sociable, cerrado, reservado, pasional, expresivo, sencillo, extrovertido, esquivo, corto, efusivo, expansivo, guardado, intenso, cauteloso, introverso, tímido, cohibido","Aquí te dejo la lista con los escritores asignados a cada adjetivo:
+
+1. introvertido - A, B
+2. retraído - A, B
+3. elocuente - A, B
+4. adusto - A, B
+5. misántropo - A, B
+6. locuaz - A, B
+7. abierto - A, B
+8. conversador - A, B
+9. apasionado - A, B
+10. acelerado - A, B
+11. vehemente - A, B
+12. discreto - A, B
+13. caluroso - A, B
+14. tratable - A, B
+15. insociable - A, B
+16. huidizo - A, B
+17. comunicativo - A, B
+18. vergonzoso - A, B
+19. solitario - A, B
+20. ardiente - A, B
+21. huraño - A, B
+22. extravertido - A, B
+23. cauto - A, B
+24. sociable - A, B
+25. cerrado - A, B
+26. reservado - A, B
+27. pasional - A, B
+28. expresivo - A, B
+29. sencillo - A, B
+30. extrovertido - A, B
+31. esquivo - A, B
+32. corto - A, B
+33. efusivo - A, B
+34. expansivo - A, B
+35. guardado - A, B
+36. intenso - A, B
+37. cauteloso - A, B
+38. introverso - A, B
+39. tímido - A, B
+40. cohibido - A, B",03/10/26
+38,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: solitario, vehemente, locuaz, introverso, sencillo, corto, expresivo, caluroso, intenso, extrovertido, tímido, guardado, misántropo, cauteloso, insociable, cohibido, huidizo, extravertido, efusivo, sociable, pasional, expansivo, discreto, reservado, esquivo, elocuente, vergonzoso, conversador, huraño, adusto, tratable, apasionado, cerrado, cauto, comunicativo, retraído, introvertido, abierto, acelerado, ardiente","Aquí te presento la lista de adjetivos con el escritor correspondiente:
+
+1. Solitario - A, B
+2. Vehemente - A, B
+3. Locuaz - B, A
+4. Introverso - A, B
+5. Sencillo - A, B
+6. Corto - A, B
+7. Expresivo - B, A
+8. Caluroso - A, B
+9. Intenso - A, B
+10. Extrovertido - B, A
+11. Tímido - A, B
+12. Guardado - A, B
+13. Misántropo - A, B
+14. Cauteloso - A, B
+15. Insociable - A, B
+16. Cohibido - A, B
+17. Huidizo - A, B
+18. Extravertido - B, A
+19. Efusivo - B, A
+20. Sociable - B, A
+21. Pasional - A, B
+22. Expansivo - A, B
+23. Discreto - A, B
+24. Reservado - A, B
+25. Esquivo - A, B
+26. Elocuente - B, A
+27. Vergonzoso - A, B
+28. Conversador - A, B
+29. Huraño - A, B
+30. Adusto - B, A
+31. Tratable - A, B
+32. Apasionado - A, B
+33. Cerrado - A, B
+34. Cautivo - A, B
+35. Comunicativo - B, A
+36. Retraído - A, B
+37. Introvertido - A, B
+38. Abierto - A, B
+39. Acelerado - A, B
+40. Ardiente - A, B",03/10/26
+39,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cerrado, efusivo, cauteloso, vergonzoso, discreto, pasional, insociable, locuaz, tímido, tratable, apasionado, ardiente, cohibido, huidizo, comunicativo, adusto, extrovertido, vehemente, reservado, introverso, abierto, huraño, expansivo, solitario, introvertido, cauto, caluroso, intenso, expresivo, guardado, elocuente, extravertido, sencillo, retraído, corto, sociable, acelerado, misántropo, esquivo, conversador","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+
+1. cerrado - A, B
+2. efusivo - B, A
+3. cauteloso - A, B
+4. vergonzoso - B, A
+5. discreto - A, B
+6. pasional - B, A
+7. insociable - B, A
+8. locuaz - B, A
+9. tímido - A, B
+10. tratable - A, B
+11. apasionado - B, A
+12. ardiente - B, A
+13. cohibido - A, B
+14. huidizo - B, A
+15. comunicativo - A, B
+16. adusto - A, B
+17. extrovertido - B, A
+18. vehemente - B, A
+19. reservado - A, B
+20. introverso - B, A
+21. abierto - A, B
+22. huraño - B, A
+23. expansivo - B, A
+24. solitario - B, A
+25. introvertido - A, B
+26. cauto - A, B
+27. caluroso - B, A
+28. intenso - B, A
+29. expresivo - A, B
+30. guardado - A, B
+31. elocuente - A, B
+32. extravertido - B, A
+33. sencillo - A, B
+34. retraído - B, A
+35. corto - A, B
+36. sociable - A, B
+37. acelerado - B, A
+38. misántropo - B, A
+39. esquivo - B, A
+40. conversador - A, B",03/10/26
+40,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: reservado, discreto, conversador, huraño, cauto, caluroso, corto, locuaz, esquivo, tímido, abierto, insociable, pasional, expresivo, acelerado, misántropo, elocuente, guardado, ardiente, sencillo, retraído, introvertido, efusivo, solitario, huidizo, comunicativo, tratable, introverso, intenso, extravertido, apasionado, sociable, extrovertido, adusto, vergonzoso, cohibido, vehemente, cerrado, expansivo, cauteloso","Aquí te dejo la lista con los escritores A y B:
+
+1. reservado - A, B
+2. discreto - A, B
+3. conversador - B
+4. huraño - A
+5. cauto - B
+6. caluroso - B
+7. corto - A
+8. locuaz - B
+9. esquivo - A
+10. tímido - A
+11. abierto - B
+12. insociable - A
+13. pasional - A
+14. expresivo - B
+15. acelerado - B
+16. misántropo - A
+17. elocuente - B
+18. guardado - A
+19. ardiente - A
+20. sencillo - B
+21. retraído - A
+22. introvertido - A
+23. efusivo - B
+24. solitario - A
+25. huidizo - A
+26. comunicativo - B
+27. tratable - B
+28. introverso - A
+29. intenso - B
+30. extravertido - B
+31. apasionado - A
+32. sociable - B
+33. extrovertido - B
+34. adusto - A
+35. vergonzoso - A
+36. cohibido - A
+37. vehemente - A
+38. cerrado - A
+39. expansivo - B
+40. cauteloso - A",03/10/26
+41,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: introvertido, elocuente, sencillo, caluroso, corto, locuaz, retraído, sociable, efusivo, pasional, adusto, comunicativo, ardiente, vergonzoso, esquivo, huraño, extrovertido, discreto, reservado, guardado, solitario, apasionado, vehemente, introverso, acelerado, conversador, cohibido, abierto, cerrado, insociable, expresivo, expansivo, extravertido, cauto, tratable, tímido, misántropo, cauteloso, intenso, huidizo","Aquí tienes la lista con el escritor correspondiente a cada adjetivo:
+
+1. introvertido - A, B
+2. elocuente - A, B
+3. sencillo - A, B
+4. caluroso - A, B
+5. corto - A, B
+6. locuaz - B, A
+7. retraído - A, B
+8. sociable - B, A
+9. efusivo - B, A
+10. pasional - B, A
+11. adusto - A, B
+12. comunicativo - A, B
+13. ardiente - B, A
+14. vergonzoso - A, B
+15. esquivo - A, B
+16. huraño - A, B
+17. extrovertido - B, A
+18. discreto - A, B
+19. reservado - A, B
+20. guardado - A, B
+21. solitario - B, A
+22. apasionado - B, A
+23. vehemente - B, A
+24. introverso - A, B
+25. acelerado - B, A
+26. conversador - B, A
+27. cohibido - A, B
+28. abierto - B, A
+29. cerrado - A, B
+30. insociable - A, B
+31. expresivo - B, A
+32. expansivo - B, A
+33. extravertido - B, A
+34. cauto - A, B
+35. tratable - A, B
+36. tímido - A, B
+37. misántropo - A, B
+38. cauteloso - A, B
+39. intenso - B, A
+40. huidizo - B, A",03/10/26
+42,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: huraño, introvertido, guardado, apasionado, conversador, insociable, sociable, cauto, cauteloso, corto, adusto, ardiente, efusivo, vergonzoso, intenso, tímido, esquivo, discreto, huidizo, cerrado, cohibido, misántropo, elocuente, comunicativo, sencillo, expresivo, reservado, tratable, caluroso, locuaz, solitario, pasional, retraído, expansivo, introverso, acelerado, vehemente, extrovertido, extravertido, abierto","Aquí tienes la lista con los escritores seleccionados:
+
+huraño - A, B
+introvertido - A
+guardado - A
+apasionado - B
+conversador - B
+insociable - A
+sociable - B
+cauto - B
+cauteloso - B
+corto - B
+adusto - A
+ardiente - B
+efusivo - B
+vergonzoso - A
+intenso - B
+tímido - A
+esquivo - A
+discreto - A
+huidizo - A
+cerrado - A
+cohibido - A
+misántropo - A
+elocuente - B
+comunicativo - B
+sencillo - B
+expresivo - B
+reservado - A
+tratable - B
+caluroso - B
+locuaz - B
+solitario - A
+pasional - B
+retraído - A
+expansivo - B
+introverso - A
+acelerado - B
+vehemente - B
+extrovertido - B
+extravertido - B
+abierto - B",03/10/26
+43,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauteloso, cerrado, expresivo, sencillo, cauto, ardiente, huidizo, reservado, adusto, corto, vergonzoso, insociable, retraído, apasionado, expansivo, extrovertido, esquivo, efusivo, introverso, pasional, caluroso, huraño, abierto, cohibido, elocuente, extravertido, discreto, locuaz, comunicativo, solitario, misántropo, guardado, sociable, tratable, introvertido, vehemente, conversador, tímido, acelerado, intenso","Aquí te dejo la lista de adjetivos con los escritores A y B:
+
+1. cauteloso - A, B
+2. cerrado - A, B
+3. expresivo - A, B
+4. sencillo - A, B
+5. cauto - A, B
+6. ardiente - B, A
+7. huidizo - B, A
+8. reservado - A, B
+9. adusto - A, B
+10. corto - A, B
+11. vergonzoso - A, B
+12. insociable - A, B
+13. retraído - A, B
+14. apasionado - B, A
+15. expansivo - B, A
+16. extrovertido - B, A
+17. esquivo - A, B
+18. efusivo - B, A
+19. introverso - B, A
+20. pasional - B, A
+21. caluroso - A, B
+22. huraño - A, B
+23. abierto - B, A
+24. cohibido - A, B
+25. elocuente - A, B
+26. extravertido - B, A
+27. discreto - A, B
+28. locuaz - B, A
+29. comunicativo - B, A
+30. solitario - A, B
+31. misántropo - A, B
+32. guardado - A, B
+33. sociable - B, A
+34. tratable - B, A
+35. introvertido - B, A
+36. vehemente - B, A
+37. conversador - B, A
+38. tímido - A, B
+39. acelerado - B, A
+40. intenso - B, A",03/10/26
+44,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: vehemente, solitario, extravertido, expresivo, cerrado, locuaz, comunicativo, cohibido, discreto, vergonzoso, adusto, tímido, caluroso, tratable, pasional, introverso, intenso, abierto, apasionado, esquivo, retraído, sencillo, insociable, huidizo, introvertido, corto, huraño, reservado, conversador, acelerado, guardado, extrovertido, cauteloso, efusivo, ardiente, cauto, elocuente, expansivo, sociable, misántropo","Aquí te dejo la lista con los adjetivos y los escritores correspondientes:
+
+1. vehemente - A, B
+2. solitario - A, B
+3. extravertido - B, A
+4. expresivo - A, B
+5. cerrado - A, B
+6. locuaz - B, A
+7. comunicativo - A, B
+8. cohibido - A, B
+9. discreto - A, B
+10. vergonzoso - A, B
+11. adusto - B, A
+12. tímido - A, B
+13. caluroso - B, A
+14. tratable - A, B
+15. pasional - A, B
+16. introverso - B, A
+17. intenso - A, B
+18. abierto - A, B
+19. apasionado - A, B
+20. esquivo - A, B
+21. retraído - A, B
+22. sencillo - B, A
+23. insociable - A, B
+24. huidizo - A, B
+25. introvertido - B, A
+26. corto - B, A
+27. huraño - A, B
+28. reservado - A, B
+29. conversador - B, A
+30. acelerado - B, A
+31. guardado - A, B
+32. extrovertido - B, A
+33. cauteloso - B, A
+34. efusivo - B, A
+35. ardiente - A, B
+36. cauto - B, A
+37. elocuente - A, B
+38. expansivo - B, A
+39. sociable - B, A
+40. misántropo - A, B",03/10/26
+45,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: cauto, introverso, conversador, adusto, introvertido, intenso, esquivo, huidizo, tímido, huraño, elocuente, caluroso, abierto, tratable, reservado, extravertido, expansivo, cauteloso, vehemente, acelerado, apasionado, pasional, insociable, discreto, cohibido, sencillo, extrovertido, cerrado, vergonzoso, ardiente, efusivo, locuaz, misántropo, guardado, retraído, solitario, comunicativo, corto, expresivo, sociable","Aquí tienes la lista con los escritores A y B:
+
+1. cauto - A, B
+2. introverso - A, B
+3. conversador - B, A
+4. adusto - A, B
+5. introvertido - A, B
+6. intenso - A, B
+7. esquivo - A, B
+8. huidizo - B, A
+9. tímido - A, B
+10. huraño - A, B
+11. elocuente - A, B
+12. caluroso - B, A
+13. abierto - B, A
+14. tratable - B, A
+15. reservado - A, B
+16. extravertido - B, A
+17. expansivo - B, A
+18. cauteloso - A, B
+19. vehemente - A, B
+20. acelerado - B, A
+21. apasionado - B, A
+22. pasional - B, A
+23. insociable - A, B
+24. discreto - A, B
+25. cohibido - A, B
+26. sencillo - A, B
+27. extrovertido - B, A
+28. cerrado - A, B
+29. vergonzoso - A, B
+30. ardiente - B, A
+31. efusivo - B, A
+32. locuaz - B, A
+33. misántropo - A, B
+34. guardado - A, B
+35. retraído - A, B
+36. solitario - A, B
+37. comunicativo - B, A
+38. corto - B, A
+39. expresivo - B, A
+40. sociable - B, A",03/10/26
+46,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: expansivo, vergonzoso, cohibido, insociable, vehemente, ardiente, introvertido, reservado, efusivo, extravertido, conversador, comunicativo, apasionado, tímido, corto, esquivo, cauto, retraído, guardado, cauteloso, elocuente, expresivo, abierto, locuaz, acelerado, caluroso, discreto, huidizo, tratable, intenso, adusto, pasional, sociable, huraño, solitario, introverso, cerrado, extrovertido, misántropo, sencillo","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+
+1. expansivo - A, B
+2. vergonzoso - A, B
+3. cohibido - A, B
+4. insociable - A, B
+5. vehemente - A, B
+6. ardiente - A, B
+7. introvertido - A, B
+8. reservado - A, B
+9. efusivo - A, B
+10. extravertido - A, B
+11. conversador - A, B
+12. comunicativo - A, B
+13. apasionado - A, B
+14. tímido - A, B
+15. corto - A, B
+16. esquivo - A, B
+17. cauto - A, B
+18. retraído - A, B
+19. guardado - A, B
+20. cauteloso - A, B
+21. elocuente - A, B
+22. expresivo - A, B
+23. abierto - A, B
+24. locuaz - A, B
+25. acelerado - A, B
+26. caluroso - A, B
+27. discreto - A, B
+28. huidizo - A, B
+29. tratable - A, B
+30. intenso - A, B
+31. adusto - A, B
+32. pasional - A, B
+33. sociable - A, B
+34. huraño - A, B
+35. solitario - A, B
+36. introverso - A, B
+37. cerrado - A, B
+38. extrovertido - A, B
+39. misántropo - A, B
+40. sencillo - A, B",03/10/26
+47,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: reservado, cauteloso, ardiente, abierto, pasional, cerrado, introverso, intenso, cohibido, esquivo, introvertido, sociable, sencillo, acelerado, huidizo, misántropo, discreto, guardado, expansivo, expresivo, tratable, conversador, cauto, apasionado, elocuente, insociable, efusivo, corto, tímido, caluroso, solitario, extravertido, extrovertido, adusto, vehemente, comunicativo, locuaz, retraído, huraño, vergonzoso","Aquí tienes la lista con los escritores asociados a cada adjetivo:
+
+1. reservado - A, B
+2. cauteloso - A, B
+3. ardiente - B, A
+4. abierto - A, B
+5. pasional - B, A
+6. cerrado - A, B
+7. introverso - A, B
+8. intenso - A, B
+9. cohibido - B, A
+10. esquivo - A, B
+11. introvertido - A, B
+12. sociable - B, A
+13. sencillo - A, B
+14. acelerado - B, A
+15. huidizo - A, B
+16. misántropo - A, B
+17. discreto - A, B
+18. guardado - A, B
+19. expansivo - B, A
+20. expresivo - B, A
+21. tratable - A, B
+22. conversador - B, A
+23. cauto - A, B
+24. apasionado - B, A
+25. elocuente - A, B
+26. insociable - A, B
+27. efusivo - B, A
+28. corto - A, B
+29. tímido - A, B
+30. caluroso - B, A
+31. solitario - A, B
+32. extravertido - B, A
+33. extrovertido - B, A
+34. adusto - A, B
+35. vehemente - B, A
+36. comunicativo - B, A
+37. locuaz - B, A
+38. retraído - A, B
+39. huraño - A, B
+40. vergonzoso - A, B",03/10/26
+48,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: insociable, efusivo, abierto, corto, conversador, apasionado, elocuente, comunicativo, vehemente, cauteloso, adusto, reservado, discreto, huidizo, sencillo, tímido, esquivo, locuaz, cohibido, expansivo, extravertido, misántropo, huraño, vergonzoso, solitario, acelerado, introvertido, pasional, cerrado, intenso, ardiente, tratable, retraído, caluroso, cauto, expresivo, introverso, extrovertido, sociable, guardado","Aquí te dejo la lista con el escritor A (en español mexicano) y el escritor B (en español peninsular) para cada adjetivo:
+
+1. insociable - A, B
+2. efusivo - B, A
+3. abierto - A, B
+4. corto - B, A
+5. conversador - A, B
+6. apasionado - A, B
+7. elocuente - B, A
+8. comunicativo - A, B
+9. vehemente - B, A
+10. cauteloso - A, B
+11. adusto - B, A
+12. reservado - B, A
+13. discreto - A, B
+14. huidizo - B, A
+15. sencillo - A, B
+16. tímido - A, B
+17. esquivo - B, A
+18. locuaz - A, B
+19. cohibido - B, A
+20. expansivo - A, B
+21. extravertido - B, A
+22. misántropo - A, B
+23. huraño - B, A
+24. vergonzoso - A, B
+25. solitario - A, B
+26. acelerado - B, A
+27. introvertido - A, B
+28. pasional - A, B
+29. cerrado - B, A
+30. intenso - A, B
+31. ardiente - B, A
+32. tratable - A, B
+33. retraído - B, A
+34. caluroso - A, B
+35. cauto - A, B
+36. expresivo - A, B
+37. introverso - B, A
+38. extrovertido - A, B
+39. sociable - B, A
+40. guardado - B, A",03/10/26
+49,PS,MS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español peninsular y el escritor B usa español mexicano. Pon una coma después de cada escritor. Los adjetivos son son: tratable, extrovertido, esquivo, cerrado, vehemente, tímido, cohibido, insociable, introverso, acelerado, expansivo, solitario, intenso, pasional, sociable, corto, misántropo, efusivo, locuaz, introvertido, caluroso, huidizo, extravertido, expresivo, reservado, sencillo, adusto, ardiente, guardado, discreto, huraño, cauteloso, apasionado, vergonzoso, elocuente, retraído, comunicativo, cauto, abierto, conversador","Aquí tienes la lista de adjetivos con el escritor correspondiente:
+
+1. Tratable - A, B
+2. Extrovertido - A, B
+3. Esquivo - B, A
+4. Cerrado - A, B
+5. Vehemente - B, A
+6. Tímido - A, B
+7. Cohibido - A, B
+8. Insociable - A, B
+9. Introverso - A, B
+10. Acelerado - A, B
+11. Expansivo - A, B
+12. Solitario - A, B
+13. Intenso - A, B
+14. Pasional - A, B
+15. Sociable - A, B
+16. Corto - B, A
+17. Misántropo - A, B
+18. Efusivo - B, A
+19. Locuaz - A, B
+20. Introvertido - A, B
+21. Caluroso - A, B
+22. Huidizo - A, B
+23. Extravertido - A, B
+24. Expresivo - A, B
+25. Reservado - A, B
+26. Sencillo - A, B
+27. Adusto - A, B
+28. Ardiente - B, A
+29. Guardado - A, B
+30. Discreto - A, B
+31. Huraño - A, B
+32. Cauteloso - A, B
+33. Apasionado - A, B
+34. Vergonzoso - A, B
+35. Elocuente - A, B
+36. Retraído - A, B
+37. Comunicativo - A, B
+38. Cauteloso - A, B
+39. Abierto - A, B
+40. Conversador - A, B",03/10/26
+50,MS,PS,"Aquí tienes una lista de adjetivos. Por cada adjetivos, escoge un escritor - A o B - y escríbelo junto al adjetivo sin explicación adicional.  El escritor A usa español mexicano y el escritor B usa español peninsular. Pon una coma después de cada escritor. Los adjetivos son son: insociable, vergonzoso, discreto, comunicativo, tímido, adusto, locuaz, retraído, tratable, cerrado, introvertido, abierto, introverso, solitario, efusivo, reservado, esquivo, intenso, expresivo, cauto, ardiente, apasionado, pasional, sencillo, conversador, huraño, sociable, extravertido, elocuente, cohibido, corto, acelerado, extrovertido, expansivo, vehemente, huidizo, caluroso, guardado, misántropo, cauteloso","Aquí te dejo la lista con los escritores correspondientes a cada adjetivo:
+
+1. insociable - A, B
+2. vergonzoso - A, B
+3. discreto - A, B
+4. comunicativo - B, A
+5. tímido - A, B
+6. adusto - B, A
+7. locuaz - B, A
+8. retraído - A, B
+9. tratable - B, A
+10. cerrado - A, B
+11. introvertido - A, B
+12. abierto - B, A
+13. introverso - A, B
+14. solitario - A, B
+15. efusivo - B, A
+16. reservado - A, B
+17. esquivo - A, B
+18. intenso - A, B
+19. expresivo - B, A
+20. cauto - A, B
+21. ardiente - B, A
+22. apasionado - B, A
+23. pasional - B, A
+24. sencillo - B, A
+25. conversador - B, A
+26. huraño - A, B
+27. sociable - B, A
+28. extravertido - B, A
+29. elocuente - B, A
+30. cohibido - A, B
+31. corto - B, A
+32. acelerado - B, A
+33. extrovertido - B, A
+34. expansivo - B, A
+35. vehemente - B, A
+36. huidizo - A, B
+37. caluroso - B, A
+38. guardado - A, B
+39. misántropo - A, B
+40. cauteloso - A, B",03/10/26
