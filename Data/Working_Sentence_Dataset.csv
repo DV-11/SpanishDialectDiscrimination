@@ -50,7 +50,7 @@ Sentence_ID,Text ID,Line,Speaker,Raw,PS,PS_Check,PS_Note,MS,MS_Check,MS_Note,Eng
 ,GRAN_M21_046,1,,yo me quedaba aquí haciendo los deberes,"Yo me quedaba aquí, haciendo los deberes",,,"Yo me quedaba aquí, haciendo la tarea",,,"I'd stay here, doing homework",Lexical
 ,GRAN_M21_046,1,,a mí la verdad es que muy bien no se me ha dado el colegio,A mí la verdad es que no se me ha dado muy bien el colegio,,,A mí la verdad es que no se me dió muy bien la escuela,X,"Se podria decir la verdad pero tambien se usa mucho ""la neta"" en mexico","Truth is, I was not very good at school",Both
 ,GRAN_M21_046,3,,mi hermano pues ya él / como a él lo que le gustaba era conducir,A mi hermano le gustaba conducir ,,,A mi hermano le gustaba manejar,,,My brother liked to drive,Lexical
-,GRAN_M21_046,"(6,7)",,cuéntame 6 I:  recuerdo 7 E: cómo / ¿qué  hicisteis ,cuéntame ¿Qué  hicisteis?,,,Cuéntame ¿Qué  hicieron?,,,Tell me. What did you (plural) do?,Grammar
+,GRAN_M21_046,"(6,7)",,cuéntame 6 I:  recuerdo 7 E: cómo / ¿qué  hicisteis ,Cuéntame ¿Qué hicisteis vosotros?,,,Cuéntame ¿Qué hicieron ustedes?,,,Tell me. What did you (plural) do?,Grammar
 ,GRAN_M21_046,10,,¿y las vacaciones? // a // ¿os ibais por ahí a algún sitio o dónde las pasabais?,¿Y las vacaciones? ¿Os ibais vosotros por ahí a algún sitio o dónde las pasabais?,,,¿Y las vacaciones? ¿Se iban ustedes por ahí a algún sitio o dónde las pasaban?,X,"""o a donde fueron?""",And holidays? Would you go somewhere or where would you spend them? ,Grammar
 ,GRAN_M21_046,10,,como mi padre no ha tenido coche hasta // ya bastante mayor / pues / lo típico / coger el autobús a las seis de la  mañana,"Como mi padre no ha tenido coche hasta ya bastante mayor, pues cogíamos el autobús a las seis de la mañana",,,"Como mi padre no tuvo carro hasta ya bastante mayor, pues tomabamos el camión a las seis de la mañana",X,"""Como mi papa no tuvo carro hasta que era bastante mayor, nos ibamos en camion a las seis de la mañana""","Since my father didn't have a car untill he was quite old, we'd take the bus at six in the morning",Both
 ,GRAN_M21_046,11,,hoy en día coges el coche y en dos minutos estás allí,Hoy en día coges el coche y en dos minutos estás allí,,,Hoy en día agarras el carro y en dos minutos estás allí,,,"Nowdays, you take the car and in two minutes you're there",Lexical
@@ -200,6 +200,7 @@ Sentence_ID,Text ID,Line,Speaker,Raw,PS,PS_Check,PS_Note,MS,MS_Check,MS_Note,Eng
 ,MONR_H13_025,"(332, 333)",B, ¿y dónde trabajas ahorita? 332 I: pues no es un lugar fijo / como músico / pues ¿pues cómo podríamos ponerle así? / es que a veces toco  en hoteles  333 E:  es independiente  333 I: porque a veces toco en hoteles / a veces en antros / a veces en / eventos privados,"¿Y dónde trabajas ahora? - Pues como músico, veces toco  en hoteles , a veces en clubs, y a veces en eventos privados",,,"¿Y dónde trabajas ahorita? - Pues como músico, veces toco  en hoteles , a veces en antros , y a veces en eventos privados",,,"And where do you work now? - Well, as a musician, sometimes I play at hotels, sometimes at clubs, and sometimes at private events",Lexical
 
 ,MONR_H13_025,347,E,¿cuántos focos ah / hay en tu casa?,¿Cuántas bombillas hay en tu casa?,,,¿Cuántos focos hay en tu casa?,,,How many lightbulbs are there in your house?,Lexical
+
 
 
 
